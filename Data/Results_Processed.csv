@@ -1,0 +1,1825 @@
+num,District Name,Full Name,Party,Percent Votes,fullname_w,party_w,percentvotes_w
+10001,Avalon,Scott Andrews,No Affiliation,17.8,Ken Ken,Liberal,55.9
+10001,Avalon,Jeannie Baldwin,NDP-New Democratic Party,14.4,Ken Ken,Liberal,55.9
+10001,Avalon,Lorraine E. Barnett,Conservative,11.1,Ken Ken,Liberal,55.9
+10001,Avalon,Krista Byrne-Puumala,Green Party,0.5,Ken Ken,Liberal,55.9
+10001,Avalon,Jennifer McCreath,Forces et Démocratie - Allier les forces de nos régions,0.2,Ken Ken,Liberal,55.9
+10001,Avalon,Ken McDonald,Liberal,55.9,Ken Ken,Liberal,55.9
+10002,Bonavista--Burin--Trinity,Jenn Brown,NDP-New Democratic Party,7.3,Judy M. Judy M.,Liberal,81.8
+10002,Bonavista--Burin--Trinity,Tyler John Colbourne,Green Party,0.8,Judy M. Judy M.,Liberal,81.8
+10002,Bonavista--Burin--Trinity,Judy M. Foote,Liberal,81.8,Judy M. Judy M.,Liberal,81.8
+10002,Bonavista--Burin--Trinity,Mike Windsor,Conservative,10.1,Judy M. Judy M.,Liberal,81.8
+10003,Coast of Bays--Central--Notre Dame,Claudette Menchenton,NDP-New Democratic Party,6.1,Scott Scott,Liberal,74.8
+10003,Coast of Bays--Central--Notre Dame,Kevin George O'Brien,Conservative,18.3,Scott Scott,Liberal,74.8
+10003,Coast of Bays--Central--Notre Dame,Elizabeth Perry,Green Party,0.8,Scott Scott,Liberal,74.8
+10003,Coast of Bays--Central--Notre Dame,Scott Simms,Liberal,74.8,Scott Scott,Liberal,74.8
+10004,Labrador,Yvonne Jones,Liberal,71.8,Yvonne Yvonne,Liberal,71.8
+10004,Labrador,Peter Penashue,Conservative,13.9,Yvonne Yvonne,Liberal,71.8
+10004,Labrador,Edward Rudkowski,NDP-New Democratic Party,14.4,Yvonne Yvonne,Liberal,71.8
+10005,Long Range Mountains,Devon Babstock,NDP-New Democratic Party,11.3,Gudie Gudie,Liberal,73.9
+10005,Long Range Mountains,Terry Cormier,Green Party,2.7,Gudie Gudie,Liberal,73.9
+10005,Long Range Mountains,Gudie Hutchings,Liberal,73.9,Gudie Gudie,Liberal,73.9
+10005,Long Range Mountains,Wayne Ruth,Conservative,12.2,Gudie Gudie,Liberal,73.9
+10006,St. John's East,Sean Burton,Communist,0.3,Nick Nick,Liberal,46.7
+10006,St. John's East,Jack Harris,NDP-New Democratic Party,45.3,Nick Nick,Liberal,46.7
+10006,St. John's East,David Anthony Peters,Green Party,1.1,Nick Nick,Liberal,46.7
+10006,St. John's East,Deanne Stapleton,Conservative,6.5,Nick Nick,Liberal,46.7
+10006,St. John's East,Nick Whalen,Liberal,46.7,Nick Nick,Liberal,46.7
+10007,St. John's South--Mount Pearl,Ryan Cleary,NDP-New Democratic Party,36.8,Seamus Seamus,Liberal,57.9
+10007,St. John's South--Mount Pearl,Marek Krol,Conservative,4.6,Seamus Seamus,Liberal,57.9
+10007,St. John's South--Mount Pearl,Jackson McLean,Green Party,0.8,Seamus Seamus,Liberal,57.9
+10007,St. John's South--Mount Pearl,Seamus O'Regan,Liberal,57.9,Seamus Seamus,Liberal,57.9
+11001,Cardigan,Billy Cann,NDP-New Democratic Party,11.1,Lawrence Lawrence,Liberal,65.0
+11001,Cardigan,Teresa Doyle,Green Party,6.4,Lawrence Lawrence,Liberal,65.0
+11001,Cardigan,Lawrence MacAulay,Liberal,65.0,Lawrence Lawrence,Liberal,65.0
+11001,Cardigan,Julius Patkai,Conservative,16.2,Lawrence Lawrence,Liberal,65.0
+11001,Cardigan,Christene Squires,Christian Heritage Party,1.3,Lawrence Lawrence,Liberal,65.0
+11002,Charlottetown,Joe Byrne,NDP-New Democratic Party,23.1,Sean Sean,Liberal,56.3
+11002,Charlottetown,Sean Casey,Liberal,56.3,Sean Sean,Liberal,56.3
+11002,Charlottetown,Ron MacMillan,Conservative,14.8,Sean Sean,Liberal,56.3
+11002,Charlottetown,Becka Viau,Green Party,5.8,Sean Sean,Liberal,56.3
+11003,Egmont,Herb Dickieson,NDP-New Democratic Party,19.2,Bobby Bobby,Liberal,49.3
+11003,Egmont,Nils Ling,Green Party,2.6,Bobby Bobby,Liberal,49.3
+11003,Egmont,Bobby Morrissey,Liberal,49.3,Bobby Bobby,Liberal,49.3
+11003,Egmont,Gail Shea,Conservative,29.0,Bobby Bobby,Liberal,49.3
+11004,Malpeque,Wayne Easter,Liberal,62.1,Wayne Wayne,Liberal,62.1
+11004,Malpeque,Leah-Jane Hayward,NDP-New Democratic Party,11.2,Wayne Wayne,Liberal,62.1
+11004,Malpeque,Lynne Lund,Green Party,9.2,Wayne Wayne,Liberal,62.1
+11004,Malpeque,Stephen Stewart,Conservative,17.6,Wayne Wayne,Liberal,62.1
+12001,Cape Breton--Canso,Maria Goretti Coady,Green Party,3.0,Rodger Rodger,Liberal,74.4
+12001,Cape Breton--Canso,Rodger Cuzner,Liberal,74.4,Rodger Rodger,Liberal,74.4
+12001,Cape Breton--Canso,Adam Daniel Rodgers,Conservative,14.4,Rodger Rodger,Liberal,74.4
+12001,Cape Breton--Canso,Michelle Smith,NDP-New Democratic Party,8.2,Rodger Rodger,Liberal,74.4
+12002,Central Nova,Fred DeLorey,Conservative,25.8,Sean Sean,Liberal,58.5
+12002,Central Nova,Sean Fraser,Liberal,58.5,Sean Sean,Liberal,58.5
+12002,Central Nova,David Hachey,Green Party,4.1,Sean Sean,Liberal,58.5
+12002,Central Nova,Ross Landry,NDP-New Democratic Party,10.2,Sean Sean,Liberal,58.5
+12002,Central Nova,Alexander J. MacKenzie,Independent,1.3,Sean Sean,Liberal,58.5
+12003,Cumberland--Colchester,Scott Armstrong,Conservative,26.5,Bill Bill,Liberal,63.7
+12003,Cumberland--Colchester,Jason Matthew Blanch,Green Party,3.6,Bill Bill,Liberal,63.7
+12003,Cumberland--Colchester,Bill Casey,Liberal,63.7,Bill Bill,Liberal,63.7
+12003,Cumberland--Colchester,Kenneth Jackson,Independent,0.4,Bill Bill,Liberal,63.7
+12003,Cumberland--Colchester,Richard Trueman Plett,Independent,0.2,Bill Bill,Liberal,63.7
+12003,Cumberland--Colchester,Wendy Robinson,NDP-New Democratic Party,5.7,Bill Bill,Liberal,63.7
+12004,Dartmouth--Cole Harbour,Robert Chisholm,NDP-New Democratic Party,24.4,Darren Darren,Liberal,58.2
+12004,Dartmouth--Cole Harbour,Jason Cole,Conservative,14.0,Darren Darren,Liberal,58.2
+12004,Dartmouth--Cole Harbour,Darren Fisher,Liberal,58.2,Darren Darren,Liberal,58.2
+12004,Dartmouth--Cole Harbour,Brynn Nheiley,Green Party,3.4,Darren Darren,Liberal,58.2
+12005,Halifax,Allan Bezanson,Marxist-Leninist,0.2,Andy Andy,Liberal,51.7
+12005,Halifax,Irvine Carvery,Conservative,8.6,Andy Andy,Liberal,51.7
+12005,Halifax,Andy Fillmore,Liberal,51.7,Andy Andy,Liberal,51.7
+12005,Halifax,Megan Leslie,NDP-New Democratic Party,36.1,Andy Andy,Liberal,51.7
+12005,Halifax,Thomas Trappenberg,Green Party,3.3,Andy Andy,Liberal,51.7
+12006,Halifax West,Joanne Hussey,NDP-New Democratic Party,11.8,Geoff Geoff,Liberal,68.6
+12006,Halifax West,Michael McGinnis,Conservative,15.6,Geoff Geoff,Liberal,68.6
+12006,Halifax West,Geoff Regan,Liberal,68.6,Geoff Geoff,Liberal,68.6
+12006,Halifax West,Richard Henryk Zurawski,Green Party,3.9,Geoff Geoff,Liberal,68.6
+12007,Kings--Hants,Scott Brison,Liberal,70.7,Scott Scott,Liberal,70.7
+12007,Kings--Hants,Megan Brown-Hodges,Rhinoceros,0.4,Scott Scott,Liberal,70.7
+12007,Kings--Hants,Will Cooper,Green Party,3.4,Scott Scott,Liberal,70.7
+12007,Kings--Hants,Hugh Curry,NDP-New Democratic Party,6.4,Scott Scott,Liberal,70.7
+12007,Kings--Hants,David Morse,Conservative,18.6,Scott Scott,Liberal,70.7
+12007,Kings--Hants,Edd Twohig,Independent,0.3,Scott Scott,Liberal,70.7
+12007,Kings--Hants,Clifford James Williams,Independent,0.2,Scott Scott,Liberal,70.7
+12008,Sackville--Preston--Chezzetcook,Mike Montgomery,Green Party,2.8,Darrell Darrell,Liberal,48.0
+12008,Sackville--Preston--Chezzetcook,Darrell Samson,Liberal,48.0,Darrell Darrell,Liberal,48.0
+12008,Sackville--Preston--Chezzetcook,Peter Stoffer,NDP-New Democratic Party,34.4,Darrell Darrell,Liberal,48.0
+12008,Sackville--Preston--Chezzetcook,Robert Thomas Strickland,Conservative,14.9,Darrell Darrell,Liberal,48.0
+12009,South Shore--St. Margarets,Ryan Barry,Communist,0.3,Bernadette Bernadette,Liberal,56.9
+12009,South Shore--St. Margarets,Richard Biggar,Green Party,2.9,Bernadette Bernadette,Liberal,56.9
+12009,South Shore--St. Margarets,Trevor Bruhm,Independent,0.5,Bernadette Bernadette,Liberal,56.9
+12009,South Shore--St. Margarets,Richard Clark,Conservative,22.6,Bernadette Bernadette,Liberal,56.9
+12009,South Shore--St. Margarets,Alex Godbold,NDP-New Democratic Party,16.8,Bernadette Bernadette,Liberal,56.9
+12009,South Shore--St. Margarets,Bernadette Jordan,Liberal,56.9,Bernadette Bernadette,Liberal,56.9
+12010,Sydney--Victoria,John Douglas Chiasson,Conservative,10.6,Mark Mark,Liberal,73.2
+12010,Sydney--Victoria,Monika Dutt,NDP-New Democratic Party,13.1,Mark Mark,Liberal,73.2
+12010,Sydney--Victoria,Mark Eyking,Liberal,73.2,Mark Mark,Liberal,73.2
+12010,Sydney--Victoria,Wayne James Hiscock,Libertarian,0.6,Mark Mark,Liberal,73.2
+12010,Sydney--Victoria,Adrianna MacKinnon,Green Party,2.5,Mark Mark,Liberal,73.2
+12011,West Nova,Greg Foster,NDP-New Democratic Party,6.8,Colin Colin,Liberal,63.0
+12011,West Nova,Colin Fraser,Liberal,63.0,Colin Colin,Liberal,63.0
+12011,West Nova,Arnold LeBlanc,Conservative,26.1,Colin Colin,Liberal,63.0
+12011,West Nova,Clark Walton,Green Party,4.2,Colin Colin,Liberal,63.0
+13001,Acadie--Bathurst,Dominique Breau,Green Party,2.3,Serge Serge,Liberal,50.7
+13001,Acadie--Bathurst,Serge Cormier,Liberal,50.7,Serge Serge,Liberal,50.7
+13001,Acadie--Bathurst,Riba Girouard-Riordon,Conservative,7.6,Serge Serge,Liberal,50.7
+13001,Acadie--Bathurst,Jason Godin,NDP-New Democratic Party,39.4,Serge Serge,Liberal,50.7
+13002,Beauséjour,Ann Bastarache,Conservative,11.4,Dominic Dominic,Liberal,69.0
+13002,Beauséjour,Hélène Boudreau,NDP-New Democratic Party,15.1,Dominic Dominic,Liberal,69.0
+13002,Beauséjour,Kevin King,Green Party,4.5,Dominic Dominic,Liberal,69.0
+13002,Beauséjour,Dominic LeBlanc,Liberal,69.0,Dominic Dominic,Liberal,69.0
+13003,Fredericton,Keith Ashfield,Conservative,28.4,Matt Matt,Liberal,49.3
+13003,Fredericton,Mary Lou Babineau,Green Party,12.4,Matt Matt,Liberal,49.3
+13003,Fredericton,Matt DeCourcey,Liberal,49.3,Matt Matt,Liberal,49.3
+13003,Fredericton,Sharon Scott-Levesque,NDP-New Democratic Party,9.9,Matt Matt,Liberal,49.3
+13004,Fundy Royal,David Raymond Amos,Independent,0.6,Alaina Alaina,Liberal,40.9
+13004,Fundy Royal,Stephanie Coburn,Green Party,3.9,Alaina Alaina,Liberal,40.9
+13004,Fundy Royal,Alaina Lockhart,Liberal,40.9,Alaina Alaina,Liberal,40.9
+13004,Fundy Royal,Jennifer McKenzie,NDP-New Democratic Party,17.5,Alaina Alaina,Liberal,40.9
+13004,Fundy Royal,Rob Moore,Conservative,37.1,Alaina Alaina,Liberal,40.9
+13005,Madawaska--Restigouche,René Arseneault,Liberal,55.7,René René,Liberal,55.7
+13005,Madawaska--Restigouche,Françoise Aubin,Green Party,1.9,René René,Liberal,55.7
+13005,Madawaska--Restigouche,Rosaire L'Italien,NDP-New Democratic Party,25.9,René René,Liberal,55.7
+13005,Madawaska--Restigouche,Bernard Valcourt,Conservative,16.5,René René,Liberal,55.7
+13006,Miramichi--Grand Lake,Matthew Ian Clark,Green Party,3.0,Pat Pat,Liberal,47.3
+13006,Miramichi--Grand Lake,Patrick Colford,NDP-New Democratic Party,15.4,Pat Pat,Liberal,47.3
+13006,Miramichi--Grand Lake,Pat Finnigan,Liberal,47.3,Pat Pat,Liberal,47.3
+13006,Miramichi--Grand Lake,Tilly O'Neill-Gordon,Conservative,34.3,Pat Pat,Liberal,47.3
+13007,Moncton--Riverview--Dieppe,Robert Goguen,Conservative,21.5,Ginette Ginette,Liberal,57.8
+13007,Moncton--Riverview--Dieppe,Luc LeBlanc,NDP-New Democratic Party,16.2,Ginette Ginette,Liberal,57.8
+13007,Moncton--Riverview--Dieppe,Luc Melanson,Green Party,4.6,Ginette Ginette,Liberal,57.8
+13007,Moncton--Riverview--Dieppe,Ginette Petitpas Taylor,Liberal,57.8,Ginette Ginette,Liberal,57.8
+13008,New Brunswick Southwest,Andrew Graham,NDP-New Democratic Party,12.6,Karen Karen,Liberal,43.9
+13008,New Brunswick Southwest,Karen Ludwig,Liberal,43.9,Karen Karen,Liberal,43.9
+13008,New Brunswick Southwest,Gayla MacIntosh,Green Party,4.9,Karen Karen,Liberal,43.9
+13008,New Brunswick Southwest,John Williamson,Conservative,38.6,Karen Karen,Liberal,43.9
+13009,Saint John--Rothesay,AJ Griffin,NDP-New Democratic Party,17.5,Wayne Wayne,Liberal,48.8
+13009,Saint John--Rothesay,Wayne Long,Liberal,48.8,Wayne Wayne,Liberal,48.8
+13009,Saint John--Rothesay,Sharon Murphy,Green Party,3.1,Wayne Wayne,Liberal,48.8
+13009,Saint John--Rothesay,Rodney Weston,Conservative,30.5,Wayne Wayne,Liberal,48.8
+13010,Tobique--Mactaquac,Richard Bragdon,Conservative,37.0,TJ TJ,Liberal,46.6
+13010,Tobique--Mactaquac,TJ Harvey,Liberal,46.6,TJ TJ,Liberal,46.6
+13010,Tobique--Mactaquac,Robert Kitchen,NDP-New Democratic Party,11.3,TJ TJ,Liberal,46.6
+13010,Tobique--Mactaquac,Terry Wishart,Green Party,5.1,TJ TJ,Liberal,46.6
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Patrick Benoît,Green Party,2.3,Romeo Romeo,NDP-New Democratic Party,37.0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Pierre Dufour,Liberal,32.1,Romeo Romeo,NDP-New Democratic Party,37.0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Luc Ferland,Bloc Québécois,18.5,Romeo Romeo,NDP-New Democratic Party,37.0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Mario Gagnon,Rhinoceros,0.7,Romeo Romeo,NDP-New Democratic Party,37.0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Steven Hébert,Conservative,9.3,Romeo Romeo,NDP-New Democratic Party,37.0
+24001,Abitibi--Baie-James--Nunavik--Eeyou,Romeo Saganash,NDP-New Democratic Party,37.0,Romeo Romeo,NDP-New Democratic Party,37.0
+24002,Abitibi--Témiscamingue,Aline Bégin,Green Party,1.7,Christine Christine,NDP-New Democratic Party,41.5
+24002,Abitibi--Témiscamingue,Benoit Fortin,Conservative,6.9,Christine Christine,NDP-New Democratic Party,41.5
+24002,Abitibi--Témiscamingue,Pascal Le Fou Gélinas,Rhinoceros,0.9,Christine Christine,NDP-New Democratic Party,41.5
+24002,Abitibi--Témiscamingue,Christine Moore,NDP-New Democratic Party,41.5,Christine Christine,NDP-New Democratic Party,41.5
+24002,Abitibi--Témiscamingue,Yvon Moreau,Bloc Québécois,19.4,Christine Christine,NDP-New Democratic Party,41.5
+24002,Abitibi--Témiscamingue,Claude Thibault,Liberal,29.6,Christine Christine,NDP-New Democratic Party,41.5
+24003,Ahuntsic-Cartierville,Nicolas Bourdon,Bloc Québécois,13.2,Mélanie Mélanie,Liberal,46.8
+24003,Ahuntsic-Cartierville,Catherine Gascon-David,Rhinoceros,0.5,Mélanie Mélanie,Liberal,46.8
+24003,Ahuntsic-Cartierville,Mélanie Joly,Liberal,46.8,Mélanie Mélanie,Liberal,46.8
+24003,Ahuntsic-Cartierville,Gilles Mercier,Green Party,2.1,Mélanie Mélanie,Liberal,46.8
+24003,Ahuntsic-Cartierville,Wiliam Moughrabi,Conservative,7.3,Mélanie Mélanie,Liberal,46.8
+24003,Ahuntsic-Cartierville,Maria Mourani,NDP-New Democratic Party,30.0,Mélanie Mélanie,Liberal,46.8
+24004,Alfred-Pellan,Lynda Briguene,Green Party,2.0,Angelo Angelo,Liberal,44.5
+24004,Alfred-Pellan,Rosane Doré Lefebvre,NDP-New Democratic Party,24.0,Angelo Angelo,Liberal,44.5
+24004,Alfred-Pellan,Angelo Iacono,Liberal,44.5,Angelo Angelo,Liberal,44.5
+24004,Alfred-Pellan,Renata Isopo,Independent,0.4,Angelo Angelo,Liberal,44.5
+24004,Alfred-Pellan,Gabriel Purcarus,Conservative,11.3,Angelo Angelo,Liberal,44.5
+24004,Alfred-Pellan,Daniel St-Hilaire,Bloc Québécois,17.8,Angelo Angelo,Liberal,44.5
+24005,Argenteuil--La Petite-Nation,Jonathan Beauchamp,Bloc Québécois,18.7,Stéphane Stéphane,Liberal,43.3
+24005,Argenteuil--La Petite-Nation,Chantal Crête,NDP-New Democratic Party,24.8,Stéphane Stéphane,Liberal,43.3
+24005,Argenteuil--La Petite-Nation,Maxime Hupé-Labelle,Conservative,11.1,Stéphane Stéphane,Liberal,43.3
+24005,Argenteuil--La Petite-Nation,Audrey Lamarche,Green Party,2.2,Stéphane Stéphane,Liberal,43.3
+24005,Argenteuil--La Petite-Nation,Stéphane Lauzon,Liberal,43.3,Stéphane Stéphane,Liberal,43.3
+24006,Avignon--La Mitis--Matane--Matapédia,Joël Charest,NDP-New Democratic Party,20.2,Rémi Rémi,Liberal,39.5
+24006,Avignon--La Mitis--Matane--Matapédia,Kédina Fleury-Samson,Bloc Québécois,21.0,Rémi Rémi,Liberal,39.5
+24006,Avignon--La Mitis--Matane--Matapédia,Jean-François Fortin,Forces et Démocratie - Allier les forces de nos régions,11.6,Rémi Rémi,Liberal,39.5
+24006,Avignon--La Mitis--Matane--Matapédia,Rémi Massé,Liberal,39.5,Rémi Rémi,Liberal,39.5
+24006,Avignon--La Mitis--Matane--Matapédia,Éric Normand,Rhinoceros,0.5,Rémi Rémi,Liberal,39.5
+24006,Avignon--La Mitis--Matane--Matapédia,André Savoie,Conservative,6.1,Rémi Rémi,Liberal,39.5
+24006,Avignon--La Mitis--Matane--Matapédia,Sherri Springle,Green Party,1.0,Rémi Rémi,Liberal,39.5
+24007,Beauce,Maxime Bernier,Conservative,58.9,Maxime Maxime,Conservative,58.9
+24007,Beauce,Céline Brown MacDonald,Green Party,1.7,Maxime Maxime,Conservative,58.9
+24007,Beauce,Daniel Royer,NDP-New Democratic Party,9.7,Maxime Maxime,Conservative,58.9
+24007,Beauce,Stéphane Trudel,Bloc Québécois,7.4,Maxime Maxime,Conservative,58.9
+24007,Beauce,Adam Veilleux,Liberal,22.3,Maxime Maxime,Conservative,58.9
+24008,Beauport--Limoilou,Francis Bedard,Libertarian,0.8,Alupa Alupa,Conservative,30.6
+24008,Beauport--Limoilou,Doni Berberi,Bloc Québécois,14.8,Alupa Alupa,Conservative,30.6
+24008,Beauport--Limoilou,Antoine Bujold,Liberal,25.4,Alupa Alupa,Conservative,30.6
+24008,Beauport--Limoilou,Alupa Clarke,Conservative,30.6,Alupa Alupa,Conservative,30.6
+24008,Beauport--Limoilou,Raymond Côté,NDP-New Democratic Party,25.5,Alupa Alupa,Conservative,30.6
+24008,Beauport--Limoilou,Dalila Elhak,Green Party,2.4,Alupa Alupa,Conservative,30.6
+24008,Beauport--Limoilou,Bladimir Laborit,Forces et Démocratie - Allier les forces de nos régions,0.2,Alupa Alupa,Conservative,30.6
+24008,Beauport--Limoilou,Claude Moreau,Marxist-Leninist,0.3,Alupa Alupa,Conservative,30.6
+24009,Bécancour--Nicolet--Saurel,Corina Bastiani,Green Party,2.3,Louis Louis,Bloc Québécois,40.0
+24009,Bécancour--Nicolet--Saurel,Claude Carpentier,Liberal,24.3,Louis Louis,Bloc Québécois,40.0
+24009,Bécancour--Nicolet--Saurel,Yves Laberge,Conservative,11.4,Louis Louis,Bloc Québécois,40.0
+24009,Bécancour--Nicolet--Saurel,Louis Plamondon,Bloc Québécois,40.0,Louis Louis,Bloc Québécois,40.0
+24009,Bécancour--Nicolet--Saurel,Nicolas Tabah,NDP-New Democratic Party,22.1,Louis Louis,Bloc Québécois,40.0
+24010,Bellechasse--Les Etchemins--Lévis,Steven Blaney,Conservative,50.9,Steven Steven,Conservative,50.9
+24010,Bellechasse--Les Etchemins--Lévis,André Bélisle,Green Party,3.2,Steven Steven,Conservative,50.9
+24010,Bellechasse--Les Etchemins--Lévis,Jean-Luc Daigle,NDP-New Democratic Party,13.6,Steven Steven,Conservative,50.9
+24010,Bellechasse--Les Etchemins--Lévis,Antoine Dubé,Bloc Québécois,11.5,Steven Steven,Conservative,50.9
+24010,Bellechasse--Les Etchemins--Lévis,Jacques Turgeon,Liberal,20.7,Steven Steven,Conservative,50.9
+24011,Beloeil--Chambly,Claude Chalhoub,Conservative,9.3,Matthew Matthew,NDP-New Democratic Party,31.1
+24011,Beloeil--Chambly,Karine Desjardins,Liberal,29.3,Matthew Matthew,NDP-New Democratic Party,31.1
+24011,Beloeil--Chambly,Matthew Dubé,NDP-New Democratic Party,31.1,Matthew Matthew,NDP-New Democratic Party,31.1
+24011,Beloeil--Chambly,Yves Lessard,Bloc Québécois,27.7,Matthew Matthew,NDP-New Democratic Party,31.1
+24011,Beloeil--Chambly,Michael Maher,Libertarian,0.4,Matthew Matthew,NDP-New Democratic Party,31.1
+24011,Beloeil--Chambly,Fodé Kerfalla Yansané,Green Party,2.3,Matthew Matthew,NDP-New Democratic Party,31.1
+24012,Berthier--Maskinongé,Ruth Ellen Brosseau,NDP-New Democratic Party,42.2,Ruth Ellen Ruth Ellen,NDP-New Democratic Party,42.2
+24012,Berthier--Maskinongé,Cate Burton,Green Party,1.6,Ruth Ellen Ruth Ellen,NDP-New Democratic Party,42.2
+24012,Berthier--Maskinongé,Pierre Destrempes,Liberal,20.3,Ruth Ellen Ruth Ellen,NDP-New Democratic Party,42.2
+24012,Berthier--Maskinongé,Marianne Foucrault,Conservative,10.2,Ruth Ellen Ruth Ellen,NDP-New Democratic Party,42.2
+24012,Berthier--Maskinongé,Yves Perron,Bloc Québécois,25.8,Ruth Ellen Ruth Ellen,NDP-New Democratic Party,42.2
+24013,Thérèse-De Blainville,Ramez Ayoub,Liberal,32.5,Ramez Ramez,Liberal,32.5
+24013,Thérèse-De Blainville,Andrew Carkner,Green Party,2.4,Ramez Ramez,Liberal,32.5
+24013,Thérèse-De Blainville,Alain Giguère,NDP-New Democratic Party,24.9,Ramez Ramez,Liberal,32.5
+24013,Thérèse-De Blainville,Daniel Guindon,Libertarian,0.6,Ramez Ramez,Liberal,32.5
+24013,Thérèse-De Blainville,Alain Marginean,Bloc Québécois,27.1,Ramez Ramez,Liberal,32.5
+24013,Thérèse-De Blainville,Manuel Puga,Conservative,12.4,Ramez Ramez,Liberal,32.5
+24014,Pierre-Boucher--Les Patriotes--Verchères,Xavier Barsalou-Duval,Bloc Québécois,28.6,Xavier Xavier,Bloc Québécois,28.6
+24014,Pierre-Boucher--Les Patriotes--Verchères,Raphaël Fortin,NDP-New Democratic Party,24.3,Xavier Xavier,Bloc Québécois,28.6
+24014,Pierre-Boucher--Les Patriotes--Verchères,Lucie Gagnon,Liberal,28.3,Xavier Xavier,Bloc Québécois,28.6
+24014,Pierre-Boucher--Les Patriotes--Verchères,JiCi Lauzon,Green Party,8.5,Xavier Xavier,Bloc Québécois,28.6
+24014,Pierre-Boucher--Les Patriotes--Verchères,Clovis Maheux,Conservative,10.2,Xavier Xavier,Bloc Québécois,28.6
+24015,Bourassa,Claude Brunelle,Marxist-Leninist,0.6,Emmanuel Emmanuel,Liberal,54.1
+24015,Bourassa,Maxime Charron,Green Party,2.2,Emmanuel Emmanuel,Liberal,54.1
+24015,Bourassa,Julie Demers,Independent,1.6,Emmanuel Emmanuel,Liberal,54.1
+24015,Bourassa,Emmanuel Dubourg,Liberal,54.1,Emmanuel Emmanuel,Liberal,54.1
+24015,Bourassa,Dolmine Laguerre,NDP-New Democratic Party,14.9,Emmanuel Emmanuel,Liberal,54.1
+24015,Bourassa,Gilles Léveillé,Bloc Québécois,17.1,Emmanuel Emmanuel,Liberal,54.1
+24015,Bourassa,Jean-Marie Floriant Ndzana,Forces et Démocratie - Allier les forces de nos régions,0.2,Emmanuel Emmanuel,Liberal,54.1
+24015,Bourassa,Jason Potasso-Justino,Conservative,9.3,Emmanuel Emmanuel,Liberal,54.1
+24016,Brome--Missisquoi,Catherine Lusson,NDP-New Democratic Party,24.5,Denis Denis,Liberal,43.9
+24016,Brome--Missisquoi,Patrick Melchior,Bloc Québécois,17.5,Denis Denis,Liberal,43.9
+24016,Brome--Missisquoi,Cindy Moynan,Green Party,2.3,Denis Denis,Liberal,43.9
+24016,Brome--Missisquoi,Patrick Paine,Forces et Démocratie - Allier les forces de nos régions,0.3,Denis Denis,Liberal,43.9
+24016,Brome--Missisquoi,Denis Paradis,Liberal,43.9,Denis Denis,Liberal,43.9
+24016,Brome--Missisquoi,Charles Poulin,Conservative,11.5,Denis Denis,Liberal,43.9
+24017,Brossard--Saint-Lambert,Qais Hamidi,Conservative,12.6,Alexandra Alexandra,Liberal,50.3
+24017,Brossard--Saint-Lambert,Fang Hu,Green Party,1.9,Alexandra Alexandra,Liberal,50.3
+24017,Brossard--Saint-Lambert,Suzanne Lachance,Bloc Québécois,10.6,Alexandra Alexandra,Liberal,50.3
+24017,Brossard--Saint-Lambert,Hoang Mai,NDP-New Democratic Party,24.6,Alexandra Alexandra,Liberal,50.3
+24017,Brossard--Saint-Lambert,Alexandra Mendès,Liberal,50.3,Alexandra Alexandra,Liberal,50.3
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Louise Boutin,Green Party,1.5,Guy Guy,NDP-New Democratic Party,43.1
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Pierre Cadieux,Liberal,28.0,Guy Guy,NDP-New Democratic Party,43.1
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Johanne Carignan,Bloc Québécois,19.3,Guy Guy,NDP-New Democratic Party,43.1
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Guy Caron,NDP-New Democratic Party,43.1,Guy Guy,NDP-New Democratic Party,43.1
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Sébastien CôRhino Côrriveau,Rhinoceros,0.6,Guy Guy,NDP-New Democratic Party,43.1
+24018,Rimouski-Neigette--Témiscouata--Les Basques,Francis Fortin,Conservative,7.5,Guy Guy,NDP-New Democratic Party,43.1
+24019,Charlesbourg--Haute-Saint-Charles,Nathalie Baudet,Green Party,2.2,Pierre Pierre,Conservative,42.2
+24019,Charlesbourg--Haute-Saint-Charles,Jean Côté,Liberal,23.2,Pierre Pierre,Conservative,42.2
+24019,Charlesbourg--Haute-Saint-Charles,Anne-Marie Day,NDP-New Democratic Party,20.1,Pierre Pierre,Conservative,42.2
+24019,Charlesbourg--Haute-Saint-Charles,Pierre Paul-Hus,Conservative,42.2,Pierre Pierre,Conservative,42.2
+24019,Charlesbourg--Haute-Saint-Charles,Marc Antoine Turmel,Bloc Québécois,12.3,Pierre Pierre,Conservative,42.2
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Sylvie Boucher,Conservative,33.5,Sylvie Sylvie,Conservative,33.5
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Mario Desjardins Pelchat,Forces et Démocratie - Allier les forces de nos régions,0.4,Sylvie Sylvie,Conservative,33.5
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Sébastien Dufour,Bloc Québécois,19.1,Sylvie Sylvie,Conservative,33.5
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Patrick Kerr,Green Party,1.7,Sylvie Sylvie,Conservative,33.5
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Jonathan Tremblay,NDP-New Democratic Party,18.4,Sylvie Sylvie,Conservative,33.5
+24020,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,Jean-Roger Vigneau,Liberal,26.9,Sylvie Sylvie,Conservative,33.5
+24021,Châteauguay--Lacolle,Sylvain Chicoine,NDP-New Democratic Party,23.1,Brenda Brenda,Liberal,39.1
+24021,Châteauguay--Lacolle,Jency Mercier,Green Party,1.9,Brenda Brenda,Liberal,39.1
+24021,Châteauguay--Lacolle,Brenda Shanahan,Liberal,39.1,Brenda Brenda,Liberal,39.1
+24021,Châteauguay--Lacolle,Philippe St-Pierre,Conservative,11.2,Brenda Brenda,Liberal,39.1
+24021,Châteauguay--Lacolle,Sophie Stanké,Bloc Québécois,24.4,Brenda Brenda,Liberal,39.1
+24021,Châteauguay--Lacolle,Linda Sullivan,Marxist-Leninist,0.3,Brenda Brenda,Liberal,39.1
+24022,Chicoutimi--Le Fjord,Élise Gauthier,Bloc Québécois,20.5,Denis Denis,Liberal,31.1
+24022,Chicoutimi--Le Fjord,Denis Lemieux,Liberal,31.1,Denis Denis,Liberal,31.1
+24022,Chicoutimi--Le Fjord,Dany Morin,NDP-New Democratic Party,29.7,Denis Denis,Liberal,31.1
+24022,Chicoutimi--Le Fjord,Dany St-Gelais,Green Party,2.1,Denis Denis,Liberal,31.1
+24022,Chicoutimi--Le Fjord,Caroline Ste-Marie,Conservative,16.6,Denis Denis,Liberal,31.1
+24023,Compton--Stanstead,Marie-Claude Bibeau,Liberal,36.9,Marie-Claude Marie-Claude,Liberal,36.9
+24023,Compton--Stanstead,France Bonsant,Bloc Québécois,20.7,Marie-Claude Marie-Claude,Liberal,36.9
+24023,Compton--Stanstead,Kévin Côté,Rhinoceros,0.6,Marie-Claude Marie-Claude,Liberal,36.9
+24023,Compton--Stanstead,Gustavo Labrador,Conservative,12.5,Marie-Claude Marie-Claude,Liberal,36.9
+24023,Compton--Stanstead,Korie Marshall,Green Party,1.9,Marie-Claude Marie-Claude,Liberal,36.9
+24023,Compton--Stanstead,Jean Rousseau,NDP-New Democratic Party,27.4,Marie-Claude Marie-Claude,Liberal,36.9
+24024,Dorval--Lachine--LaSalle,Daniela Chivu,Conservative,11.1,Anju Anju,Liberal,54.9
+24024,Dorval--Lachine--LaSalle,Anju Dhillon,Liberal,54.9,Anju Anju,Liberal,54.9
+24024,Dorval--Lachine--LaSalle,Vincent J. Carbonneau,Green Party,2.3,Anju Anju,Liberal,54.9
+24024,Dorval--Lachine--LaSalle,Isabelle Morin,NDP-New Democratic Party,21.6,Anju Anju,Liberal,54.9
+24024,Dorval--Lachine--LaSalle,Soulèye Ndiaye,Independent,0.4,Anju Anju,Liberal,54.9
+24024,Dorval--Lachine--LaSalle,Jean-Frédéric Vaudry,Bloc Québécois,9.8,Anju Anju,Liberal,54.9
+24025,Drummond,Diane Bourgeois,Bloc Québécois,22.8,François François,NDP-New Democratic Party,30.5
+24025,Drummond,François Choquette,NDP-New Democratic Party,30.5,François François,NDP-New Democratic Party,30.5
+24025,Drummond,Émile Coderre,Green Party,2.4,François François,NDP-New Democratic Party,30.5
+24025,Drummond,Pierre Côté,Liberal,26.5,François François,NDP-New Democratic Party,30.5
+24025,Drummond,Pascale Déry,Conservative,17.7,François François,NDP-New Democratic Party,30.5
+24026,Gaspésie--Les Îles-de-la-Madeleine,Max Boudreau,Rhinoceros,0.8,Diane Diane,Liberal,38.7
+24026,Gaspésie--Les Îles-de-la-Madeleine,Diane Lebouthillier,Liberal,38.7,Diane Diane,Liberal,38.7
+24026,Gaspésie--Les Îles-de-la-Madeleine,Jim Morrison,Green Party,1.0,Diane Diane,Liberal,38.7
+24026,Gaspésie--Les Îles-de-la-Madeleine,Jean-Pierre Pigeon,Conservative,6.1,Diane Diane,Liberal,38.7
+24026,Gaspésie--Les Îles-de-la-Madeleine,Nicolas Roussy,Bloc Québécois,20.9,Diane Diane,Liberal,38.7
+24026,Gaspésie--Les Îles-de-la-Madeleine,Philip Toone,NDP-New Democratic Party,32.5,Diane Diane,Liberal,38.7
+24027,Gatineau,Luc Angers,Conservative,8.2,Steven Steven,Liberal,53.8
+24027,Gatineau,Guy J Bellavance,Independent,0.3,Steven Steven,Liberal,53.8
+24027,Gatineau,Philippe Boily,Bloc Québécois,9.4,Steven Steven,Liberal,53.8
+24027,Gatineau,Françoise Boivin,NDP-New Democratic Party,26.6,Steven Steven,Liberal,53.8
+24027,Gatineau,Guy Dostaler,Green Party,1.6,Steven Steven,Liberal,53.8
+24027,Gatineau,Steven MacKinnon,Liberal,53.8,Steven Steven,Liberal,53.8
+24027,Gatineau,Pierre Soublière,Marxist-Leninist,0.2,Steven Steven,Liberal,53.8
+24028,Hochelaga,Marjolaine Boutin-Sweet,NDP-New Democratic Party,30.9,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Marianne Breton Fontaine,Communist,0.3,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Christine Dandenault,Marxist-Leninist,0.3,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Alexandre Dang,Conservative,6.8,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Nicolas Lemay,Rhinoceros,0.8,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Simon Marchand,Bloc Québécois,27.7,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Marwah Rizqy,Liberal,29.9,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Anne-Marie Saint-Cerny,Green Party,3.2,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Marjolaine Boutin-Sweet,NDP-New Democratic Party,30.9,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Marianne Breton Fontaine,Communist,0.3,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Christine Dandenault,Marxist-Leninist,0.3,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Alexandre Dang,Conservative,6.9,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Nicolas Lemay,Rhinoceros,0.8,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Simon Marchand,Bloc Québécois,27.7,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Marwah Rizqy,Liberal,29.9,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24028,Hochelaga,Anne-Marie Saint-Cerny,Green Party,3.2,Marjolaine Marjolaine,NDP-New Democratic Party,30.9
+24029,Honoré-Mercier,Paulina Ayala,NDP-New Democratic Party,16.4,Pablo Pablo,Liberal,56.5
+24029,Honoré-Mercier,Audrey Beauséjour,Bloc Québécois,12.9,Pablo Pablo,Liberal,56.5
+24029,Honoré-Mercier,Angela Budilean,Green Party,1.6,Pablo Pablo,Liberal,56.5
+24029,Honoré-Mercier,Guy Croteau,Conservative,12.1,Pablo Pablo,Liberal,56.5
+24029,Honoré-Mercier,Dayana Dejean,Forces et Démocratie - Allier les forces de nos régions,0.3,Pablo Pablo,Liberal,56.5
+24029,Honoré-Mercier,Yves Le Seigle,Marxist-Leninist,0.2,Pablo Pablo,Liberal,56.5
+24029,Honoré-Mercier,Pablo Rodriguez,Liberal,56.5,Pablo Pablo,Liberal,56.5
+24030,Hull--Aylmer,Étienne Boulrice,Conservative,7.7,Greg Greg,Liberal,51.4
+24030,Hull--Aylmer,Maude Chouinard-Boucher,Bloc Québécois,6.5,Greg Greg,Liberal,51.4
+24030,Hull--Aylmer,Luc Desjardins,Independent,0.3,Greg Greg,Liberal,51.4
+24030,Hull--Aylmer,Greg Fergus,Liberal,51.4,Greg Greg,Liberal,51.4
+24030,Hull--Aylmer,Roger Fleury,Green Party,1.9,Greg Greg,Liberal,51.4
+24030,Hull--Aylmer,Gabriel Girard-Bernier,Marxist-Leninist,0.2,Greg Greg,Liberal,51.4
+24030,Hull--Aylmer,Sean J. Mulligan,Christian Heritage Party,0.5,Greg Greg,Liberal,51.4
+24030,Hull--Aylmer,Nycole Turmel,NDP-New Democratic Party,31.5,Greg Greg,Liberal,51.4
+24031,Joliette,Michel Bourgeois,Liberal,28.2,Gabriel Gabriel,Bloc Québécois,33.3
+24031,Joliette,Soheil Eid,Conservative,10.1,Gabriel Gabriel,Bloc Québécois,33.3
+24031,Joliette,Danielle Landreville,NDP-New Democratic Party,25.7,Gabriel Gabriel,Bloc Québécois,33.3
+24031,Joliette,Robert D. Morais,Forces et Démocratie - Allier les forces de nos régions,0.4,Gabriel Gabriel,Bloc Québécois,33.3
+24031,Joliette,Mathieu Morin,Green Party,2.4,Gabriel Gabriel,Bloc Québécois,33.3
+24031,Joliette,Gabriel Ste-Marie,Bloc Québécois,33.3,Gabriel Gabriel,Bloc Québécois,33.3
+24032,Jonquière,Carmen Budilean,Green Party,1.4,Karine Karine,NDP-New Democratic Party,29.2
+24032,Jonquière,Jean-François Caron,Bloc Québécois,23.3,Karine Karine,NDP-New Democratic Party,29.2
+24032,Jonquière,Marielle Couture,Rhinoceros,0.8,Karine Karine,NDP-New Democratic Party,29.2
+24032,Jonquière,Ursula Larouche,Conservative,16.9,Karine Karine,NDP-New Democratic Party,29.2
+24032,Jonquière,Marc Pettersen,Liberal,28.5,Karine Karine,NDP-New Democratic Party,29.2
+24032,Jonquière,Karine Trudel,NDP-New Democratic Party,29.2,Karine Karine,NDP-New Democratic Party,29.2
+24033,La Pointe-de-l'Île,Mario Beaulieu,Bloc Québécois,33.6,Mario Mario,Bloc Québécois,33.6
+24033,La Pointe-de-l'Île,Ben 97 Benoit,Rhinoceros,0.6,Mario Mario,Bloc Québécois,33.6
+24033,La Pointe-de-l'Île,David J. Cox,Green Party,2.0,Mario Mario,Bloc Québécois,33.6
+24033,La Pointe-de-l'Île,Jean-François Larose,Forces et Démocratie - Allier les forces de nos régions,0.2,Mario Mario,Bloc Québécois,33.6
+24033,La Pointe-de-l'Île,Guy Morissette,Conservative,8.0,Mario Mario,Bloc Québécois,33.6
+24033,La Pointe-de-l'Île,Ève Péclet,NDP-New Democratic Party,26.8,Mario Mario,Bloc Québécois,33.6
+24033,La Pointe-de-l'Île,Geneviève Royer,Marxist-Leninist,0.2,Mario Mario,Bloc Québécois,33.6
+24033,La Pointe-de-l'Île,Marie-Chantale Simard,Liberal,28.6,Mario Mario,Bloc Québécois,33.6
+24034,La Prairie,Pierre Chicoine,NDP-New Democratic Party,22.9,Jean-Claude Jean-Claude,Liberal,36.5
+24034,La Prairie,Normand Chouinard,Marxist-Leninist,0.4,Jean-Claude Jean-Claude,Liberal,36.5
+24034,La Prairie,Yves Perras,Conservative,11.9,Jean-Claude Jean-Claude,Liberal,36.5
+24034,La Prairie,Christian Picard,Bloc Québécois,26.2,Jean-Claude Jean-Claude,Liberal,36.5
+24034,La Prairie,Jean-Claude Poissant,Liberal,36.5,Jean-Claude Jean-Claude,Liberal,36.5
+24034,La Prairie,Joanne Tomas,Green Party,2.1,Jean-Claude Jean-Claude,Liberal,36.5
+24035,Lac-Saint-Jean,Gisèle Dallaire,NDP-New Democratic Party,28.5,Denis Denis,Conservative,33.3
+24035,Lac-Saint-Jean,Sabin Gaudreault,Bloc Québécois,18.4,Denis Denis,Conservative,33.3
+24035,Lac-Saint-Jean,Denis Lebel,Conservative,33.3,Denis Denis,Conservative,33.3
+24035,Lac-Saint-Jean,Laurence Requilé,Green Party,1.5,Denis Denis,Conservative,33.3
+24035,Lac-Saint-Jean,Sabin Simard,Liberal,18.4,Denis Denis,Conservative,33.3
+24036,Lac-Saint-Louis,Gabriel Bernier,Bloc Québécois,2.7,Francis Francis,Liberal,64.1
+24036,Lac-Saint-Louis,Bradford Dean,Green Party,2.9,Francis Francis,Liberal,64.1
+24036,Lac-Saint-Louis,Eric Girard,Conservative,17.4,Francis Francis,Liberal,64.1
+24036,Lac-Saint-Louis,Francis Scarpaleggia,Liberal,64.1,Francis Francis,Liberal,64.1
+24036,Lac-Saint-Louis,Ryan Young,NDP-New Democratic Party,12.8,Francis Francis,Liberal,64.1
+24037,LaSalle--Émard--Verdun,Lorraine Banville,Green Party,3.2,David David,Liberal,43.9
+24037,LaSalle--Émard--Verdun,David Lametti,Liberal,43.9,David David,Liberal,43.9
+24037,LaSalle--Émard--Verdun,Hélène LeBlanc,NDP-New Democratic Party,29.0,David David,Liberal,43.9
+24037,LaSalle--Émard--Verdun,Gilbert Paquette,Bloc Québécois,17.0,David David,Liberal,43.9
+24037,LaSalle--Émard--Verdun,Mohammad Zamir,Conservative,6.9,David David,Liberal,43.9
+24038,Laurentides--Labelle,Sylvain Charron,Conservative,9.8,David David,Liberal,32.1
+24038,Laurentides--Labelle,David Graham,Liberal,32.1,David David,Liberal,32.1
+24038,Laurentides--Labelle,Niloufar Hedjazi,Green Party,2.0,David David,Liberal,32.1
+24038,Laurentides--Labelle,Simon-Pierre Landry,NDP-New Democratic Party,26.3,David David,Liberal,32.1
+24038,Laurentides--Labelle,Johanne Régimbald,Bloc Québécois,29.7,David David,Liberal,32.1
+24039,Laurier--Sainte-Marie,Stéphane Beaulieu,Libertarian,1.1,Hélène Hélène,NDP-New Democratic Party,38.3
+24039,Laurier--Sainte-Marie,Julien Bernatchez,Independent,0.3,Hélène Hélène,NDP-New Democratic Party,38.3
+24039,Laurier--Sainte-Marie,Gilles Duceppe,Bloc Québécois,28.7,Hélène Hélène,NDP-New Democratic Party,38.3
+24039,Laurier--Sainte-Marie,Pierre Fontaine,Communist,0.2,Hélène Hélène,NDP-New Democratic Party,38.3
+24039,Laurier--Sainte-Marie,Daniel Gaudreau,Conservative,4.1,Hélène Hélène,NDP-New Democratic Party,38.3
+24039,Laurier--Sainte-Marie,Cyrille Giraud,Green Party,3.5,Hélène Hélène,NDP-New Democratic Party,38.3
+24039,Laurier--Sainte-Marie,Serge Lachapelle,Marxist-Leninist,0.2,Hélène Hélène,NDP-New Democratic Party,38.3
+24039,Laurier--Sainte-Marie,Hélène Laverdière,NDP-New Democratic Party,38.3,Hélène Hélène,NDP-New Democratic Party,38.3
+24039,Laurier--Sainte-Marie,Christine Poirier,Liberal,23.7,Hélène Hélène,NDP-New Democratic Party,38.3
+24040,Laval--Les Îles,Yvon Breton,Marxist-Leninist,0.3,Fayçal Fayçal,Liberal,47.7
+24040,Laval--Les Îles,Roland Dick,Conservative,18.1,Fayçal Fayçal,Liberal,47.7
+24040,Laval--Les Îles,Fayçal El-Khoury,Liberal,47.7,Fayçal Fayçal,Liberal,47.7
+24040,Laval--Les Îles,François Pilon,NDP-New Democratic Party,19.8,Fayçal Fayçal,Liberal,47.7
+24040,Laval--Les Îles,Faiza R'Guiba-Kalogerakis,Green Party,1.7,Fayçal Fayçal,Liberal,47.7
+24040,Laval--Les Îles,Nancy Redhead,Bloc Québécois,12.4,Fayçal Fayçal,Liberal,47.7
+24041,Longueuil--Charles-LeMoyne,Thomas Barré,Conservative,9.6,Sherry Sherry,Liberal,35.4
+24041,Longueuil--Charles-LeMoyne,Pierre Chénier,Marxist-Leninist,0.3,Sherry Sherry,Liberal,35.4
+24041,Longueuil--Charles-LeMoyne,Philippe Cloutier,Bloc Québécois,27.0,Sherry Sherry,Liberal,35.4
+24041,Longueuil--Charles-LeMoyne,Sadia Groguhé,NDP-New Democratic Party,24.1,Sherry Sherry,Liberal,35.4
+24041,Longueuil--Charles-LeMoyne,Mario Leclerc,Green Party,2.9,Sherry Sherry,Liberal,35.4
+24041,Longueuil--Charles-LeMoyne,Matthew Iakov Liberman,Rhinoceros,0.6,Sherry Sherry,Liberal,35.4
+24041,Longueuil--Charles-LeMoyne,Sherry Romanado,Liberal,35.4,Sherry Sherry,Liberal,35.4
+24042,Lévis--Lotbinière,François Belanger,ATN,0.2,Jacques Jacques,Conservative,50.1
+24042,Lévis--Lotbinière,Tina Biello,Green Party,1.8,Jacques Jacques,Conservative,50.1
+24042,Lévis--Lotbinière,Hélène Bilodeau,NDP-New Democratic Party,14.8,Jacques Jacques,Conservative,50.1
+24042,Lévis--Lotbinière,Claude Boucher,Liberal,21.7,Jacques Jacques,Conservative,50.1
+24042,Lévis--Lotbinière,Steve Gagné,Bloc Québécois,11.4,Jacques Jacques,Conservative,50.1
+24042,Lévis--Lotbinière,Jacques Gourde,Conservative,50.1,Jacques Jacques,Conservative,50.1
+24043,Longueuil--Saint-Hubert,Affine Lwalalika,Forces et Démocratie - Allier les forces de nos régions,0.3,Pierre Pierre,NDP-New Democratic Party,31.2
+24043,Longueuil--Saint-Hubert,Pierre Nantel,NDP-New Democratic Party,31.2,Pierre Pierre,NDP-New Democratic Party,31.2
+24043,Longueuil--Saint-Hubert,Michael O'Grady,Liberal,30.0,Pierre Pierre,NDP-New Democratic Party,31.2
+24043,Longueuil--Saint-Hubert,Casandra Poitras,Green Party,2.5,Pierre Pierre,NDP-New Democratic Party,31.2
+24043,Longueuil--Saint-Hubert,John Sedlak,Conservative,8.7,Pierre Pierre,NDP-New Democratic Party,31.2
+24043,Longueuil--Saint-Hubert,Denis Trudel,Bloc Québécois,27.3,Pierre Pierre,NDP-New Democratic Party,31.2
+24044,Louis-Hébert,Jean-Pierre Asselin,Conservative,27.2,Joël Joël,Liberal,34.8
+24044,Louis-Hébert,Andrée-Anne Beaudoin-Julien,Green Party,2.5,Joël Joël,Liberal,34.8
+24044,Louis-Hébert,Denis Blanchette,NDP-New Democratic Party,20.8,Joël Joël,Liberal,34.8
+24044,Louis-Hébert,Stefan Jetchick,Christian Heritage Party,0.2,Joël Joël,Liberal,34.8
+24044,Louis-Hébert,Joël Lightbound,Liberal,34.8,Joël Joël,Liberal,34.8
+24044,Louis-Hébert,Caroline Pageau,Bloc Québécois,14.4,Joël Joël,Liberal,34.8
+24045,Louis-Saint-Laurent,G. Daniel Caron,NDP-New Democratic Party,15.9,Gérard Gérard,Conservative,50.5
+24045,Louis-Saint-Laurent,Gérard Deltell,Conservative,50.5,Gérard Gérard,Conservative,50.5
+24045,Louis-Saint-Laurent,Youri Rousseau,Liberal,21.4,Gérard Gérard,Conservative,50.5
+24045,Louis-Saint-Laurent,Michel Savard,Green Party,1.9,Gérard Gérard,Conservative,50.5
+24045,Louis-Saint-Laurent,Ronald Sirard,Bloc Québécois,10.3,Gérard Gérard,Conservative,50.5
+24046,Manicouagan,Yvon Boudreau,Conservative,10.3,Marilène Marilène,Bloc Québécois,41.3
+24046,Manicouagan,Jonathan Genest-Jourdain,NDP-New Democratic Party,17.5,Marilène Marilène,Bloc Québécois,41.3
+24046,Manicouagan,Marilène Gill,Bloc Québécois,41.3,Marilène Marilène,Bloc Québécois,41.3
+24046,Manicouagan,Nathan Grills,Green Party,1.6,Marilène Marilène,Bloc Québécois,41.3
+24046,Manicouagan,Mario Tremblay,Liberal,29.4,Marilène Marilène,Bloc Québécois,41.3
+24047,Mégantic--L'Érable,David Berthiaume,Liberal,28.1,Luc Luc,Conservative,35.4
+24047,Mégantic--L'Érable,Luc Berthold,Conservative,35.4,Luc Luc,Conservative,35.4
+24047,Mégantic--L'Érable,Jean-François Delisle,NDP-New Democratic Party,22.0,Luc Luc,Conservative,35.4
+24047,Mégantic--L'Érable,Justin Gervais,Green Party,2.1,Luc Luc,Conservative,35.4
+24047,Mégantic--L'Érable,Virginie Provost,Bloc Québécois,12.3,Luc Luc,Conservative,35.4
+24048,Mirabel,Gordon Ferguson,Conservative,10.1,Simon Simon,Bloc Québécois,31.5
+24048,Mirabel,Mylène Freeman,NDP-New Democratic Party,30.1,Simon Simon,Bloc Québécois,31.5
+24048,Mirabel,Jocelyn Gifford,Green Party,2.2,Simon Simon,Bloc Québécois,31.5
+24048,Mirabel,Simon Marcil,Bloc Québécois,31.5,Simon Simon,Bloc Québécois,31.5
+24048,Mirabel,Karl Trudel,Liberal,26.1,Simon Simon,Bloc Québécois,31.5
+24049,Montarville,Olivier Adam,Green Party,2.4,Michel Michel,Liberal,32.5
+24049,Montarville,Stéphane Duranleau,Conservative,10.9,Michel Michel,Liberal,32.5
+24049,Montarville,Catherine Fournier,Bloc Québécois,28.4,Michel Michel,Liberal,32.5
+24049,Montarville,Claude Leclair,Libertarian,1.1,Michel Michel,Liberal,32.5
+24049,Montarville,Michel Picard,Liberal,32.5,Michel Michel,Liberal,32.5
+24049,Montarville,Djaouida Sellah,NDP-New Democratic Party,24.7,Michel Michel,Liberal,32.5
+24050,Montcalm,Yumi Yow Mei Ang,Green Party,1.8,Luc Luc,Bloc Québécois,36.6
+24050,Montcalm,Gisèle DesRoches,Conservative,9.6,Luc Luc,Bloc Québécois,36.6
+24050,Montcalm,Martin Leclerc,NDP-New Democratic Party,23.5,Luc Luc,Bloc Québécois,36.6
+24050,Montcalm,Manon Perreault,Forces et Démocratie - Allier les forces de nos régions,1.2,Luc Luc,Bloc Québécois,36.6
+24050,Montcalm,Louis-Charles Thouin,Liberal,27.3,Luc Luc,Bloc Québécois,36.6
+24050,Montcalm,Luc Thériault,Bloc Québécois,36.6,Luc Luc,Bloc Québécois,36.6
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Chantal Breton,Green Party,1.7,Bernard Bernard,Conservative,29.0
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Louis Gagnon,Bloc Québécois,16.1,Bernard Bernard,Conservative,29.0
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Bien Gras Gagné,Rhinoceros,0.6,Bernard Bernard,Conservative,29.0
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Bernard Généreux,Conservative,29.0,Bernard Bernard,Conservative,29.0
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,François Lapointe,NDP-New Democratic Party,24.2,Bernard Bernard,Conservative,29.0
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Marie-Josée Normand,Liberal,28.4,Bernard Bernard,Conservative,29.0
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Chantal Breton,Green Party,1.7,Bernard Bernard,Conservative,29.0
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Louis Gagnon,Bloc Québécois,16.1,Bernard Bernard,Conservative,29.0
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Bien Gras Gagné,Rhinoceros,0.6,Bernard Bernard,Conservative,29.0
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Bernard Généreux,Conservative,29.0,Bernard Bernard,Conservative,29.0
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,François Lapointe,NDP-New Democratic Party,24.2,Bernard Bernard,Conservative,29.0
+24051,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,Marie-Josée Normand,Liberal,28.4,Bernard Bernard,Conservative,29.0
+24052,Mount Royal,Jade Bossé Bélanger,Bloc Québécois,1.9,Anthony Anthony,Liberal,50.3
+24052,Mount Royal,Anthony Housefather,Liberal,50.3,Anthony Anthony,Liberal,50.3
+24052,Mount Royal,Diane Johnston,Marxist-Leninist,0.3,Anthony Anthony,Liberal,50.3
+24052,Mount Royal,Timothy Landry,Green Party,1.6,Anthony Anthony,Liberal,50.3
+24052,Mount Royal,Robert Libman,Conservative,37.9,Anthony Anthony,Liberal,50.3
+24052,Mount Royal,Mario Jacinto Rimbao,NDP-New Democratic Party,8.1,Anthony Anthony,Liberal,50.3
+24053,Notre-Dame-de-Grâce--Westmount,Lisa Julie Cahn,Independent,0.3,Marc Marc,Liberal,57.7
+24053,Notre-Dame-de-Grâce--Westmount,Marc Garneau,Liberal,57.7,Marc Marc,Liberal,57.7
+24053,Notre-Dame-de-Grâce--Westmount,Rachel Hoffman,Marxist-Leninist,0.4,Marc Marc,Liberal,57.7
+24053,Notre-Dame-de-Grâce--Westmount,James Hughes,NDP-New Democratic Party,21.8,Marc Marc,Liberal,57.7
+24053,Notre-Dame-de-Grâce--Westmount,Simon Quesnel,Bloc Québécois,2.5,Marc Marc,Liberal,57.7
+24053,Notre-Dame-de-Grâce--Westmount,Richard Sagala,Conservative,14.4,Marc Marc,Liberal,57.7
+24053,Notre-Dame-de-Grâce--Westmount,Melissa Kate Wheeler,Green Party,3.1,Marc Marc,Liberal,57.7
+24054,Outremont,Rachel Bendayan,Liberal,33.5,Tom Tom,NDP-New Democratic Party,44.1
+24054,Outremont,Amara Diallo,Green Party,3.6,Tom Tom,NDP-New Democratic Party,44.1
+24054,Outremont,Roger Galland Barou,Bloc Québécois,8.4,Tom Tom,NDP-New Democratic Party,44.1
+24054,Outremont,Rodolphe Husny,Conservative,9.5,Tom Tom,NDP-New Democratic Party,44.1
+24054,Outremont,Tom Mulcair,NDP-New Democratic Party,44.1,Tom Tom,NDP-New Democratic Party,44.1
+24054,Outremont,Francis Pouliot,Libertarian,0.5,Tom Tom,NDP-New Democratic Party,44.1
+24054,Outremont,Adrien Welsh,Communist,0.4,Tom Tom,NDP-New Democratic Party,44.1
+24055,Papineau,Beverly Bernardo,No Affiliation,0.2,Justin Justin,Liberal,52.0
+24055,Papineau,Maxime Claveau,Bloc Québécois,12.2,Justin Justin,Liberal,52.0
+24055,Papineau,Tommy Gaudet,Rhinoceros,0.6,Justin Justin,Liberal,52.0
+24055,Papineau,Anne Lagacé Dowson,NDP-New Democratic Party,25.9,Justin Justin,Liberal,52.0
+24055,Papineau,Chris Lloyd,Independent,1.0,Justin Justin,Liberal,52.0
+24055,Papineau,Peter Macrisopoulos,Marxist-Leninist,0.3,Justin Justin,Liberal,52.0
+24055,Papineau,Danny Polifroni,Green Party,2.8,Justin Justin,Liberal,52.0
+24055,Papineau,Justin Trudeau,Liberal,52.0,Justin Justin,Liberal,52.0
+24055,Papineau,Yvon Vadnais,Conservative,4.7,Justin Justin,Liberal,52.0
+24055,Papineau,Kim Waldron,Independent,0.3,Justin Justin,Liberal,52.0
+24056,Pierrefonds--Dollard,Valérie Assouline,Conservative,20.0,Frank Frank,Liberal,58.7
+24056,Pierrefonds--Dollard,Frank Baylis,Liberal,58.7,Frank Frank,Liberal,58.7
+24056,Pierrefonds--Dollard,Lysane Blanchette-Lamothe,NDP-New Democratic Party,16.4,Frank Frank,Liberal,58.7
+24056,Pierrefonds--Dollard,Natalie Laplante,Bloc Québécois,3.5,Frank Frank,Liberal,58.7
+24056,Pierrefonds--Dollard,Abraham Weizfeld,Green Party,1.5,Frank Frank,Liberal,58.7
+24057,Pontiac,William Amos,Liberal,54.5,William William,Liberal,54.5
+24057,Pontiac,Colin Griffiths,Green Party,1.7,William William,Liberal,54.5
+24057,Pontiac,Louis Lang,Marxist-Leninist,0.2,William William,Liberal,54.5
+24057,Pontiac,Nicolas Lepage,Bloc Québécois,6.9,William William,Liberal,54.5
+24057,Pontiac,Pascal Médieu,Forces et Démocratie - Allier les forces de nos régions,0.2,William William,Liberal,54.5
+24057,Pontiac,Mathieu Ravignat,NDP-New Democratic Party,22.5,William William,Liberal,54.5
+24057,Pontiac,Benjamin Woodman,Conservative,13.9,William William,Liberal,54.5
+24058,Portneuf--Jacques-Cartier,David Gauvin,Liberal,21.5,Joël Joël,Conservative,44.0
+24058,Portneuf--Jacques-Cartier,Joël Godin,Conservative,44.0,Joël Joël,Conservative,44.0
+24058,Portneuf--Jacques-Cartier,Raymond Harvey,Bloc Québécois,10.7,Joël Joël,Conservative,44.0
+24058,Portneuf--Jacques-Cartier,Élaine Michaud,NDP-New Democratic Party,22.1,Joël Joël,Conservative,44.0
+24058,Portneuf--Jacques-Cartier,Johanne Morin,Green Party,1.8,Joël Joël,Conservative,44.0
+24059,Québec,Pierre-Thomas Asselin,Conservative,21.8,Jean-Yves Jean-Yves,Liberal,28.9
+24059,Québec,Jean-Yves Duclos,Liberal,28.9,Jean-Yves Jean-Yves,Liberal,28.9
+24059,Québec,Normand Fournier,Marxist-Leninist,0.3,Jean-Yves Jean-Yves,Liberal,28.9
+24059,Québec,Charles Mordret,Bloc Québécois,18.8,Jean-Yves Jean-Yves,Liberal,28.9
+24059,Québec,Annick Papillon,NDP-New Democratic Party,27.0,Jean-Yves Jean-Yves,Liberal,28.9
+24059,Québec,Danielle Provost,Forces et Démocratie - Allier les forces de nos régions,0.2,Jean-Yves Jean-Yves,Liberal,28.9
+24059,Québec,Philippe Riboty,Green Party,2.9,Jean-Yves Jean-Yves,Liberal,28.9
+24060,Repentigny,Réjean Bellemare,NDP-New Democratic Party,23.3,Monique Monique,Bloc Québécois,34.7
+24060,Repentigny,Johnathan Cloutier,Forces et Démocratie - Allier les forces de nos régions,2.0,Monique Monique,Bloc Québécois,34.7
+24060,Repentigny,Adriana Dudas,Liberal,27.3,Monique Monique,Bloc Québécois,34.7
+24060,Repentigny,Yoland Gilbert,Green Party,1.9,Monique Monique,Bloc Québécois,34.7
+24060,Repentigny,Jonathan Lefebvre,Conservative,10.8,Monique Monique,Bloc Québécois,34.7
+24060,Repentigny,Monique Pauzé,Bloc Québécois,34.7,Monique Monique,Bloc Québécois,34.7
+24061,Richmond--Arthabaska,Myriam Beaulieu,NDP-New Democratic Party,24.2,Alain Alain,Conservative,31.6
+24061,Richmond--Arthabaska,Laurier Busque,Green Party,1.7,Alain Alain,Conservative,31.6
+24061,Richmond--Arthabaska,Marc Desmarais,Liberal,24.7,Alain Alain,Conservative,31.6
+24061,Richmond--Arthabaska,Antoine Dubois,Rhinoceros,0.7,Alain Alain,Conservative,31.6
+24061,Richmond--Arthabaska,Olivier Nolin,Bloc Québécois,17.2,Alain Alain,Conservative,31.6
+24061,Richmond--Arthabaska,Alain Rayes,Conservative,31.6,Alain Alain,Conservative,31.6
+24062,Rivière-des-Mille-Îles,Érick Gauthier,Conservative,10.5,Linda Linda,Liberal,32.4
+24062,Rivière-des-Mille-Îles,Linda Lapointe,Liberal,32.4,Linda Linda,Liberal,32.4
+24062,Rivière-des-Mille-Îles,Laurin Liu,NDP-New Democratic Party,29.5,Linda Linda,Liberal,32.4
+24062,Rivière-des-Mille-Îles,Félix Pinel,Bloc Québécois,25.4,Linda Linda,Liberal,32.4
+24062,Rivière-des-Mille-Îles,Luis Quinteros,Independent,0.3,Linda Linda,Liberal,32.4
+24062,Rivière-des-Mille-Îles,Alec Ware,Green Party,2.0,Linda Linda,Liberal,32.4
+24063,Rivière-du-Nord,Janice Bélair Rolland,Liberal,26.4,Rhéal Rhéal,Bloc Québécois,32.0
+24063,Rivière-du-Nord,Fobozof A. Côté,Rhinoceros,0.5,Rhéal Rhéal,Bloc Québécois,32.0
+24063,Rivière-du-Nord,Pierre Dionne Labelle,NDP-New Democratic Party,30.1,Rhéal Rhéal,Bloc Québécois,32.0
+24063,Rivière-du-Nord,Rhéal Fortin,Bloc Québécois,32.0,Rhéal Rhéal,Bloc Québécois,32.0
+24063,Rivière-du-Nord,Joey Leckman,Green Party,2.5,Rhéal Rhéal,Bloc Québécois,32.0
+24063,Rivière-du-Nord,Romain Vignol,Conservative,8.5,Rhéal Rhéal,Bloc Québécois,32.0
+24064,Rosemont--La Petite-Patrie,Laurent Aglat,Rhinoceros,0.8,Alexandre Alexandre,NDP-New Democratic Party,49.2
+24064,Rosemont--La Petite-Patrie,Claude André,Bloc Québécois,21.1,Alexandre Alexandre,NDP-New Democratic Party,49.2
+24064,Rosemont--La Petite-Patrie,Alexandre Boulerice,NDP-New Democratic Party,49.2,Alexandre Alexandre,NDP-New Democratic Party,49.2
+24064,Rosemont--La Petite-Patrie,Stéphane Chénier,Marxist-Leninist,0.3,Alexandre Alexandre,NDP-New Democratic Party,49.2
+24064,Rosemont--La Petite-Patrie,Jeremy Dohan,Conservative,4.3,Alexandre Alexandre,NDP-New Democratic Party,49.2
+24064,Rosemont--La Petite-Patrie,Nadine Medawar,Liberal,20.7,Alexandre Alexandre,NDP-New Democratic Party,49.2
+24064,Rosemont--La Petite-Patrie,Sameer Muldeen,Green Party,3.1,Alexandre Alexandre,NDP-New Democratic Party,49.2
+24064,Rosemont--La Petite-Patrie,Peter d'Entremont,Libertarian,0.6,Alexandre Alexandre,NDP-New Democratic Party,49.2
+24065,Marc-Aurèle-Fortin,Patrice Jasmin-Tremblay,Bloc Québécois,21.7,Yves Yves,Liberal,40.9
+24065,Marc-Aurèle-Fortin,Marie-Josée Lemieux,NDP-New Democratic Party,23.5,Yves Yves,Liberal,40.9
+24065,Marc-Aurèle-Fortin,Nicolas Makridis,Conservative,11.9,Yves Yves,Liberal,40.9
+24065,Marc-Aurèle-Fortin,Lorna Mungur,Green Party,1.9,Yves Yves,Liberal,40.9
+24065,Marc-Aurèle-Fortin,Yves Robillard,Liberal,40.9,Yves Yves,Liberal,40.9
+24066,Saint-Hyacinthe--Bagot,Lise Durand,Green Party,2.3,Brigitte Brigitte,NDP-New Democratic Party,28.7
+24066,Saint-Hyacinthe--Bagot,Michel Filion,Bloc Québécois,24.3,Brigitte Brigitte,NDP-New Democratic Party,28.7
+24066,Saint-Hyacinthe--Bagot,Réjean Léveillé,Conservative,16.7,Brigitte Brigitte,NDP-New Democratic Party,28.7
+24066,Saint-Hyacinthe--Bagot,Ugo Ménard,Independent,0.5,Brigitte Brigitte,NDP-New Democratic Party,28.7
+24066,Saint-Hyacinthe--Bagot,Brigitte Sansoucy,NDP-New Democratic Party,28.7,Brigitte Brigitte,NDP-New Democratic Party,28.7
+24066,Saint-Hyacinthe--Bagot,René Vincelette,Liberal,27.6,Brigitte Brigitte,NDP-New Democratic Party,28.7
+24067,Saint-Jean,Stéphane Guinta,Conservative,10.8,Jean Jean,Liberal,33.2
+24067,Saint-Jean,Denis Hurtubise,Bloc Québécois,24.8,Jean Jean,Liberal,33.2
+24067,Saint-Jean,Hans Marotte,NDP-New Democratic Party,29.1,Jean Jean,Liberal,33.2
+24067,Saint-Jean,Marilyn Redivo,Green Party,2.1,Jean Jean,Liberal,33.2
+24067,Saint-Jean,Jean Rioux,Liberal,33.2,Jean Jean,Liberal,33.2
+24068,Saint-Laurent,Alain Ackad,NDP-New Democratic Party,11.5,Stéphane Stéphane,Liberal,61.6
+24068,Saint-Laurent,Fernand Deschamps,Marxist-Leninist,0.3,Stéphane Stéphane,Liberal,61.6
+24068,Saint-Laurent,Stéphane Dion,Liberal,61.6,Stéphane Stéphane,Liberal,61.6
+24068,Saint-Laurent,Pascal-Olivier Dumas-Dubreuil,Bloc Québécois,4.7,Stéphane Stéphane,Liberal,61.6
+24068,Saint-Laurent,John Tromp,Green Party,2.4,Stéphane Stéphane,Liberal,61.6
+24068,Saint-Laurent,Jimmy Yu,Conservative,19.5,Stéphane Stéphane,Liberal,61.6
+24069,Saint-Léonard--Saint-Michel,Nicola Di Iorio,Liberal,64.7,Nicola Nicola,Liberal,64.7
+24069,Saint-Léonard--Saint-Michel,Rosannie Filato,NDP-New Democratic Party,14.8,Nicola Nicola,Liberal,64.7
+24069,Saint-Léonard--Saint-Michel,Jean Philippe Fournier,Conservative,11.1,Nicola Nicola,Liberal,64.7
+24069,Saint-Léonard--Saint-Michel,Steeve Gendron,Bloc Québécois,7.2,Nicola Nicola,Liberal,64.7
+24069,Saint-Léonard--Saint-Michel,Arezki Malek,Marxist-Leninist,0.3,Nicola Nicola,Liberal,64.7
+24069,Saint-Léonard--Saint-Michel,Melissa Miscione,Green Party,1.8,Nicola Nicola,Liberal,64.7
+24070,Saint-Maurice--Champlain,Jean-Paul Bédard,Marxist-Leninist,0.3,François-Philippe François-Philippe,Liberal,41.5
+24070,Saint-Maurice--Champlain,Sacki Carignan Deschamps,Bloc Québécois,19.2,François-Philippe François-Philippe,Liberal,41.5
+24070,Saint-Maurice--Champlain,François-Philippe Champagne,Liberal,41.5,François-Philippe François-Philippe,Liberal,41.5
+24070,Saint-Maurice--Champlain,Jacques Grenier,Conservative,16.3,François-Philippe François-Philippe,Liberal,41.5
+24070,Saint-Maurice--Champlain,Martial Toupin,Green Party,1.9,François-Philippe François-Philippe,Liberal,41.5
+24070,Saint-Maurice--Champlain,Jean-Yves Tremblay,NDP-New Democratic Party,20.8,François-Philippe François-Philippe,Liberal,41.5
+24071,Salaberry--Suroît,Albert De Martin,Conservative,10.0,Anne Minh-Thu Anne Minh-Thu,NDP-New Democratic Party,30.4
+24071,Salaberry--Suroît,Claude DeBellefeuille,Bloc Québécois,28.4,Anne Minh-Thu Anne Minh-Thu,NDP-New Democratic Party,30.4
+24071,Salaberry--Suroît,Patricia Domingos,Forces et Démocratie - Allier les forces de nos régions,0.3,Anne Minh-Thu Anne Minh-Thu,NDP-New Democratic Party,30.4
+24071,Salaberry--Suroît,Sylvain Larocque,Independent,0.4,Anne Minh-Thu Anne Minh-Thu,NDP-New Democratic Party,30.4
+24071,Salaberry--Suroît,Anne Minh-Thu Quach,NDP-New Democratic Party,30.4,Anne Minh-Thu Anne Minh-Thu,NDP-New Democratic Party,30.4
+24071,Salaberry--Suroît,Robert Sauvé,Liberal,29.2,Anne Minh-Thu Anne Minh-Thu,NDP-New Democratic Party,30.4
+24071,Salaberry--Suroît,Nicola-Silverado Socrates,Green Party,1.4,Anne Minh-Thu Anne Minh-Thu,NDP-New Democratic Party,30.4
+24072,Shefford,Jocelyn Beaudoin,Bloc Québécois,22.2,Pierre Pierre,Liberal,39.0
+24072,Shefford,Pierre Breton,Liberal,39.0,Pierre Pierre,Liberal,39.0
+24072,Shefford,Sylvie Fontaine,Conservative,12.8,Pierre Pierre,Liberal,39.0
+24072,Shefford,Claire Mailhot,NDP-New Democratic Party,23.7,Pierre Pierre,Liberal,39.0
+24072,Shefford,Simon McMillan,Green Party,2.4,Pierre Pierre,Liberal,39.0
+24073,Sherbrooke,Thomas ''Tom'' Allen,Liberal,29.8,Pierre-Luc Pierre-Luc,NDP-New Democratic Party,37.4
+24073,Sherbrooke,Caroline Bouchard,Bloc Québécois,20.4,Pierre-Luc Pierre-Luc,NDP-New Democratic Party,37.4
+24073,Sherbrooke,Marc Dauphin,Conservative,9.4,Pierre-Luc Pierre-Luc,NDP-New Democratic Party,37.4
+24073,Sherbrooke,Pierre-Luc Dusseault,NDP-New Democratic Party,37.4,Pierre-Luc Pierre-Luc,NDP-New Democratic Party,37.4
+24073,Sherbrooke,Benoit Huberdeau,Independent,0.5,Pierre-Luc Pierre-Luc,NDP-New Democratic Party,37.4
+24073,Sherbrooke,Sophie Malouin,Green Party,2.0,Pierre-Luc Pierre-Luc,NDP-New Democratic Party,37.4
+24073,Sherbrooke,Hubert Richard,Rhinoceros,0.5,Pierre-Luc Pierre-Luc,NDP-New Democratic Party,37.4
+24074,Vaudreuil--Soulanges,Marc Boudreau,Conservative,13.8,Peter Peter,Liberal,46.6
+24074,Vaudreuil--Soulanges,Vincent François,Bloc Québécois,15.0,Peter Peter,Liberal,46.6
+24074,Vaudreuil--Soulanges,Jennifer Kaszel,Green Party,2.2,Peter Peter,Liberal,46.6
+24074,Vaudreuil--Soulanges,Jamie Nicholls,NDP-New Democratic Party,22.3,Peter Peter,Liberal,46.6
+24074,Vaudreuil--Soulanges,Peter Schiefke,Liberal,46.6,Peter Peter,Liberal,46.6
+24075,Terrebonne,Michèle Audette,Liberal,28.0,Michel Michel,Bloc Québécois,33.0
+24075,Terrebonne,Charmaine Borg,NDP-New Democratic Party,25.6,Michel Michel,Bloc Québécois,33.0
+24075,Terrebonne,Michel Boudrias,Bloc Québécois,33.0,Michel Michel,Bloc Québécois,33.0
+24075,Terrebonne,Susan Moen,Green Party,1.7,Michel Michel,Bloc Québécois,33.0
+24075,Terrebonne,Michel Surprenant,Conservative,11.3,Michel Michel,Bloc Québécois,33.0
+24075,Terrebonne,Louis Clément Sénat,Forces et Démocratie - Allier les forces de nos régions,0.3,Michel Michel,Bloc Québécois,33.0
+24076,Trois-Rivières,Robert Aubin,NDP-New Democratic Party,31.8,Robert Robert,NDP-New Democratic Party,31.8
+24076,Trois-Rivières,Yvon Boivin,Liberal,30.2,Robert Robert,NDP-New Democratic Party,31.8
+24076,Trois-Rivières,Maxime Rousseau,Libertarian,0.6,Robert Robert,NDP-New Democratic Party,31.8
+24076,Trois-Rivières,Dominic Therrien,Conservative,18.6,Robert Robert,NDP-New Democratic Party,31.8
+24076,Trois-Rivières,Éric Trottier,Green Party,1.7,Robert Robert,NDP-New Democratic Party,31.8
+24076,Trois-Rivières,André Valois,Bloc Québécois,17.0,Robert Robert,NDP-New Democratic Party,31.8
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Daniel Green,Green Party,4.8,Marc Marc,Liberal,50.8
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Marc Miller,Liberal,50.8,Marc Marc,Liberal,50.8
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Steve Shanahan,Conservative,11.9,Marc Marc,Liberal,50.8
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,William Sloan,Communist,0.2,Marc Marc,Liberal,50.8
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Chantal St-Onge,Bloc Québécois,8.6,Marc Marc,Liberal,50.8
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Allison Turner,NDP-New Democratic Party,23.4,Marc Marc,Liberal,50.8
+24077,Ville-Marie--Le Sud-Ouest--Île-des-Soeurs,Daniel Wolfe,Rhinoceros,0.3,Marc Marc,Liberal,50.8
+24078,Vimy,France Duhamel,NDP-New Democratic Party,21.0,Eva Eva,Liberal,46.2
+24078,Vimy,Brian Jenkins,Christian Heritage Party,0.5,Eva Eva,Liberal,46.2
+24078,Vimy,Barek Kaddouri,Bloc Québécois,16.7,Eva Eva,Liberal,46.2
+24078,Vimy,Anthony Mavros,Conservative,13.4,Eva Eva,Liberal,46.2
+24078,Vimy,Eva Nassif,Liberal,46.2,Eva Eva,Liberal,46.2
+24078,Vimy,José Núñez Melo,Green Party,2.4,Eva Eva,Liberal,46.2
+35001,Ajax,Chris Alexander,Conservative,34.4,Mark Mark,Liberal,55.9
+35001,Ajax,Stephanie Brown,NDP-New Democratic Party,8.2,Mark Mark,Liberal,55.9
+35001,Ajax,Jeff Hill,Green Party,1.4,Mark Mark,Liberal,55.9
+35001,Ajax,Mark Holland,Liberal,55.9,Mark Mark,Liberal,55.9
+35001,Ajax,Bob Kesic,United Party,0.1,Mark Mark,Liberal,55.9
+35002,Algoma--Manitoulin--Kapuskasing,Carol Hughes,NDP-New Democratic Party,39.9,Carol Carol,NDP-New Democratic Party,39.9
+35002,Algoma--Manitoulin--Kapuskasing,Calvin John Orok,Green Party,2.2,Carol Carol,NDP-New Democratic Party,39.9
+35002,Algoma--Manitoulin--Kapuskasing,André Robichaud,Conservative,23.7,Carol Carol,NDP-New Democratic Party,39.9
+35002,Algoma--Manitoulin--Kapuskasing,Heather Wilson,Liberal,34.1,Carol Carol,NDP-New Democratic Party,39.9
+35003,Aurora--Oak Ridges--Richmond Hill,Leona Alleslev,Liberal,47.3,Leona Leona,Liberal,47.3
+35003,Aurora--Oak Ridges--Richmond Hill,Kyle Bowles,Animal Alliance/Environment Voters,0.5,Leona Leona,Liberal,47.3
+35003,Aurora--Oak Ridges--Richmond Hill,Costas Menegakis,Conservative,45.2,Leona Leona,Liberal,47.3
+35003,Aurora--Oak Ridges--Richmond Hill,Brenda Power,NDP-New Democratic Party,5.7,Leona Leona,Liberal,47.3
+35003,Aurora--Oak Ridges--Richmond Hill,Randi Ramdeen,Green Party,1.3,Leona Leona,Liberal,47.3
+35004,Barrie--Innisfil,John Brassard,Conservative,46.4,John John,Conservative,46.4
+35004,Barrie--Innisfil,Myrna Clark,NDP-New Democratic Party,11.8,John John,Conservative,46.4
+35004,Barrie--Innisfil,Gary Nail,Christian Heritage Party,0.4,John John,Conservative,46.4
+35004,Barrie--Innisfil,Bonnie North,Green Party,4.0,John John,Conservative,46.4
+35004,Barrie--Innisfil,Jeff Sakula,CAP,0.3,John John,Conservative,46.4
+35004,Barrie--Innisfil,Colin Wilson,Liberal,37.1,John John,Conservative,46.4
+35005,Barrie--Springwater--Oro-Medonte,Ram Faerber,Independent,0.4,Alex Alex,Conservative,41.8
+35005,Barrie--Springwater--Oro-Medonte,Marty Lancaster,Green Party,5.2,Alex Alex,Conservative,41.8
+35005,Barrie--Springwater--Oro-Medonte,Alex Nuttall,Conservative,41.7,Alex Alex,Conservative,41.8
+35005,Barrie--Springwater--Oro-Medonte,Darren Roskam,Libertarian,0.8,Alex Alex,Conservative,41.8
+35005,Barrie--Springwater--Oro-Medonte,Brian Tamblyn,Liberal,41.6,Alex Alex,Conservative,41.8
+35005,Barrie--Springwater--Oro-Medonte,Ellen White,NDP-New Democratic Party,10.3,Alex Alex,Conservative,41.8
+35005,Barrie--Springwater--Oro-Medonte,Ram Faerber,Independent,0.4,Alex Alex,Conservative,41.8
+35005,Barrie--Springwater--Oro-Medonte,Marty Lancaster,Green Party,5.2,Alex Alex,Conservative,41.8
+35005,Barrie--Springwater--Oro-Medonte,Alex Nuttall,Conservative,41.8,Alex Alex,Conservative,41.8
+35005,Barrie--Springwater--Oro-Medonte,Darren Roskam,Libertarian,0.8,Alex Alex,Conservative,41.8
+35005,Barrie--Springwater--Oro-Medonte,Brian Tamblyn,Liberal,41.5,Alex Alex,Conservative,41.8
+35005,Barrie--Springwater--Oro-Medonte,Ellen White,NDP-New Democratic Party,10.3,Alex Alex,Conservative,41.8
+35006,Bay of Quinte,Terry Cassidy,NDP-New Democratic Party,12.1,Neil Neil,Liberal,50.7
+35006,Bay of Quinte,Neil Ellis,Liberal,50.7,Neil Neil,Liberal,50.7
+35006,Bay of Quinte,Jodie Jenkins,Conservative,34.3,Neil Neil,Liberal,50.7
+35006,Bay of Quinte,Rachel Nelems,Green Party,2.2,Neil Neil,Liberal,50.7
+35006,Bay of Quinte,Trueman Tuck,Independent,0.6,Neil Neil,Liberal,50.7
+35007,Beaches--East York,Bill Burrows,Conservative,16.4,Nathaniel Nathaniel,Liberal,49.4
+35007,Beaches--East York,Roger Carter,Marxist-Leninist,0.2,Nathaniel Nathaniel,Liberal,49.4
+35007,Beaches--East York,Nathaniel Erskine-Smith,Liberal,49.4,Nathaniel Nathaniel,Liberal,49.4
+35007,Beaches--East York,Matthew Kellway,NDP-New Democratic Party,30.8,Nathaniel Nathaniel,Liberal,49.4
+35007,Beaches--East York,Randall Sach,Green Party,2.6,Nathaniel Nathaniel,Liberal,49.4
+35007,Beaches--East York,James Sears,Independent,0.5,Nathaniel Nathaniel,Liberal,49.4
+35007,Beaches--East York,Peter Surjanac,Independent,0.1,Nathaniel Nathaniel,Liberal,49.4
+35008,Brampton Centre,Saul Marquard T. Bottcher,Green Party,2.1,Ramesh Ramesh,Liberal,48.6
+35008,Brampton Centre,Frank Chilelli,Marxist-Leninist,0.4,Ramesh Ramesh,Liberal,48.6
+35008,Brampton Centre,Bal Gosal,Conservative,33.7,Ramesh Ramesh,Liberal,48.6
+35008,Brampton Centre,Rosemary Keenan,NDP-New Democratic Party,15.1,Ramesh Ramesh,Liberal,48.6
+35008,Brampton Centre,Ramesh Sangha,Liberal,48.6,Ramesh Ramesh,Liberal,48.6
+35009,Brampton East,Naval Bajaj,Conservative,23.5,Raj Raj,Liberal,52.3
+35009,Brampton East,Raj Grewal,Liberal,52.3,Raj Raj,Liberal,52.3
+35009,Brampton East,Harbaljit Singh Kahlon,NDP-New Democratic Party,23.0,Raj Raj,Liberal,52.3
+35009,Brampton East,Kyle Lacroix,Green Party,1.1,Raj Raj,Liberal,52.3
+35010,Brampton North,Parm Gill,Conservative,33.0,Ruby Ruby,Liberal,48.4
+35010,Brampton North,Harinderpal Hundal,Communist,0.2,Ruby Ruby,Liberal,48.4
+35010,Brampton North,Ruby Sahota,Liberal,48.4,Ruby Ruby,Liberal,48.4
+35010,Brampton North,Martin Singh,NDP-New Democratic Party,16.5,Ruby Ruby,Liberal,48.4
+35010,Brampton North,Pauline Thornham,Green Party,1.9,Ruby Ruby,Liberal,48.4
+35011,Brampton South,Shaun Hatton,Green Party,2.2,Sonia Sonia,Liberal,52.1
+35011,Brampton South,Amarjit Sangha,NDP-New Democratic Party,10.7,Sonia Sonia,Liberal,52.1
+35011,Brampton South,Kyle Seeback,Conservative,35.0,Sonia Sonia,Liberal,52.1
+35011,Brampton South,Sonia Sidhu,Liberal,52.1,Sonia Sonia,Liberal,52.1
+35012,Brampton West,Karthika Gobinath,Green Party,1.6,Kamal Kamal,Liberal,55.9
+35012,Brampton West,Kamal Khera,Liberal,55.9,Kamal Kamal,Liberal,55.9
+35012,Brampton West,Adaoma Patterson,NDP-New Democratic Party,12.4,Kamal Kamal,Liberal,55.9
+35012,Brampton West,Ninder Thind,Conservative,30.1,Kamal Kamal,Liberal,55.9
+35013,Brantford--Brant,Kevin Brandt,Green Party,2.5,Phil Phil,Conservative,40.9
+35013,Brantford--Brant,Rob Ferguson,Libertarian,0.8,Phil Phil,Conservative,40.9
+35013,Brantford--Brant,Marc Laferriere,NDP-New Democratic Party,24.8,Phil Phil,Conservative,40.9
+35013,Brantford--Brant,Phil McColeman,Conservative,40.9,Phil Phil,Conservative,40.9
+35013,Brantford--Brant,Danielle Takacs,Liberal,30.7,Phil Phil,Conservative,40.9
+35013,Brantford--Brant,The Engineer Turmel,Independent,0.3,Phil Phil,Conservative,40.9
+35014,Bruce--Grey--Owen Sound,Chris Albinati,Green Party,3.3,Larry Larry,Conservative,46.7
+35014,Bruce--Grey--Owen Sound,Kimberley Love,Liberal,38.8,Larry Larry,Conservative,46.7
+35014,Bruce--Grey--Owen Sound,David McLaren,NDP-New Democratic Party,11.1,Larry Larry,Conservative,46.7
+35014,Bruce--Grey--Owen Sound,Larry Miller,Conservative,46.7,Larry Larry,Conservative,46.7
+35015,Burlington,Vince Fiorito,Green Party,2.4,Karina Karina,Liberal,46.0
+35015,Burlington,Karina Gould,Liberal,46.0,Karina Karina,Liberal,46.0
+35015,Burlington,David Laird,NDP-New Democratic Party,9.1,Karina Karina,Liberal,46.0
+35015,Burlington,Mike Wallace,Conservative,42.5,Karina Karina,Liberal,46.0
+35016,Cambridge,Michele Braniff,Green Party,3.2,Bryan Bryan,Liberal,43.2
+35016,Cambridge,Manuel Couto,Marxist-Leninist,0.2,Bryan Bryan,Liberal,43.2
+35016,Cambridge,Gary Goodyear,Conservative,38.6,Bryan Bryan,Liberal,43.2
+35016,Cambridge,Bryan May,Liberal,43.2,Bryan Bryan,Liberal,43.2
+35016,Cambridge,Lee Sperduti,Independent,0.9,Bryan Bryan,Liberal,43.2
+35016,Cambridge,Bobbi Stewart,NDP-New Democratic Party,13.9,Bryan Bryan,Liberal,43.2
+35017,Chatham-Kent--Leamington,Katie Omstead,Liberal,37.2,Dave Dave,Conservative,41.7
+35017,Chatham-Kent--Leamington,Dave Van Kesteren,Conservative,41.7,Dave Dave,Conservative,41.7
+35017,Chatham-Kent--Leamington,Mark Vercouteren,Green Party,2.7,Dave Dave,Conservative,41.7
+35017,Chatham-Kent--Leamington,Tony Walsh,NDP-New Democratic Party,18.4,Dave Dave,Conservative,41.7
+35018,Davenport,Andrew Cash,NDP-New Democratic Party,41.4,Julie Julie,Liberal,44.3
+35018,Davenport,Julie Dzerowicz,Liberal,44.3,Julie Julie,Liberal,44.3
+35018,Davenport,Miguel Figueroa,Communist,0.5,Julie Julie,Liberal,44.3
+35018,Davenport,Chai Kalevar,Independent,0.2,Julie Julie,Liberal,44.3
+35018,Davenport,Carlos Oliveira,Conservative,10.6,Julie Julie,Liberal,44.3
+35018,Davenport,Dan Stein,Green Party,3.1,Julie Julie,Liberal,44.3
+35019,Don Valley East,Khalid Ahmed,NDP-New Democratic Party,10.4,Yasmin Yasmin,Liberal,57.8
+35019,Don Valley East,Maureen Harquail,Conservative,29.2,Yasmin Yasmin,Liberal,57.8
+35019,Don Valley East,Yasmin Ratansi,Liberal,57.8,Yasmin Yasmin,Liberal,57.8
+35019,Don Valley East,Laura Elizabeth Sanderson,Green Party,2.6,Yasmin Yasmin,Liberal,57.8
+35020,Don Valley North,Caroline Brown,Green Party,2.2,Geng Geng,Liberal,51.4
+35020,Don Valley North,Joe Daniel,Conservative,37.8,Geng Geng,Liberal,51.4
+35020,Don Valley North,Akil Sadikali,NDP-New Democratic Party,8.5,Geng Geng,Liberal,51.4
+35020,Don Valley North,Geng Tan,Liberal,51.4,Geng Geng,Liberal,51.4
+35021,Don Valley West,John Carmichael,Conservative,37.6,Rob Rob,Liberal,53.8
+35021,Don Valley West,Sharon Cromwell,Independent,0.1,Rob Rob,Liberal,53.8
+35021,Don Valley West,Elizabeth Hill,Communist,0.2,Rob Rob,Liberal,53.8
+35021,Don Valley West,Natalie Hunt,Green Party,1.7,Rob Rob,Liberal,53.8
+35021,Don Valley West,John Kittredge,Libertarian,0.6,Rob Rob,Liberal,53.8
+35021,Don Valley West,Rob Oliphant,Liberal,53.8,Rob Rob,Liberal,53.8
+35021,Don Valley West,Syeda Riaz,NDP-New Democratic Party,6.0,Rob Rob,Liberal,53.8
+35022,Dufferin--Caledon,Ed Crewson,Liberal,39.1,David Allan David Allan,Conservative,46.3
+35022,Dufferin--Caledon,David Allan Tilson,Conservative,46.3,David Allan David Allan,Conservative,46.3
+35022,Dufferin--Caledon,Nancy Urekar,Green Party,7.3,David Allan David Allan,Conservative,46.3
+35022,Dufferin--Caledon,Rehya Yazbek,NDP-New Democratic Party,7.3,David Allan David Allan,Conservative,46.3
+35023,Durham,Stacey Leadbetter,Green Party,2.5,Erin Erin,Conservative,45.1
+35023,Durham,Andrew Moriarity,Christian Heritage Party,0.6,Erin Erin,Conservative,45.1
+35023,Durham,Erin O'Toole,Conservative,45.1,Erin Erin,Conservative,45.1
+35023,Durham,Derek Spence,NDP-New Democratic Party,16.0,Erin Erin,Conservative,45.1
+35023,Durham,Corinna Traill,Liberal,35.8,Erin Erin,Conservative,45.1
+35024,Eglinton--Lawrence,Rudy Brunell Solomonovici,Animal Alliance/Environment Voters,0.2,Marco Marco,Liberal,48.9
+35024,Eglinton--Lawrence,Ethan Buchman,Libertarian,0.6,Marco Marco,Liberal,48.9
+35024,Eglinton--Lawrence,Matthew Chisholm,Green Party,1.4,Marco Marco,Liberal,48.9
+35024,Eglinton--Lawrence,Marco Mendicino,Liberal,48.9,Marco Marco,Liberal,48.9
+35024,Eglinton--Lawrence,Joe Oliver,Conservative,42.6,Marco Marco,Liberal,48.9
+35024,Eglinton--Lawrence,Andrew Thomson,NDP-New Democratic Party,6.3,Marco Marco,Liberal,48.9
+35025,Elgin--Middlesex--London,Lori Baldwin-Sands,Liberal,31.0,Karen Louise Karen Louise,Conservative,49.2
+35025,Elgin--Middlesex--London,Lou Bernardi,Rhinoceros,0.3,Karen Louise Karen Louise,Conservative,49.2
+35025,Elgin--Middlesex--London,Michael Hopkins,Christian Heritage Party,0.9,Karen Louise Karen Louise,Conservative,49.2
+35025,Elgin--Middlesex--London,Bronagh Joyce Morgan,Green Party,3.1,Karen Louise Karen Louise,Conservative,49.2
+35025,Elgin--Middlesex--London,Fred Sinclair,NDP-New Democratic Party,15.4,Karen Louise Karen Louise,Conservative,49.2
+35025,Elgin--Middlesex--London,Karen Louise Vecchio,Conservative,49.2,Karen Louise Karen Louise,Conservative,49.2
+35026,Essex,Jennifer Alderson,Green Party,1.9,Tracey Tracey,NDP-New Democratic Party,41.4
+35026,Essex,Audrey Festeryga,Liberal,20.9,Tracey Tracey,NDP-New Democratic Party,41.4
+35026,Essex,Tracey Ramsey,NDP-New Democratic Party,41.4,Tracey Tracey,NDP-New Democratic Party,41.4
+35026,Essex,Enver Villamizar,Marxist-Leninist,0.1,Tracey Tracey,NDP-New Democratic Party,41.4
+35026,Essex,Jeff Watson,Conservative,35.7,Tracey Tracey,NDP-New Democratic Party,41.4
+35027,Etobicoke Centre,Tanya De Mello,NDP-New Democratic Party,7.9,Borys Borys,Liberal,52.8
+35027,Etobicoke Centre,Ted Opitz,Conservative,37.3,Borys Borys,Liberal,52.8
+35027,Etobicoke Centre,Shawn Rizvi,Green Party,1.4,Borys Borys,Liberal,52.8
+35027,Etobicoke Centre,Rob Wolvin,PC Party,0.6,Borys Borys,Liberal,52.8
+35027,Etobicoke Centre,Borys Wrzesnewskyj,Liberal,52.8,Borys Borys,Liberal,52.8
+35028,Etobicoke--Lakeshore,James Maloney,Liberal,53.7,James James,Liberal,53.7
+35028,Etobicoke--Lakeshore,Janice Murray,Marxist-Leninist,0.3,James James,Liberal,53.7
+35028,Etobicoke--Lakeshore,Angela Salewsky,Green Party,2.3,James James,Liberal,53.7
+35028,Etobicoke--Lakeshore,Phil Trotter,NDP-New Democratic Party,10.9,James James,Liberal,53.7
+35028,Etobicoke--Lakeshore,Bernard Trottier,Conservative,32.4,James James,Liberal,53.7
+35028,Etobicoke--Lakeshore,Liz White,Animal Alliance/Environment Voters,0.4,James James,Liberal,53.7
+35029,Etobicoke North,Akhtar Ayub,Green Party,1.2,Kirsty Kirsty,Liberal,62.4
+35029,Etobicoke North,Toyin Dada,Conservative,23.0,Kirsty Kirsty,Liberal,62.4
+35029,Etobicoke North,Anna Di Carlo,Marxist-Leninist,0.6,Kirsty Kirsty,Liberal,62.4
+35029,Etobicoke North,Kirsty Duncan,Liberal,62.4,Kirsty Kirsty,Liberal,62.4
+35029,Etobicoke North,Faisal Hassan,NDP-New Democratic Party,12.4,Kirsty Kirsty,Liberal,62.4
+35029,Etobicoke North,George Szebik,No Affiliation,0.4,Kirsty Kirsty,Liberal,62.4
+35030,Flamborough--Glanbrook,Mike DiLivio,NDP-New Democratic Party,14.0,David David,Conservative,43.5
+35030,Flamborough--Glanbrook,Jennifer Stebbing,Liberal,39.1,David David,Conservative,43.5
+35030,Flamborough--Glanbrook,David Sweet,Conservative,43.5,David David,Conservative,43.5
+35030,Flamborough--Glanbrook,David Allan Urquhart,Green Party,3.4,David David,Conservative,43.5
+35031,Glengarry--Prescott--Russell,Jean-Serge Brisson,Libertarian,0.6,Francis Francis,Liberal,53.3
+35031,Glengarry--Prescott--Russell,Francis Drouin,Liberal,53.3,Francis Francis,Liberal,53.3
+35031,Glengarry--Prescott--Russell,Normand Laurin,NDP-New Democratic Party,7.9,Francis Francis,Liberal,53.3
+35031,Glengarry--Prescott--Russell,Pierre Lemieux,Conservative,36.4,Francis Francis,Liberal,53.3
+35031,Glengarry--Prescott--Russell,Genevieve Malouin-Diraddo,Green Party,1.8,Francis Francis,Liberal,53.3
+35032,Guelph,Tristan Dineen,Communist,0.2,Lloyd Lloyd,Liberal,49.1
+35032,Guelph,Alexander Fekri,Libertarian,0.7,Lloyd Lloyd,Liberal,49.1
+35032,Guelph,Kornelis Klevering,Radical Marijuana,0.3,Lloyd Lloyd,Liberal,49.1
+35032,Guelph,Gloria Kovach,Conservative,26.3,Lloyd Lloyd,Liberal,49.1
+35032,Guelph,Lloyd Longfield,Liberal,49.1,Lloyd Lloyd,Liberal,49.1
+35032,Guelph,Gord Miller,Green Party,11.3,Lloyd Lloyd,Liberal,49.1
+35032,Guelph,Andrew Seagram,NDP-New Democratic Party,12.0,Lloyd Lloyd,Liberal,49.1
+35033,Haldimand--Norfolk,Leslie Bory,Independent,0.3,Diane Diane,Conservative,44.1
+35033,Haldimand--Norfolk,Dave Bylsma,Christian Heritage Party,1.6,Diane Diane,Conservative,44.1
+35033,Haldimand--Norfolk,Wayne Ettinger,Green Party,3.3,Diane Diane,Conservative,44.1
+35033,Haldimand--Norfolk,Diane Finley,Conservative,44.1,Diane Diane,Conservative,44.1
+35033,Haldimand--Norfolk,John Harris,NDP-New Democratic Party,13.6,Diane Diane,Conservative,44.1
+35033,Haldimand--Norfolk,Joan Mouland,Liberal,36.6,Diane Diane,Conservative,44.1
+35033,Haldimand--Norfolk,Dustin Wakeford,Independent,0.5,Diane Diane,Conservative,44.1
+35034,Haliburton--Kawartha Lakes--Brock,Bill MacCallum,Green Party,4.0,Jamie Jamie,Conservative,44.8
+35034,Haliburton--Kawartha Lakes--Brock,David Marquis,Liberal,31.8,Jamie Jamie,Conservative,44.8
+35034,Haliburton--Kawartha Lakes--Brock,Mike Perry,NDP-New Democratic Party,19.4,Jamie Jamie,Conservative,44.8
+35034,Haliburton--Kawartha Lakes--Brock,Jamie Schmale,Conservative,44.8,Jamie Jamie,Conservative,44.8
+35035,Hamilton Centre,Maria Anastasiou,Independent,0.5,David David,NDP-New Democratic Party,45.6
+35035,Hamilton Centre,Michael James Baldasaro,Radical Marijuana,0.8,David David,NDP-New Democratic Party,45.6
+35035,Hamilton Centre,David Christopherson,NDP-New Democratic Party,45.6,David David,NDP-New Democratic Party,45.6
+35035,Hamilton Centre,Yonatan Rozenszajn,Conservative,14.6,David David,NDP-New Democratic Party,45.6
+35035,Hamilton Centre,Ute Schmid-Jones,Green Party,4.3,David David,NDP-New Democratic Party,45.6
+35035,Hamilton Centre,Anne Tennier,Liberal,33.4,David David,NDP-New Democratic Party,45.6
+35035,Hamilton Centre,Rob Young,Libertarian,0.8,David David,NDP-New Democratic Party,45.6
+35036,Hamilton East--Stoney Creek,Bob Bratina,Liberal,39.0,Bob Bob,Liberal,39.0
+35036,Hamilton East--Stoney Creek,Diane Bubanko,Conservative,25.3,Bob Bob,Liberal,39.0
+35036,Hamilton East--Stoney Creek,Erin Davis,Green Party,2.6,Bob Bob,Liberal,39.0
+35036,Hamilton East--Stoney Creek,Wendell Fields,Marxist-Leninist,0.1,Bob Bob,Liberal,39.0
+35036,Hamilton East--Stoney Creek,Bob Mann,Communist,0.3,Bob Bob,Liberal,39.0
+35036,Hamilton East--Stoney Creek,Wayne Marston,NDP-New Democratic Party,32.7,Bob Bob,Liberal,39.0
+35037,Hamilton Mountain,Raheem Aman,Green Party,2.5,Scott Scott,NDP-New Democratic Party,35.9
+35037,Hamilton Mountain,Shaun Burt,Liberal,33.5,Scott Scott,NDP-New Democratic Party,35.9
+35037,Hamilton Mountain,Andrew James Caton,Libertarian,1.5,Scott Scott,NDP-New Democratic Party,35.9
+35037,Hamilton Mountain,Scott Duvall,NDP-New Democratic Party,35.9,Scott Scott,NDP-New Democratic Party,35.9
+35037,Hamilton Mountain,Jim Enos,Christian Heritage Party,0.9,Scott Scott,NDP-New Democratic Party,35.9
+35037,Hamilton Mountain,Al Miles,Conservative,25.7,Scott Scott,NDP-New Democratic Party,35.9
+35038,Hamilton West--Ancaster--Dundas,Alex Johnstone,NDP-New Democratic Party,16.3,Filomena Filomena,Liberal,47.7
+35038,Hamilton West--Ancaster--Dundas,Peter Ormond,Green Party,4.2,Filomena Filomena,Liberal,47.7
+35038,Hamilton West--Ancaster--Dundas,Vincent Samuel,Conservative,31.8,Filomena Filomena,Liberal,47.7
+35038,Hamilton West--Ancaster--Dundas,Filomena Tassi,Liberal,47.7,Filomena Filomena,Liberal,47.7
+35039,Hastings--Lennox and Addington,Betty Bannon,NDP-New Democratic Party,12.7,Mike Mike,Liberal,42.4
+35039,Hastings--Lennox and Addington,Mike Bossio,Liberal,42.4,Mike Mike,Liberal,42.4
+35039,Hastings--Lennox and Addington,Daryl Kramp,Conservative,41.9,Mike Mike,Liberal,42.4
+35039,Hastings--Lennox and Addington,Cam Mather,Green Party,2.9,Mike Mike,Liberal,42.4
+35040,Huron--Bruce,Gerard Creces,NDP-New Democratic Party,13.0,Ben Ben,Conservative,44.9
+35040,Huron--Bruce,Ben Lobb,Conservative,44.9,Ben Ben,Conservative,44.9
+35040,Huron--Bruce,Jutta Splettstoesser,Green Party,2.4,Ben Ben,Conservative,44.9
+35040,Huron--Bruce,Allan Thompson,Liberal,39.7,Ben Ben,Conservative,44.9
+35041,Kanata--Carleton,John Hansen,NDP-New Democratic Party,6.8,Karen Karen,Liberal,51.3
+35041,Kanata--Carleton,Karen McCrimmon,Liberal,51.3,Karen Karen,Liberal,51.3
+35041,Kanata--Carleton,Walter Pamic,Conservative,39.2,Karen Karen,Liberal,51.3
+35041,Kanata--Carleton,Andrew West,Green Party,2.7,Karen Karen,Liberal,51.3
+35042,Kenora,Kelvin Boucher-Chicago,Independent,0.5,Bob Bob,Liberal,35.5
+35042,Kenora,Howard Hampton,NDP-New Democratic Party,33.9,Bob Bob,Liberal,35.5
+35042,Kenora,Ember C. McKillop,Green Party,1.6,Bob Bob,Liberal,35.5
+35042,Kenora,Bob Nault,Liberal,35.5,Bob Bob,Liberal,35.5
+35042,Kenora,Greg Rickford,Conservative,28.5,Bob Bob,Liberal,35.5
+35043,King--Vaughan,Ann Raney,Green Party,1.9,Deb Deb,Liberal,47.4
+35043,King--Vaughan,Natalie Rizzo,NDP-New Democratic Party,6.5,Deb Deb,Liberal,47.4
+35043,King--Vaughan,Deb Schulte,Liberal,47.4,Deb Deb,Liberal,47.4
+35043,King--Vaughan,Konstantin Toubis,Conservative,44.2,Deb Deb,Liberal,47.4
+35044,Kingston and the Islands,Daniel Beals,NDP-New Democratic Party,17.0,Mark Mark,Liberal,55.4
+35044,Kingston and the Islands,Andy Brooke,Conservative,22.7,Mark Mark,Liberal,55.4
+35044,Kingston and the Islands,Mark Gerretsen,Liberal,55.4,Mark Mark,Liberal,55.4
+35044,Kingston and the Islands,Luke McAllister,Libertarian,0.5,Mark Mark,Liberal,55.4
+35044,Kingston and the Islands,Nathan Townend,Green Party,4.5,Mark Mark,Liberal,55.4
+35045,Kitchener Centre,Susan Cadell,NDP-New Democratic Party,16.6,Raj Raj,Liberal,48.8
+35045,Kitchener Centre,Julian Ichim,Marxist-Leninist,0.2,Raj Raj,Liberal,48.8
+35045,Kitchener Centre,Slavko Miladinovic,Libertarian,1.0,Raj Raj,Liberal,48.8
+35045,Kitchener Centre,Raj Saini,Liberal,48.8,Raj Raj,Liberal,48.8
+35045,Kitchener Centre,Nicholas Wendler,Green Party,3.1,Raj Raj,Liberal,48.8
+35045,Kitchener Centre,Stephen Woodworth,Conservative,30.4,Raj Raj,Liberal,48.8
+35046,Kitchener--Conestoga,Harold Albrecht,Conservative,43.3,Harold Harold,Conservative,43.3
+35046,Kitchener--Conestoga,Richard Hodgson,Libertarian,1.4,Harold Harold,Conservative,43.3
+35046,Kitchener--Conestoga,Bob Jonkman,Green Party,2.8,Harold Harold,Conservative,43.3
+35046,Kitchener--Conestoga,Tim Louis,Liberal,42.8,Harold Harold,Conservative,43.3
+35046,Kitchener--Conestoga,James Villeneuve,NDP-New Democratic Party,9.8,Harold Harold,Conservative,43.3
+35047,Kitchener South--Hespeler,Elaine Baetz,Marxist-Leninist,0.2,Marwan Marwan,Liberal,42.3
+35047,Kitchener South--Hespeler,Lorne Bruce,NDP-New Democratic Party,15.6,Marwan Marwan,Liberal,42.3
+35047,Kitchener South--Hespeler,Marian Gagné,Conservative,36.7,Marwan Marwan,Liberal,42.3
+35047,Kitchener South--Hespeler,Nathan Lajeunesse,Libertarian,1.6,Marwan Marwan,Liberal,42.3
+35047,Kitchener South--Hespeler,Marwan Tabbara,Liberal,42.3,Marwan Marwan,Liberal,42.3
+35047,Kitchener South--Hespeler,David Weber,Green Party,3.7,Marwan Marwan,Liberal,42.3
+35048,Lambton--Kent--Middlesex,Ken Filson,Liberal,29.4,Bev Bev,Conservative,50.2
+35048,Lambton--Kent--Middlesex,Rex Isaac,NDP-New Democratic Party,17.0,Bev Bev,Conservative,50.2
+35048,Lambton--Kent--Middlesex,Jim Johnston,Green Party,3.3,Bev Bev,Conservative,50.2
+35048,Lambton--Kent--Middlesex,Bev Shipley,Conservative,50.2,Bev Bev,Conservative,50.2
+35049,Lanark--Frontenac--Kingston,Phil Archambault,Liberal,33.8,Scott Scott,Conservative,47.9
+35049,Lanark--Frontenac--Kingston,Mark Budd,Libertarian,0.7,Scott Scott,Conservative,47.9
+35049,Lanark--Frontenac--Kingston,John Fenik,NDP-New Democratic Party,14.1,Scott Scott,Conservative,47.9
+35049,Lanark--Frontenac--Kingston,Anita Payne,Green Party,3.5,Scott Scott,Conservative,47.9
+35049,Lanark--Frontenac--Kingston,Scott Reid,Conservative,47.9,Scott Scott,Conservative,47.9
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,Margaret Andrade,NDP-New Democratic Party,8.4,Gord Gord,Conservative,47.4
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,Gord Brown,Conservative,47.4,Gord Gord,Conservative,47.4
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,Mary Jean McFall,Liberal,40.6,Gord Gord,Conservative,47.4
+35050,Leeds-Grenville-Thousand Islands and Rideau Lakes,Lorraine A. Rekmans,Green Party,3.7,Gord Gord,Conservative,47.4
+35051,London--Fanshawe,Suzanna Dieleman,Conservative,27.2,Irene Irene,NDP-New Democratic Party,37.8
+35051,London--Fanshawe,Ali Hamadi,Independent,0.6,Irene Irene,NDP-New Democratic Party,37.8
+35051,London--Fanshawe,Irene Mathyssen,NDP-New Democratic Party,37.8,Irene Irene,NDP-New Democratic Party,37.8
+35051,London--Fanshawe,Matthew Peloza,Green Party,2.9,Irene Irene,NDP-New Democratic Party,37.8
+35051,London--Fanshawe,Khalil Ramal,Liberal,31.4,Irene Irene,NDP-New Democratic Party,37.8
+35052,London North Centre,Carol Dyck,Green Party,3.6,Peter Peter,Liberal,50.5
+35052,London North Centre,Peter Fragiskatos,Liberal,50.5,Peter Peter,Liberal,50.5
+35052,London North Centre,German Gutierrez,NDP-New Democratic Party,14.7,Peter Peter,Liberal,50.5
+35052,London North Centre,Marvin Roman,Marxist-Leninist,0.2,Peter Peter,Liberal,50.5
+35052,London North Centre,Susan Truppe,Conservative,31.1,Peter Peter,Liberal,50.5
+35053,London West,Jacques Y. Boudreau,Libertarian,1.1,Kate Kate,Liberal,45.8
+35053,London West,Ed Holder,Conservative,35.3,Kate Kate,Liberal,45.8
+35053,London West,Dimitri Lascaris,Green Party,2.8,Kate Kate,Liberal,45.8
+35053,London West,Michael Lewis,Communist,0.1,Kate Kate,Liberal,45.8
+35053,London West,Matthew Rowlinson,NDP-New Democratic Party,14.8,Kate Kate,Liberal,45.8
+35053,London West,Kate Young,Liberal,45.8,Kate Kate,Liberal,45.8
+35054,Markham--Stouffville,Paul Calandra,Conservative,42.8,Jane Jane,Liberal,49.2
+35054,Markham--Stouffville,Gregory Hines,NDP-New Democratic Party,6.1,Jane Jane,Liberal,49.2
+35054,Markham--Stouffville,Myles O'Brien,Green Party,1.9,Jane Jane,Liberal,49.2
+35054,Markham--Stouffville,Jane Philpott,Liberal,49.2,Jane Jane,Liberal,49.2
+35055,Markham--Thornhill,Senthi Chelliah,NDP-New Democratic Party,10.7,John John,Liberal,55.7
+35055,Markham--Thornhill,Jobson Easow,Conservative,32.3,John John,Liberal,55.7
+35055,Markham--Thornhill,John McCallum,Liberal,55.7,John John,Liberal,55.7
+35055,Markham--Thornhill,Joshua Russell,Green Party,1.2,John John,Liberal,55.7
+35056,Markham--Unionville,Bang-Gu Jiang,Liberal,43.3,Bob Bob,Conservative,49.4
+35056,Markham--Unionville,Elvin Kao,Green Party,2.2,Bob Bob,Conservative,49.4
+35056,Markham--Unionville,Bob Saroya,Conservative,49.4,Bob Bob,Conservative,49.4
+35056,Markham--Unionville,Colleen Zimmerman,NDP-New Democratic Party,5.1,Bob Bob,Conservative,49.4
+35057,Milton,Alex Anabusi,NDP-New Democratic Party,10.9,Lisa Lisa,Conservative,45.4
+35057,Milton,Mini Batra,Green Party,2.3,Lisa Lisa,Conservative,45.4
+35057,Milton,Chris Jewell,Libertarian,1.0,Lisa Lisa,Conservative,45.4
+35057,Milton,Lisa Raitt,Conservative,45.4,Lisa Lisa,Conservative,45.4
+35057,Milton,Azim Rizvee,Liberal,40.4,Lisa Lisa,Conservative,45.4
+35058,Mississauga Centre,Omar Alghabra,Liberal,54.7,Omar Omar,Liberal,54.7
+35058,Mississauga Centre,Farheen Khan,NDP-New Democratic Party,9.5,Omar Omar,Liberal,54.7
+35058,Mississauga Centre,Linh Nguyen,Green Party,2.2,Omar Omar,Liberal,54.7
+35058,Mississauga Centre,Julius Tiangson,Conservative,33.6,Omar Omar,Liberal,54.7
+35059,Mississauga East--Cooksville,Jaymini Bhikha,Green Party,1.5,Peter Peter,Liberal,54.2
+35059,Mississauga East--Cooksville,Peter Fonseca,Liberal,54.2,Peter Peter,Liberal,54.2
+35059,Mississauga East--Cooksville,Wladyslaw Lizon,Conservative,35.4,Peter Peter,Liberal,54.2
+35059,Mississauga East--Cooksville,Ali Naqvi,NDP-New Democratic Party,8.6,Peter Peter,Liberal,54.2
+35059,Mississauga East--Cooksville,Tim Sullivan,Marxist-Leninist,0.3,Peter Peter,Liberal,54.2
+35060,Mississauga--Erin Mills,Michelle Bilek,NDP-New Democratic Party,9.4,Iqra Iqra,Liberal,49.7
+35060,Mississauga--Erin Mills,Bob Dechert,Conservative,39.2,Iqra Iqra,Liberal,49.7
+35060,Mississauga--Erin Mills,Iqra Khalid,Liberal,49.7,Iqra Iqra,Liberal,49.7
+35060,Mississauga--Erin Mills,Andrew Roblin,Green Party,1.6,Iqra Iqra,Liberal,49.7
+35061,Mississauga--Lakeshore,Stella Ambler,Conservative,41.2,Sven Sven,Liberal,47.7
+35061,Mississauga--Lakeshore,Ariana Burgener,Green Party,2.4,Sven Sven,Liberal,47.7
+35061,Mississauga--Lakeshore,Eric Guerbilsky,NDP-New Democratic Party,8.0,Sven Sven,Liberal,47.7
+35061,Mississauga--Lakeshore,Sven Spengemann,Liberal,47.7,Sven Sven,Liberal,47.7
+35061,Mississauga--Lakeshore,Dagmar Sullivan,Marxist-Leninist,0.2,Sven Sven,Liberal,47.7
+35061,Mississauga--Lakeshore,Paul Woodworth,Libertarian,0.5,Sven Sven,Liberal,47.7
+35062,Mississauga--Malton,Navdeep Bains,Liberal,59.1,Navdeep Navdeep,Liberal,59.1
+35062,Mississauga--Malton,Dianne Douglas,NDP-New Democratic Party,12.3,Navdeep Navdeep,Liberal,59.1
+35062,Mississauga--Malton,Jagdish Grewal,Conservative,26.4,Navdeep Navdeep,Liberal,59.1
+35062,Mississauga--Malton,Heather Mercer,Green Party,1.7,Navdeep Navdeep,Liberal,59.1
+35062,Mississauga--Malton,Naresh Tharani,Independent,0.5,Navdeep Navdeep,Liberal,59.1
+35063,Mississauga--Streetsville,Brad Butt,Conservative,40.4,Gagan Gagan,Liberal,47.8
+35063,Mississauga--Streetsville,Chris Hill,Green Party,2.3,Gagan Gagan,Liberal,47.8
+35063,Mississauga--Streetsville,Fayaz Karim,NDP-New Democratic Party,9.0,Gagan Gagan,Liberal,47.8
+35063,Mississauga--Streetsville,Gagan Sikand,Liberal,47.8,Gagan Gagan,Liberal,47.8
+35063,Mississauga--Streetsville,Yegor Tarazevich,Christian Heritage Party,0.5,Gagan Gagan,Liberal,47.8
+35064,Nepean,Chandra Arya,Liberal,52.4,Chandra Chandra,Liberal,52.4
+35064,Nepean,Jean-Luc Roger Cooke,Green Party,2.3,Chandra Chandra,Liberal,52.4
+35064,Nepean,Jesus Cosico,Independent,0.6,Chandra Chandra,Liberal,52.4
+35064,Nepean,Sean Devine,NDP-New Democratic Party,8.2,Chandra Chandra,Liberal,52.4
+35064,Nepean,Hubert Mamba,Independent,0.1,Chandra Chandra,Liberal,52.4
+35064,Nepean,Tony Seed,Marxist-Leninist,0.1,Chandra Chandra,Liberal,52.4
+35064,Nepean,Harry Splett,Independent,0.1,Chandra Chandra,Liberal,52.4
+35064,Nepean,Andy Wang,Conservative,36.1,Chandra Chandra,Liberal,52.4
+35065,Newmarket--Aurora,Dorian Baxter,PC Party,1.3,Kyle Kyle,Liberal,45.2
+35065,Newmarket--Aurora,Lois Brown,Conservative,42.6,Kyle Kyle,Liberal,45.2
+35065,Newmarket--Aurora,Yvonne Kelly,NDP-New Democratic Party,8.5,Kyle Kyle,Liberal,45.2
+35065,Newmarket--Aurora,Vanessa Long,Green Party,2.4,Kyle Kyle,Liberal,45.2
+35065,Newmarket--Aurora,Kyle Peterson,Liberal,45.2,Kyle Kyle,Liberal,45.2
+35066,Niagara Centre,Malcolm Allen,NDP-New Democratic Party,31.5,Vance Vance,Liberal,35.7
+35066,Niagara Centre,Vance Badawey,Liberal,35.7,Vance Vance,Liberal,35.7
+35066,Niagara Centre,David Clow,Green Party,2.4,Vance Vance,Liberal,35.7
+35066,Niagara Centre,Jody Di Bartolomeo,Animal Alliance/Environment Voters,0.5,Vance Vance,Liberal,35.7
+35066,Niagara Centre,Leanna Villella,Conservative,29.7,Vance Vance,Liberal,35.7
+35066,Niagara Centre,Ron J. Walker,Marxist-Leninist,0.2,Vance Vance,Liberal,35.7
+35067,Niagara Falls,Carolynn Ioannoni,NDP-New Democratic Party,20.9,Rob Rob,Conservative,42.1
+35067,Niagara Falls,Rob Nicholson,Conservative,42.1,Rob Rob,Conservative,42.1
+35067,Niagara Falls,Ron Planche,Liberal,34.5,Rob Rob,Conservative,42.1
+35067,Niagara Falls,Steven Soos,Green Party,2.5,Rob Rob,Conservative,42.1
+35068,Niagara West,Dean Allison,Conservative,48.8,Dean Dean,Conservative,48.8
+35068,Niagara West,Sid Frere,Green Party,3.0,Dean Dean,Conservative,48.8
+35068,Niagara West,Harold Jonker,Christian Heritage Party,2.4,Dean Dean,Conservative,48.8
+35068,Niagara West,Nameer Rahman,NDP-New Democratic Party,11.5,Dean Dean,Conservative,48.8
+35068,Niagara West,Phil Rose,Liberal,32.7,Dean Dean,Conservative,48.8
+35068,Niagara West,Allan de Roo,Libertarian,1.6,Dean Dean,Conservative,48.8
+35069,Nickel Belt,Claude Gravelle,NDP-New Democratic Party,37.8,Marc G. Marc G.,Liberal,42.8
+35069,Nickel Belt,Aino Laamanen,Conservative,16.7,Marc G. Marc G.,Liberal,42.8
+35069,Nickel Belt,Stuart McCall,Green Party,2.5,Marc G. Marc G.,Liberal,42.8
+35069,Nickel Belt,Marc G. Serré,Liberal,42.8,Marc G. Marc G.,Liberal,42.8
+35069,Nickel Belt,Dave Starbuck,Marxist-Leninist,0.2,Marc G. Marc G.,Liberal,42.8
+35070,Nipissing--Timiskaming,Jay Aspin,Conservative,29.3,Anthony Anthony,Liberal,51.9
+35070,Nipissing--Timiskaming,Kathleen Jodouin,NDP-New Democratic Party,16.2,Anthony Anthony,Liberal,51.9
+35070,Nipissing--Timiskaming,Nicole Peltier,Green Party,2.6,Anthony Anthony,Liberal,51.9
+35070,Nipissing--Timiskaming,Anthony Rota,Liberal,51.9,Anthony Anthony,Liberal,51.9
+35071,Northumberland--Peterborough South,Russ Christianson,NDP-New Democratic Party,14.8,Kim Kim,Liberal,42.5
+35071,Northumberland--Peterborough South,Adam Moulton,Conservative,39.6,Kim Kim,Liberal,42.5
+35071,Northumberland--Peterborough South,Kim Rudd,Liberal,42.5,Kim Kim,Liberal,42.5
+35071,Northumberland--Peterborough South,Patricia Sinnott,Green Party,3.1,Kim Kim,Liberal,42.5
+35072,Oakville,David Doel,Green Party,2.2,John John,Liberal,49.4
+35072,Oakville,Che Marville,NDP-New Democratic Party,5.9,John John,Liberal,49.4
+35072,Oakville,John Oliver,Liberal,49.4,John John,Liberal,49.4
+35072,Oakville,Terence Young,Conservative,42.5,John John,Liberal,49.4
+35073,Oakville North--Burlington,Janice Best,NDP-New Democratic Party,7.2,Pam Pam,Liberal,46.7
+35073,Oakville North--Burlington,David Clement,Libertarian,1.1,Pam Pam,Liberal,46.7
+35073,Oakville North--Burlington,Pam Damoff,Liberal,46.7,Pam Pam,Liberal,46.7
+35073,Oakville North--Burlington,Adnan Shahbaz,Green Party,1.6,Pam Pam,Liberal,46.7
+35073,Oakville North--Burlington,Effie Triantafilopoulos,Conservative,43.3,Pam Pam,Liberal,46.7
+35074,Oshawa,Colin Carrie,Conservative,38.2,Colin Colin,Conservative,38.2
+35074,Oshawa,Michael Dempsey,Green Party,2.5,Colin Colin,Conservative,38.2
+35074,Oshawa,Mary Fowler,NDP-New Democratic Party,31.9,Colin Colin,Conservative,38.2
+35074,Oshawa,David Gershuny,Marxist-Leninist,0.1,Colin Colin,Conservative,38.2
+35074,Oshawa,Tito-Dante Marimpietri,Liberal,27.3,Colin Colin,Conservative,38.2
+35075,Ottawa Centre,John Andrew Omowole Akpata,Radical Marijuana,0.2,Catherine Mary Catherine Mary,Liberal,42.7
+35075,Ottawa Centre,Paul Dewar,NDP-New Democratic Party,38.5,Catherine Mary Catherine Mary,Liberal,42.7
+35075,Ottawa Centre,Dean T. Harris,Libertarian,0.7,Catherine Mary Catherine Mary,Liberal,42.7
+35075,Ottawa Centre,Damian Konstantinakos,Conservative,14.5,Catherine Mary Catherine Mary,Liberal,42.7
+35075,Ottawa Centre,Conrad Lukawski,Rhinoceros,0.2,Catherine Mary Catherine Mary,Liberal,42.7
+35075,Ottawa Centre,Catherine Mary McKenna,Liberal,42.7,Catherine Mary Catherine Mary,Liberal,42.7
+35075,Ottawa Centre,Tom Milroy,Green Party,3.0,Catherine Mary Catherine Mary,Liberal,42.7
+35075,Ottawa Centre,Stuart Ryan,Communist,0.2,Catherine Mary Catherine Mary,Liberal,42.7
+35076,Orléans,Royal Galipeau,Conservative,30.5,Andrew Andrew,Liberal,59.7
+35076,Orléans,Andrew Leslie,Liberal,59.7,Andrew Andrew,Liberal,59.7
+35076,Orléans,Raphaël Morin,Green Party,1.8,Andrew Andrew,Liberal,59.7
+35076,Orléans,Nancy Tremblay,NDP-New Democratic Party,8.0,Andrew Andrew,Liberal,59.7
+35077,Ottawa South,Dev Balkissoon,Conservative,24.3,David David,Liberal,60.1
+35077,Ottawa South,George Brown,NDP-New Democratic Party,11.6,David David,Liberal,60.1
+35077,Ottawa South,Al Gullon,PC Party,0.6,David David,Liberal,60.1
+35077,Ottawa South,David McGuinty,Liberal,60.1,David David,Liberal,60.1
+35077,Ottawa South,John Redins,Green Party,2.9,David David,Liberal,60.1
+35077,Ottawa South,Larry Wasslen,Communist,0.2,David David,Liberal,60.1
+35077,Ottawa South,Damien Wilson,Libertarian,0.4,David David,Liberal,60.1
+35078,Ottawa--Vanier,Mauril Bélanger,Liberal,57.6,Mauril Mauril,Liberal,57.6
+35078,Ottawa--Vanier,Coreen Corcoran,Libertarian,0.8,Mauril Mauril,Liberal,57.6
+35078,Ottawa--Vanier,Nira Dookeran,Green Party,3.1,Mauril Mauril,Liberal,57.6
+35078,Ottawa--Vanier,Christian Legeais,Marxist-Leninist,0.2,Mauril Mauril,Liberal,57.6
+35078,Ottawa--Vanier,David Piccini,Conservative,19.1,Mauril Mauril,Liberal,57.6
+35078,Ottawa--Vanier,Emilie Taman,NDP-New Democratic Party,19.2,Mauril Mauril,Liberal,57.6
+35079,Ottawa West--Nepean,Abdul Abdi,Conservative,30.0,Anita Anita,Liberal,55.9
+35079,Ottawa West--Nepean,Mark Brooks,Green Party,2.8,Anita Anita,Liberal,55.9
+35079,Ottawa West--Nepean,Sam Heaton,Marxist-Leninist,0.2,Anita Anita,Liberal,55.9
+35079,Ottawa West--Nepean,Marlene Rivier,NDP-New Democratic Party,9.8,Anita Anita,Liberal,55.9
+35079,Ottawa West--Nepean,Rod Taylor,Christian Heritage Party,1.2,Anita Anita,Liberal,55.9
+35079,Ottawa West--Nepean,Anita Vandenbeld,Liberal,55.9,Anita Anita,Liberal,55.9
+35080,Oxford,Melody Ann Aldred,Christian Heritage Party,2.1,Dave Dave,Conservative,45.7
+35080,Oxford,Mike Farlow,Green Party,3.5,Dave Dave,Conservative,45.7
+35080,Oxford,Zoe Kunschner,NDP-New Democratic Party,16.5,Dave Dave,Conservative,45.7
+35080,Oxford,Dave MacKenzie,Conservative,45.7,Dave Dave,Conservative,45.7
+35080,Oxford,Don McKay,Liberal,32.2,Dave Dave,Conservative,45.7
+35081,Parkdale--High Park,Ian Allen,Conservative,13.0,Arif Arif,Liberal,42.0
+35081,Parkdale--High Park,Lorne Gershuny,Marxist-Leninist,0.2,Arif Arif,Liberal,42.0
+35081,Parkdale--High Park,Mark Jeftovic,Libertarian,1.0,Arif Arif,Liberal,42.0
+35081,Parkdale--High Park,Peggy Nash,NDP-New Democratic Party,40.2,Arif Arif,Liberal,42.0
+35081,Parkdale--High Park,Terry Parker,Radical Marijuana,0.3,Arif Arif,Liberal,42.0
+35081,Parkdale--High Park,Adam Phipps,Green Party,3.0,Arif Arif,Liberal,42.0
+35081,Parkdale--High Park,Carol Royer,Independent,0.2,Arif Arif,Liberal,42.0
+35081,Parkdale--High Park,Arif Virani,Liberal,42.0,Arif Arif,Liberal,42.0
+35082,Parry Sound--Muskoka,Duncan Bell,Pirate,0.2,Tony Tony,Conservative,43.3
+35082,Parry Sound--Muskoka,Tony Clement,Conservative,43.3,Tony Tony,Conservative,43.3
+35082,Parry Sound--Muskoka,Trisha Cowie,Liberal,38.9,Tony Tony,Conservative,43.3
+35082,Parry Sound--Muskoka,Glen Hodgson,Green Party,7.2,Tony Tony,Conservative,43.3
+35082,Parry Sound--Muskoka,Matt McCarthy,NDP-New Democratic Party,10.1,Tony Tony,Conservative,43.3
+35082,Parry Sound--Muskoka,Gordie Merton,CAP,0.2,Tony Tony,Conservative,43.3
+35082,Parry Sound--Muskoka,Albert Gray Smith,Marxist-Leninist,0.1,Tony Tony,Conservative,43.3
+35083,Perth--Wellington,Irma DeVries,Christian Heritage Party,1.5,John John,Conservative,42.9
+35083,Perth--Wellington,Roger Fuhr,No Affiliation,0.4,John John,Conservative,42.9
+35083,Perth--Wellington,Stephen McCotter,Liberal,37.6,John John,Conservative,42.9
+35083,Perth--Wellington,John Nater,Conservative,42.9,John John,Conservative,42.9
+35083,Perth--Wellington,Ethan Rabidoux,NDP-New Democratic Party,15.0,John John,Conservative,42.9
+35083,Perth--Wellington,Nicole Ramsdale,Green Party,2.6,John John,Conservative,42.9
+35084,Peterborough--Kawartha,Toban Leckie,Forces et Démocratie - Allier les forces de nos régions,0.2,Maryam Maryam,Liberal,43.8
+35084,Peterborough--Kawartha,Doug Mason,Green Party,2.2,Maryam Maryam,Liberal,43.8
+35084,Peterborough--Kawartha,Maryam Monsef,Liberal,43.8,Maryam Maryam,Liberal,43.8
+35084,Peterborough--Kawartha,Dave Nickle,NDP-New Democratic Party,18.7,Maryam Maryam,Liberal,43.8
+35084,Peterborough--Kawartha,Michael Skinner,Conservative,35.1,Maryam Maryam,Liberal,43.8
+35085,Pickering--Uxbridge,Corneliu Chisu,Conservative,38.2,Jennifer Jennifer,Liberal,50.3
+35085,Pickering--Uxbridge,Pamela Downward,NDP-New Democratic Party,9.2,Jennifer Jennifer,Liberal,50.3
+35085,Pickering--Uxbridge,Anthony Jordan Navarro,Green Party,2.3,Jennifer Jennifer,Liberal,50.3
+35085,Pickering--Uxbridge,Jennifer O'Connell,Liberal,50.3,Jennifer Jennifer,Liberal,50.3
+35086,Renfrew--Nipissing--Pembroke,Hector Clouthier,Independent,11.0,Cheryl Cheryl,Conservative,45.8
+35086,Renfrew--Nipissing--Pembroke,Cheryl Gallant,Conservative,45.8,Cheryl Cheryl,Conservative,45.8
+35086,Renfrew--Nipissing--Pembroke,Stefan Klietsch,Green Party,1.9,Cheryl Cheryl,Conservative,45.8
+35086,Renfrew--Nipissing--Pembroke,Jeff Lehoux,Liberal,32.7,Cheryl Cheryl,Conservative,45.8
+35086,Renfrew--Nipissing--Pembroke,Dan McCarthy,NDP-New Democratic Party,8.6,Cheryl Cheryl,Conservative,45.8
+35087,Richmond Hill,Adam DeVita,NDP-New Democratic Party,8.0,Majid Majid,Liberal,46.9
+35087,Richmond Hill,Majid Jowhari,Liberal,46.9,Majid Majid,Liberal,46.9
+35087,Richmond Hill,Michael Parsa,Conservative,43.3,Majid Majid,Liberal,46.9
+35087,Richmond Hill,Gwendolyn Veenema,Green Party,1.7,Majid Majid,Liberal,46.9
+35088,Carleton,Deborah Coyne,Green Party,3.3,Pierre Pierre,Conservative,46.9
+35088,Carleton,Kc Larocque,NDP-New Democratic Party,6.1,Pierre Pierre,Conservative,46.9
+35088,Carleton,Pierre Poilievre,Conservative,46.9,Pierre Pierre,Conservative,46.9
+35088,Carleton,Chris Rodgers,Liberal,43.7,Pierre Pierre,Conservative,46.9
+35089,St. Catharines,Chris Bittle,Liberal,43.2,Chris Chris,Liberal,43.2
+35089,St. Catharines,Rick Dykstra,Conservative,37.6,Chris Chris,Liberal,43.2
+35089,St. Catharines,Susan Erskine-Fournier,NDP-New Democratic Party,16.5,Chris Chris,Liberal,43.2
+35089,St. Catharines,Jim Fannon,Green Party,2.6,Chris Chris,Liberal,43.2
+35089,St. Catharines,Saleh Waziruddin,Communist,0.1,Chris Chris,Liberal,43.2
+35090,Toronto--St. Paul's,Carolyn Bennett,Liberal,55.3,Carolyn Carolyn,Liberal,55.3
+35090,Toronto--St. Paul's,Kevin Farmer,Green Party,3.0,Carolyn Carolyn,Liberal,55.3
+35090,Toronto--St. Paul's,Marnie MacDougall,Conservative,27.0,Carolyn Carolyn,Liberal,55.3
+35090,Toronto--St. Paul's,Noah Richler,NDP-New Democratic Party,14.7,Carolyn Carolyn,Liberal,55.3
+35091,Sarnia--Lambton,Marilyn Gladu,Conservative,38.8,Marilyn Marilyn,Conservative,38.8
+35091,Sarnia--Lambton,Jason Wayne McMichael,NDP-New Democratic Party,31.1,Marilyn Marilyn,Conservative,38.8
+35091,Sarnia--Lambton,Dave McPhail,Liberal,27.3,Marilyn Marilyn,Conservative,38.8
+35091,Sarnia--Lambton,Peter Smith,Green Party,2.8,Marilyn Marilyn,Conservative,38.8
+35092,Sault Ste. Marie,Kara Flannigan,Green Party,2.1,Terry Terry,Liberal,44.8
+35092,Sault Ste. Marie,Bryan Hayes,Conservative,31.1,Terry Terry,Liberal,44.8
+35092,Sault Ste. Marie,Skip Morrison,NDP-New Democratic Party,21.8,Terry Terry,Liberal,44.8
+35092,Sault Ste. Marie,Terry Sheehan,Liberal,44.8,Terry Terry,Liberal,44.8
+35092,Sault Ste. Marie,Mike Taffarel,Marxist-Leninist,0.2,Terry Terry,Liberal,44.8
+35093,Scarborough--Agincourt,Arnold Chan,Liberal,51.9,Arnold Arnold,Liberal,51.9
+35093,Scarborough--Agincourt,Bin Chang,Conservative,38.0,Arnold Arnold,Liberal,51.9
+35093,Scarborough--Agincourt,Jude Coutinho,Christian Heritage Party,0.8,Arnold Arnold,Liberal,51.9
+35093,Scarborough--Agincourt,Laura Patrick,NDP-New Democratic Party,7.9,Arnold Arnold,Liberal,51.9
+35093,Scarborough--Agincourt,Debra Scott,Green Party,1.4,Arnold Arnold,Liberal,51.9
+35094,Scarborough Centre,Katerina Androutsos,Libertarian,3.1,Salma Salma,Liberal,50.5
+35094,Scarborough Centre,Roxanne James,Conservative,32.7,Salma Salma,Liberal,50.5
+35094,Scarborough Centre,Lindsay Thompson,Green Party,2.1,Salma Salma,Liberal,50.5
+35094,Scarborough Centre,Alex Wilson,NDP-New Democratic Party,11.6,Salma Salma,Liberal,50.5
+35094,Scarborough Centre,Salma Zahid,Liberal,50.5,Salma Salma,Liberal,50.5
+35095,Scarborough--Guildwood,Laura Casselman,NDP-New Democratic Party,11.3,John John,Liberal,60.0
+35095,Scarborough--Guildwood,Kevin Clarke,Independent,0.4,John John,Liberal,60.0
+35095,Scarborough--Guildwood,Paul Coulbeck,Radical Marijuana,0.3,John John,Liberal,60.0
+35095,Scarborough--Guildwood,Kathleen Holding,Green Party,1.4,John John,Liberal,60.0
+35095,Scarborough--Guildwood,Chuck Konkel,Conservative,26.5,John John,Liberal,60.0
+35095,Scarborough--Guildwood,John McKay,Liberal,60.0,John John,Liberal,60.0
+35096,Scarborough North,Shaun Chen,Liberal,48.2,Shaun Shaun,Liberal,48.2
+35096,Scarborough North,Aasia Khatoon,Independent,0.4,Shaun Shaun,Liberal,48.2
+35096,Scarborough North,Eleni MacDonald,Green Party,1.5,Shaun Shaun,Liberal,48.2
+35096,Scarborough North,Ravinder Malhi,Conservative,27.4,Shaun Shaun,Liberal,48.2
+35096,Scarborough North,Raphael Rosch,Independent,0.4,Shaun Shaun,Liberal,48.2
+35096,Scarborough North,Rathika Sitsabaiesan,NDP-New Democratic Party,22.1,Shaun Shaun,Liberal,48.2
+35097,Scarborough--Rouge Park,Gary Anandasangaree,Liberal,60.2,Gary Gary,Liberal,60.2
+35097,Scarborough--Rouge Park,Leslyn Lewis,Conservative,27.4,Gary Gary,Liberal,60.2
+35097,Scarborough--Rouge Park,KM Shanthikumar,NDP-New Democratic Party,10.4,Gary Gary,Liberal,60.2
+35097,Scarborough--Rouge Park,Calvin Winter,Green Party,2.0,Gary Gary,Liberal,60.2
+35098,Scarborough Southwest,Bill Blair,Liberal,52.5,Bill Bill,Liberal,52.5
+35098,Scarborough Southwest,Dan Harris,NDP-New Democratic Party,23.7,Bill Bill,Liberal,52.5
+35098,Scarborough Southwest,Roshan Nallaratnam,Conservative,21.2,Bill Bill,Liberal,52.5
+35098,Scarborough Southwest,Tommy Taylor,Green Party,2.6,Bill Bill,Liberal,52.5
+35099,Simcoe--Grey,JoAnne Fleming,Green Party,4.4,Kellie Kellie,Conservative,46.6
+35099,Simcoe--Grey,Kellie Leitch,Conservative,46.6,Kellie Kellie,Conservative,46.6
+35099,Simcoe--Grey,Mike MacEachern,Liberal,38.6,Kellie Kellie,Conservative,46.6
+35099,Simcoe--Grey,David Matthews,NDP-New Democratic Party,9.6,Kellie Kellie,Conservative,46.6
+35099,Simcoe--Grey,Len Noordegraaf,Christian Heritage Party,0.8,Kellie Kellie,Conservative,46.6
+35100,Simcoe North,Richard Banigan,NDP-New Democratic Party,10.6,Bruce Bruce,Conservative,43.5
+35100,Simcoe North,Jacob Kearey-Moreland,No Affiliation,1.1,Bruce Bruce,Conservative,43.5
+35100,Simcoe North,Liz Riley,Liberal,39.8,Bruce Bruce,Conservative,43.5
+35100,Simcoe North,Bruce Stanton,Conservative,43.5,Bruce Bruce,Conservative,43.5
+35100,Simcoe North,Peter Stubbins,Green Party,4.5,Bruce Bruce,Conservative,43.5
+35100,Simcoe North,Scott Whittaker,Christian Heritage Party,0.6,Bruce Bruce,Conservative,43.5
+35101,Spadina--Fort York,Olivia Chow,NDP-New Democratic Party,27.3,Adam Adam,Liberal,54.7
+35101,Spadina--Fort York,Sharon Danley,Green Party,2.1,Adam Adam,Liberal,54.7
+35101,Spadina--Fort York,Nick Lin,Marxist-Leninist,0.1,Adam Adam,Liberal,54.7
+35101,Spadina--Fort York,Michael Nicula,PACT,0.2,Adam Adam,Liberal,54.7
+35101,Spadina--Fort York,Adam Vaughan,Liberal,54.7,Adam Adam,Liberal,54.7
+35101,Spadina--Fort York,Sabrina Zuniga,Conservative,15.7,Adam Adam,Liberal,54.7
+35102,Stormont--Dundas--South Glengarry,Patrick Burger,NDP-New Democratic Party,8.2,Guy Guy,Conservative,51.1
+35102,Stormont--Dundas--South Glengarry,Bernadette Clement,Liberal,38.5,Guy Guy,Conservative,51.1
+35102,Stormont--Dundas--South Glengarry,Elaine Kennedy,Green Party,2.2,Guy Guy,Conservative,51.1
+35102,Stormont--Dundas--South Glengarry,Guy Lauzon,Conservative,51.1,Guy Guy,Conservative,51.1
+35103,Sudbury,Jean-Raymond Audet,Independent,0.3,Paul Paul,Liberal,47.4
+35103,Sudbury,Paul Lefebvre,Liberal,47.4,Paul Paul,Liberal,47.4
+35103,Sudbury,Paul Loewenberg,NDP-New Democratic Party,27.8,Paul Paul,Liberal,47.4
+35103,Sudbury,J. David Popescu,Independent,0.2,Paul Paul,Liberal,47.4
+35103,Sudbury,David Robinson,Green Party,3.0,Paul Paul,Liberal,47.4
+35103,Sudbury,Elizabeth Rowley,Communist,0.2,Paul Paul,Liberal,47.4
+35103,Sudbury,Fred Slade,Conservative,21.1,Paul Paul,Liberal,47.4
+35104,Thornhill,Gene Balfour,Libertarian,1.1,Peter Peter,Conservative,58.6
+35104,Thornhill,Lorne Cherry,NDP-New Democratic Party,5.2,Peter Peter,Conservative,58.6
+35104,Thornhill,Nancy Coldham,Liberal,33.8,Peter Peter,Conservative,58.6
+35104,Thornhill,Margaret Leigh Fairbairn,Seniors Party,0.3,Peter Peter,Conservative,58.6
+35104,Thornhill,Peter Kent,Conservative,58.6,Peter Peter,Conservative,58.6
+35104,Thornhill,Josh Rachlis,Green Party,1.2,Peter Peter,Conservative,58.6
+35105,Thunder Bay--Rainy River,Moe Comuzzi,Conservative,21.1,Don Don,Liberal,44.0
+35105,Thunder Bay--Rainy River,Christy Radbourne,Green Party,5.2,Don Don,Liberal,44.0
+35105,Thunder Bay--Rainy River,John Rafferty,NDP-New Democratic Party,29.7,Don Don,Liberal,44.0
+35105,Thunder Bay--Rainy River,Don Rusnak,Liberal,44.0,Don Don,Liberal,44.0
+35106,Thunder Bay--Superior North,Andrew Foulds,NDP-New Democratic Party,23.2,Patty Patty,Liberal,45.0
+35106,Thunder Bay--Superior North,Patty Hajdu,Liberal,45.0,Patty Patty,Liberal,45.0
+35106,Thunder Bay--Superior North,Richard Harvey,Conservative,17.4,Patty Patty,Liberal,45.0
+35106,Thunder Bay--Superior North,Bruce Hyer,Green Party,13.8,Patty Patty,Liberal,45.0
+35106,Thunder Bay--Superior North,Robert Skaf,Independent,0.6,Patty Patty,Liberal,45.0
+35107,Timmins--James Bay,Charlie Angus,NDP-New Democratic Party,42.9,Charlie Charlie,NDP-New Democratic Party,42.9
+35107,Timmins--James Bay,John P. Curley,Conservative,20.4,Charlie Charlie,NDP-New Democratic Party,42.9
+35107,Timmins--James Bay,Max Kennedy,Green Party,2.0,Charlie Charlie,NDP-New Democratic Party,42.9
+35107,Timmins--James Bay,Todd Lever,Liberal,34.7,Charlie Charlie,NDP-New Democratic Party,42.9
+35108,Toronto Centre,Mariam Ahmad,Communist,0.3,Bill Bill,Liberal,57.9
+35108,Toronto Centre,Colin Biggin,Green Party,2.6,Bill Bill,Liberal,57.9
+35108,Toronto Centre,Julian Di Battista,Conservative,12.2,Bill Bill,Liberal,57.9
+35108,Toronto Centre,Philip Fernandez,Marxist-Leninist,0.2,Bill Bill,Liberal,57.9
+35108,Toronto Centre,Linda McQuaig,NDP-New Democratic Party,26.6,Bill Bill,Liberal,57.9
+35108,Toronto Centre,Bill Morneau,Liberal,57.9,Bill Bill,Liberal,57.9
+35108,Toronto Centre,Jordan Stone,Independent,0.3,Bill Bill,Liberal,57.9
+35109,Toronto--Danforth,Elizabeth Abbott,Animal Alliance/Environment Voters,0.6,Julie Julie,Liberal,42.3
+35109,Toronto--Danforth,Julie Dabrusin,Liberal,42.3,Julie Julie,Liberal,42.3
+35109,Toronto--Danforth,Benjamin Dichter,Conservative,9.9,Julie Julie,Liberal,42.3
+35109,Toronto--Danforth,John Richardson,PC Party,2.3,Julie Julie,Liberal,42.3
+35109,Toronto--Danforth,Craig Scott,NDP-New Democratic Party,40.2,Julie Julie,Liberal,42.3
+35109,Toronto--Danforth,Chris Tolley,Green Party,4.7,Julie Julie,Liberal,42.3
+35110,University--Rosedale,David Berlin,The Bridge,0.2,Chrystia Chrystia,Liberal,49.8
+35110,University--Rosedale,Chrystia Freeland,Liberal,49.8,Chrystia Chrystia,Liberal,49.8
+35110,University--Rosedale,Drew Garvie,Communist,0.2,Chrystia Chrystia,Liberal,49.8
+35110,University--Rosedale,Jennifer Hollett,NDP-New Democratic Party,28.6,Chrystia Chrystia,Liberal,49.8
+35110,University--Rosedale,Karim Jivraj,Conservative,17.5,Chrystia Chrystia,Liberal,49.8
+35110,University--Rosedale,Simon Luisi,Animal Alliance/Environment Voters,0.2,Chrystia Chrystia,Liberal,49.8
+35110,University--Rosedale,Steve Rutchinski,Marxist-Leninist,0.1,Chrystia Chrystia,Liberal,49.8
+35110,University--Rosedale,Jesse Waslowski,Libertarian,0.4,Chrystia Chrystia,Liberal,49.8
+35110,University--Rosedale,Nick Wright,Green Party,2.9,Chrystia Chrystia,Liberal,49.8
+35111,Vaughan--Woodbridge,Elise Boulanger,Green Party,1.3,Francesco Francesco,Liberal,48.7
+35111,Vaughan--Woodbridge,Julian Fantino,Conservative,43.9,Francesco Francesco,Liberal,48.7
+35111,Vaughan--Woodbridge,Anthony Gualtieri,Libertarian,1.5,Francesco Francesco,Liberal,48.7
+35111,Vaughan--Woodbridge,Francesco Sorbara,Liberal,48.7,Francesco Francesco,Liberal,48.7
+35111,Vaughan--Woodbridge,Adriana Marie Zichy,NDP-New Democratic Party,4.6,Francesco Francesco,Liberal,48.7
+35112,Waterloo,Peter Braid,Conservative,32.3,Bardish Bardish,Liberal,49.7
+35112,Waterloo,Bardish Chagger,Liberal,49.7,Bardish Bardish,Liberal,49.7
+35112,Waterloo,Diane Freeman,NDP-New Democratic Party,14.9,Bardish Bardish,Liberal,49.7
+35112,Waterloo,Emma Hawley-Yan,Animal Alliance/Environment Voters,0.2,Bardish Bardish,Liberal,49.7
+35112,Waterloo,Richard Walsh,Green Party,2.9,Bardish Bardish,Liberal,49.7
+35113,Wellington--Halton Hills,Harvey Edward Anstey,CAP,0.3,Michael Michael,Conservative,50.9
+35113,Wellington--Halton Hills,Brent Allan Bouteiller,Green Party,4.0,Michael Michael,Conservative,50.9
+35113,Wellington--Halton Hills,Michael Chong,Conservative,50.9,Michael Michael,Conservative,50.9
+35113,Wellington--Halton Hills,Anne Gajerski-Cauley,NDP-New Democratic Party,8.3,Michael Michael,Conservative,50.9
+35113,Wellington--Halton Hills,Don Trant,Liberal,36.5,Michael Michael,Conservative,50.9
+35114,Whitby,Celina Caesar-Chavannes,Liberal,45.0,Celina Celina,Liberal,45.0
+35114,Whitby,Craig Cameron,Green Party,2.2,Celina Celina,Liberal,45.0
+35114,Whitby,Ryan Kelly,NDP-New Democratic Party,10.3,Celina Celina,Liberal,45.0
+35114,Whitby,Jon O'Connor,Independent,0.4,Celina Celina,Liberal,45.0
+35114,Whitby,Pat Perkins,Conservative,42.1,Celina Celina,Liberal,45.0
+35115,Willowdale,Birinder Singh Ahluwalia,Independent,0.5,Ali Ali,Liberal,53.4
+35115,Willowdale,James Arruda,Green Party,2.2,Ali Ali,Liberal,53.4
+35115,Willowdale,Ali Ehsassi,Liberal,53.4,Ali Ali,Liberal,53.4
+35115,Willowdale,Chungsen Leung,Conservative,37.0,Ali Ali,Liberal,53.4
+35115,Willowdale,Pouyan Tabasinejad,NDP-New Democratic Party,7.0,Ali Ali,Liberal,53.4
+35116,Windsor--Tecumseh,Laura Chesnik,Marxist-Leninist,0.5,Cheryl Cheryl,NDP-New Democratic Party,43.5
+35116,Windsor--Tecumseh,Jo-Anne Gignac,Conservative,27.5,Cheryl Cheryl,NDP-New Democratic Party,43.5
+35116,Windsor--Tecumseh,Cheryl Hardcastle,NDP-New Democratic Party,43.5,Cheryl Cheryl,NDP-New Democratic Party,43.5
+35116,Windsor--Tecumseh,David Momotiuk,Green Party,2.0,Cheryl Cheryl,NDP-New Democratic Party,43.5
+35116,Windsor--Tecumseh,Frank Schiller,Liberal,26.6,Cheryl Cheryl,NDP-New Democratic Party,43.5
+35117,Windsor West,Cora LaRussa,Green Party,2.3,Brian Brian,NDP-New Democratic Party,51.3
+35117,Windsor West,Henry Lau,Conservative,20.8,Brian Brian,NDP-New Democratic Party,51.3
+35117,Windsor West,Brian Masse,NDP-New Democratic Party,51.3,Brian Brian,NDP-New Democratic Party,51.3
+35117,Windsor West,Dave Sundin,Liberal,25.2,Brian Brian,NDP-New Democratic Party,51.3
+35117,Windsor West,Margaret Villamizar,Marxist-Leninist,0.3,Brian Brian,NDP-New Democratic Party,51.3
+35118,York Centre,Mark Adler,Conservative,44.0,Michael Michael,Liberal,46.9
+35118,York Centre,Hal Berman,NDP-New Democratic Party,7.3,Michael Michael,Liberal,46.9
+35118,York Centre,Constantine Kritsonis,Green Party,1.8,Michael Michael,Liberal,46.9
+35118,York Centre,Michael Levitt,Liberal,46.9,Michael Michael,Liberal,46.9
+35119,York--Simcoe,Sylvia Gerl,NDP-New Democratic Party,8.9,Peter Peter,Conservative,50.2
+35119,York--Simcoe,Shaun Tanaka,Liberal,37.8,Peter Peter,Conservative,50.2
+35119,York--Simcoe,Peter Van Loan,Conservative,50.2,Peter Peter,Conservative,50.2
+35119,York--Simcoe,Mark Viitala,Green Party,3.1,Peter Peter,Conservative,50.2
+35120,York South--Weston,Ahmed Hussen,Liberal,46.0,Ahmed Ahmed,Liberal,46.0
+35120,York South--Weston,John Johnson,Green Party,2.0,Ahmed Ahmed,Liberal,46.0
+35120,York South--Weston,Stephen Lepone,Libertarian,2.4,Ahmed Ahmed,Liberal,46.0
+35120,York South--Weston,James Robinson,Conservative,19.2,Ahmed Ahmed,Liberal,46.0
+35120,York South--Weston,Mike Sullivan,NDP-New Democratic Party,30.4,Ahmed Ahmed,Liberal,46.0
+35121,Humber River--Black Creek,Darnel Harris,NDP-New Democratic Party,10.7,Judy Judy,Liberal,66.9
+35121,Humber River--Black Creek,Keith Jarrett,Green Party,1.6,Judy Judy,Liberal,66.9
+35121,Humber River--Black Creek,Christine Nugent,Marxist-Leninist,0.6,Judy Judy,Liberal,66.9
+35121,Humber River--Black Creek,Judy Sgro,Liberal,66.9,Judy Judy,Liberal,66.9
+35121,Humber River--Black Creek,Kerry Vandenberg,Conservative,20.2,Judy Judy,Liberal,66.9
+46001,Brandon--Souris,Larry Maguire,Conservative,50.3,Larry Larry,Conservative,50.3
+46001,Brandon--Souris,David Neufeld,Green Party,6.1,Larry Larry,Conservative,50.3
+46001,Brandon--Souris,Melissa Joy Wastasecoot,NDP-New Democratic Party,6.3,Larry Larry,Conservative,50.3
+46001,Brandon--Souris,Jodi Wyman,Liberal,37.3,Larry Larry,Conservative,50.3
+46002,Charleswood--St. James--Assiniboia--Headingley,Doug Eyolfson,Liberal,52.0,Doug Doug,Liberal,52.0
+46002,Charleswood--St. James--Assiniboia--Headingley,Steven Fletcher,Conservative,39.0,Doug Doug,Liberal,52.0
+46002,Charleswood--St. James--Assiniboia--Headingley,Kevin Nichols,Green Party,2.9,Doug Doug,Liberal,52.0
+46002,Charleswood--St. James--Assiniboia--Headingley,Tom Paulley,NDP-New Democratic Party,6.0,Doug Doug,Liberal,52.0
+46003,Churchill--Keewatinook Aski,Niki Ashton,NDP-New Democratic Party,45.0,Niki Niki,NDP-New Democratic Party,45.0
+46003,Churchill--Keewatinook Aski,Rebecca Chartrand,Liberal,42.0,Niki Niki,NDP-New Democratic Party,45.0
+46003,Churchill--Keewatinook Aski,August Hastmann,Green Party,1.8,Niki Niki,NDP-New Democratic Party,45.0
+46003,Churchill--Keewatinook Aski,Zachary Linnick,Libertarian,0.9,Niki Niki,NDP-New Democratic Party,45.0
+46003,Churchill--Keewatinook Aski,Kyle G. Mirecki,Conservative,10.3,Niki Niki,NDP-New Democratic Party,45.0
+46004,Dauphin--Swan River--Neepawa,Laverne M. Lewycky,NDP-New Democratic Party,12.3,Robert Robert,Conservative,46.3
+46004,Dauphin--Swan River--Neepawa,Inky Mark,Independent,8.1,Robert Robert,Conservative,46.3
+46004,Dauphin--Swan River--Neepawa,Ray Piché,Liberal,29.5,Robert Robert,Conservative,46.3
+46004,Dauphin--Swan River--Neepawa,Robert Sopuck,Conservative,46.3,Robert Robert,Conservative,46.3
+46004,Dauphin--Swan River--Neepawa,Kate Storey,Green Party,3.8,Robert Robert,Conservative,46.3
+46005,Elmwood--Transcona,Daniel Blaikie,NDP-New Democratic Party,34.1,Daniel Daniel,NDP-New Democratic Party,34.1
+46005,Elmwood--Transcona,Kim Parke,Green Party,2.4,Daniel Daniel,NDP-New Democratic Party,34.1
+46005,Elmwood--Transcona,Andrea Richardson-Lipon,Liberal,29.5,Daniel Daniel,NDP-New Democratic Party,34.1
+46005,Elmwood--Transcona,Lawrence Toet,Conservative,34.0,Daniel Daniel,NDP-New Democratic Party,34.1
+46006,Kildonan--St. Paul,Jim Bell,Conservative,39.8,MaryAnn MaryAnn,Liberal,42.7
+46006,Kildonan--St. Paul,Eduard Walter Hiebert,Independent,0.3,MaryAnn MaryAnn,Liberal,42.7
+46006,Kildonan--St. Paul,Suzanne Hrynyk,NDP-New Democratic Party,14.3,MaryAnn MaryAnn,Liberal,42.7
+46006,Kildonan--St. Paul,MaryAnn Mihychuk,Liberal,42.7,MaryAnn MaryAnn,Liberal,42.7
+46006,Kildonan--St. Paul,David Reimer,Christian Heritage Party,1.1,MaryAnn MaryAnn,Liberal,42.7
+46006,Kildonan--St. Paul,Steven Stairs,Green Party,1.8,MaryAnn MaryAnn,Liberal,42.7
+46007,Portage--Lisgar,Candice Bergen,Conservative,60.8,Candice Candice,Conservative,60.8
+46007,Portage--Lisgar,Jerome Dondo,Christian Heritage Party,3.2,Candice Candice,Conservative,60.8
+46007,Portage--Lisgar,Beverley Eert,Green Party,4.0,Candice Candice,Conservative,60.8
+46007,Portage--Lisgar,Dean Harder,NDP-New Democratic Party,6.2,Candice Candice,Conservative,60.8
+46007,Portage--Lisgar,Ken Werbiski,Liberal,25.8,Candice Candice,Conservative,60.8
+46008,Provencher,Ted Falk,Conservative,56.1,Ted Ted,Conservative,56.1
+46008,Provencher,Terry Hayward,Liberal,34.7,Ted Ted,Conservative,56.1
+46008,Provencher,Les Lilley,NDP-New Democratic Party,5.3,Ted Ted,Conservative,56.1
+46008,Provencher,Jeff Wheeldon,Green Party,4.0,Ted Ted,Conservative,56.1
+46009,Saint Boniface--Saint Vital,François Catellier,Conservative,28.7,Dan Dan,Liberal,58.4
+46009,Saint Boniface--Saint Vital,Erin Selby,NDP-New Democratic Party,10.6,Dan Dan,Liberal,58.4
+46009,Saint Boniface--Saint Vital,Dan Vandal,Liberal,58.4,Dan Dan,Liberal,58.4
+46009,Saint Boniface--Saint Vital,Glenn Zaretski,Green Party,2.3,Dan Dan,Liberal,58.4
+46010,Selkirk--Interlake--Eastman,James Bezan,Conservative,51.9,James James,Conservative,51.9
+46010,Selkirk--Interlake--Eastman,Deborah Chief,NDP-New Democratic Party,11.4,James James,Conservative,51.9
+46010,Selkirk--Interlake--Eastman,Donald L. Grant,Libertarian,1.8,James James,Conservative,51.9
+46010,Selkirk--Interlake--Eastman,Wayne James,Green Party,3.5,James James,Conservative,51.9
+46010,Selkirk--Interlake--Eastman,Joanne Levy,Liberal,31.4,James James,Conservative,51.9
+46011,Winnipeg Centre,Pat Martin,NDP-New Democratic Party,28.0,Robert-Falcon Robert-Falcon,Liberal,54.5
+46011,Winnipeg Centre,Scott Miller,Christian Heritage Party,0.7,Robert-Falcon Robert-Falcon,Liberal,54.5
+46011,Winnipeg Centre,Robert-Falcon Ouellette,Liberal,54.5,Robert-Falcon Robert-Falcon,Liberal,54.5
+46011,Winnipeg Centre,Darrell Rankin,Communist,0.4,Robert-Falcon Robert-Falcon,Liberal,54.5
+46011,Winnipeg Centre,Allie Szarkiewicz,Conservative,12.4,Robert-Falcon Robert-Falcon,Liberal,54.5
+46011,Winnipeg Centre,Don Woodstock,Green Party,4.1,Robert-Falcon Robert-Falcon,Liberal,54.5
+46012,Winnipeg North,Levy Abad,NDP-New Democratic Party,13.4,Kevin Kevin,Liberal,68.9
+46012,Winnipeg North,Kevin Lamoureux,Liberal,68.9,Kevin Kevin,Liberal,68.9
+46012,Winnipeg North,John Redekopp,Green Party,2.4,Kevin Kevin,Liberal,68.9
+46012,Winnipeg North,Harpreet Turka,Conservative,15.3,Kevin Kevin,Liberal,68.9
+46013,Winnipeg South,Terry Duguid,Liberal,58.3,Terry Terry,Liberal,58.3
+46013,Winnipeg South,Gordon Giesbrecht,Conservative,34.7,Terry Terry,Liberal,58.3
+46013,Winnipeg South,Brianne Goertzen,NDP-New Democratic Party,5.0,Terry Terry,Liberal,58.3
+46013,Winnipeg South,Adam Smith,Green Party,2.1,Terry Terry,Liberal,58.3
+46014,Winnipeg South Centre,Joyce Bateman,Conservative,28.2,Jim Jim,Liberal,59.7
+46014,Winnipeg South Centre,Jim Carr,Liberal,59.7,Jim Jim,Liberal,59.7
+46014,Winnipeg South Centre,Matt Henderson,NDP-New Democratic Party,9.0,Jim Jim,Liberal,59.7
+46014,Winnipeg South Centre,Andrew Park,Green Party,3.1,Jim Jim,Liberal,59.7
+47001,Battlefords--Lloydminster,Doug Anguish,Independent,3.2,Gerry Gerry,Conservative,61.0
+47001,Battlefords--Lloydminster,Larry Ingram,Liberal,16.5,Gerry Gerry,Conservative,61.0
+47001,Battlefords--Lloydminster,Gerry Ritz,Conservative,61.0,Gerry Gerry,Conservative,61.0
+47001,Battlefords--Lloydminster,Glenn Tait,NDP-New Democratic Party,17.6,Gerry Gerry,Conservative,61.0
+47001,Battlefords--Lloydminster,Mikaela Tenkink,Green Party,1.7,Gerry Gerry,Conservative,61.0
+47002,Cypress Hills--Grasslands,David Anderson,Conservative,69.2,David David,Conservative,69.2
+47002,Cypress Hills--Grasslands,William Caton,Green Party,2.7,David David,Conservative,69.2
+47002,Cypress Hills--Grasslands,Trevor Peterson,NDP-New Democratic Party,13.2,David David,Conservative,69.2
+47002,Cypress Hills--Grasslands,Marvin Wiens,Liberal,14.9,David David,Conservative,69.2
+47003,Desnethé--Missinippi--Churchill River,Rob Clarke,Conservative,30.1,Georgina Georgina,NDP-New Democratic Party,34.2
+47003,Desnethé--Missinippi--Churchill River,Georgina Jolibois,NDP-New Democratic Party,34.2,Georgina Georgina,NDP-New Democratic Party,34.2
+47003,Desnethé--Missinippi--Churchill River,Lawrence Joseph,Liberal,33.9,Georgina Georgina,NDP-New Democratic Party,34.2
+47003,Desnethé--Missinippi--Churchill River,Warren Koch,Green Party,1.8,Georgina Georgina,NDP-New Democratic Party,34.2
+47003,Desnethé--Missinippi--Churchill River,Rob Clarke,Conservative,30.2,Georgina Georgina,NDP-New Democratic Party,34.2
+47003,Desnethé--Missinippi--Churchill River,Georgina Jolibois,NDP-New Democratic Party,34.1,Georgina Georgina,NDP-New Democratic Party,34.2
+47003,Desnethé--Missinippi--Churchill River,Lawrence Joseph,Liberal,33.9,Georgina Georgina,NDP-New Democratic Party,34.2
+47003,Desnethé--Missinippi--Churchill River,Warren Koch,Green Party,1.8,Georgina Georgina,NDP-New Democratic Party,34.2
+47004,Carlton Trail--Eagle Creek,Kelly Block,Conservative,64.7,Kelly Kelly,Conservative,64.7
+47004,Carlton Trail--Eagle Creek,Lynn Wesley Oliphant,Green Party,2.2,Kelly Kelly,Conservative,64.7
+47004,Carlton Trail--Eagle Creek,Alexander Slusar,Liberal,14.4,Kelly Kelly,Conservative,64.7
+47004,Carlton Trail--Eagle Creek,Glenn Wright,NDP-New Democratic Party,18.7,Kelly Kelly,Conservative,64.7
+47005,Moose Jaw--Lake Centre--Lanigan,Dustan Hlady,NDP-New Democratic Party,23.8,Tom Tom,Conservative,55.5
+47005,Moose Jaw--Lake Centre--Lanigan,Perry Juttla,Liberal,18.0,Tom Tom,Conservative,55.5
+47005,Moose Jaw--Lake Centre--Lanigan,Tom Lukiwski,Conservative,55.5,Tom Tom,Conservative,55.5
+47005,Moose Jaw--Lake Centre--Lanigan,Shawn Setyo,Green Party,2.3,Tom Tom,Conservative,55.5
+47005,Moose Jaw--Lake Centre--Lanigan,Robert Thomas,Rhinoceros,0.5,Tom Tom,Conservative,55.5
+47006,Prince Albert,Lon Borgerson,NDP-New Democratic Party,28.5,Randy Randy,Conservative,49.8
+47006,Prince Albert,Randy Hoback,Conservative,49.8,Randy Randy,Conservative,49.8
+47006,Prince Albert,Gordon Kirkby,Liberal,19.8,Randy Randy,Conservative,49.8
+47006,Prince Albert,Byron Tenkink,Green Party,1.9,Randy Randy,Conservative,49.8
+47007,Regina--Lewvan,Louis Browne,Liberal,27.5,Erin Erin,NDP-New Democratic Party,35.2
+47007,Regina--Lewvan,Wojciech Dolata,Libertarian,0.6,Erin Erin,NDP-New Democratic Party,35.2
+47007,Regina--Lewvan,Trent Fraser,Conservative,34.9,Erin Erin,NDP-New Democratic Party,35.2
+47007,Regina--Lewvan,Tamela Friesen,Green Party,1.8,Erin Erin,NDP-New Democratic Party,35.2
+47007,Regina--Lewvan,Erin Weir,NDP-New Democratic Party,35.2,Erin Erin,NDP-New Democratic Party,35.2
+47008,Regina--Qu'Appelle,Della Anaquod,Liberal,22.8,Andrew Andrew,Conservative,44.7
+47008,Regina--Qu'Appelle,Greg Chatterson,Green Party,2.3,Andrew Andrew,Conservative,44.7
+47008,Regina--Qu'Appelle,Nial Kuyek,NDP-New Democratic Party,30.2,Andrew Andrew,Conservative,44.7
+47008,Regina--Qu'Appelle,Andrew Scheer,Conservative,44.7,Andrew Andrew,Conservative,44.7
+47009,Regina--Wascana,April Bourgeois,NDP-New Democratic Party,12.6,Ralph Ralph,Liberal,55.1
+47009,Regina--Wascana,Ralph Goodale,Liberal,55.1,Ralph Ralph,Liberal,55.1
+47009,Regina--Wascana,Michael Kram,Conservative,30.3,Ralph Ralph,Liberal,55.1
+47009,Regina--Wascana,Frances Simonson,Green Party,2.1,Ralph Ralph,Liberal,55.1
+47010,Saskatoon--Grasswood,Scott Bell,NDP-New Democratic Party,30.2,Kevin Kevin,Conservative,41.6
+47010,Saskatoon--Grasswood,Mark Bigland-Pritchard,Green Party,1.8,Kevin Kevin,Conservative,41.6
+47010,Saskatoon--Grasswood,Tracy Muggli,Liberal,26.4,Kevin Kevin,Conservative,41.6
+47010,Saskatoon--Grasswood,Kevin Waugh,Conservative,41.6,Kevin Kevin,Conservative,41.6
+47011,Saskatoon--University,Cynthia Marie Block,Liberal,25.2,Brad Brad,Conservative,41.5
+47011,Saskatoon--University,Claire Card,NDP-New Democratic Party,31.5,Brad Brad,Conservative,41.5
+47011,Saskatoon--University,Valerie Harvey,Green Party,1.5,Brad Brad,Conservative,41.5
+47011,Saskatoon--University,Eric Matthew Schalm,Rhinoceros,0.2,Brad Brad,Conservative,41.5
+47011,Saskatoon--University,Brad Trost,Conservative,41.5,Brad Brad,Conservative,41.5
+47012,Saskatoon West,Lisa Abbott,Liberal,24.5,Sheri Sheri,NDP-New Democratic Party,39.6
+47012,Saskatoon West,Sheri Benson,NDP-New Democratic Party,39.6,Sheri Sheri,NDP-New Democratic Party,39.6
+47012,Saskatoon West,Randy Donauer,Conservative,32.9,Sheri Sheri,NDP-New Democratic Party,39.6
+47012,Saskatoon West,Bronek Hart,Libertarian,0.6,Sheri Sheri,NDP-New Democratic Party,39.6
+47012,Saskatoon West,Lois Carol Mitchell,Green Party,1.7,Sheri Sheri,NDP-New Democratic Party,39.6
+47012,Saskatoon West,Jim Pankiw,Canada Party,0.7,Sheri Sheri,NDP-New Democratic Party,39.6
+47013,Souris--Moose Mountain,Steven Bebbington,Liberal,13.5,Robert Gordon Robert Gordon,Conservative,70.1
+47013,Souris--Moose Mountain,Bob Deptuck,Green Party,2.6,Robert Gordon Robert Gordon,Conservative,70.1
+47013,Souris--Moose Mountain,Robert Gordon Kitchen,Conservative,70.1,Robert Gordon Robert Gordon,Conservative,70.1
+47013,Souris--Moose Mountain,Vicky O'Dell,NDP-New Democratic Party,13.7,Robert Gordon Robert Gordon,Conservative,70.1
+47014,Yorkton--Melville,Elaine Marie Hughes,Green Party,2.8,Cathay Cathay,Conservative,59.2
+47014,Yorkton--Melville,Brooke Taylor Malinoski,Liberal,17.8,Cathay Cathay,Conservative,59.2
+47014,Yorkton--Melville,Doug Ottenbreit,NDP-New Democratic Party,20.2,Cathay Cathay,Conservative,59.2
+47014,Yorkton--Melville,Cathay Wagantall,Conservative,59.2,Cathay Cathay,Conservative,59.2
+48001,Banff--Airdrie,Joanne Boissonneault,NDP-New Democratic Party,6.8,Blake Blake,Conservative,63.4
+48001,Banff--Airdrie,Mike MacDonald,Green Party,3.8,Blake Blake,Conservative,63.4
+48001,Banff--Airdrie,Marlo Raynolds,Liberal,26.1,Blake Blake,Conservative,63.4
+48001,Banff--Airdrie,Blake Richards,Conservative,63.4,Blake Blake,Conservative,63.4
+48002,Battle River--Crowfoot,Gary Kelly,Green Party,3.2,Kevin Kevin,Conservative,80.9
+48002,Battle River--Crowfoot,Andy Kowalski,Liberal,9.4,Kevin Kevin,Conservative,80.9
+48002,Battle River--Crowfoot,Kevin Sorenson,Conservative,80.9,Kevin Kevin,Conservative,80.9
+48002,Battle River--Crowfoot,Katherine Swampy,NDP-New Democratic Party,6.5,Kevin Kevin,Conservative,80.9
+48003,Bow River,William MacDonald Alexander,Liberal,13.7,Martin Martin,Conservative,77.4
+48003,Bow River,Rita Ann Fromholt,Green Party,1.8,Martin Martin,Conservative,77.4
+48003,Bow River,Fahed Khalid,Democratic Advancement,0.2,Martin Martin,Conservative,77.4
+48003,Bow River,Andrew Kucy,Independent,1.1,Martin Martin,Conservative,77.4
+48003,Bow River,Lynn MacWilliam,NDP-New Democratic Party,5.2,Martin Martin,Conservative,77.4
+48003,Bow River,Martin Shields,Conservative,77.4,Martin Martin,Conservative,77.4
+48003,Bow River,Frans VandeStroet,Christian Heritage Party,0.6,Martin Martin,Conservative,77.4
+48004,Calgary Centre,Thana Boonlert,Green Party,2.2,Kent Kent,Liberal,46.5
+48004,Calgary Centre,Joan Crockatt,Conservative,45.3,Kent Kent,Liberal,46.5
+48004,Calgary Centre,Kent Hehr,Liberal,46.5,Kent Kent,Liberal,46.5
+48004,Calgary Centre,Yogi Henderson,Independent,0.4,Kent Kent,Liberal,46.5
+48004,Calgary Centre,Jillian Ratti,NDP-New Democratic Party,5.6,Kent Kent,Liberal,46.5
+48005,Calgary Confederation,Matt Grant,Liberal,43.5,Len Len,Conservative,45.9
+48005,Calgary Confederation,Kirk Heuser,NDP-New Democratic Party,7.1,Len Len,Conservative,45.9
+48005,Calgary Confederation,Kevan Hunter,Marxist-Leninist,0.2,Len Len,Conservative,45.9
+48005,Calgary Confederation,Natalie Odd,Green Party,3.2,Len Len,Conservative,45.9
+48005,Calgary Confederation,Len Webber,Conservative,45.9,Len Len,Conservative,45.9
+48006,Calgary Forest Lawn,Matt Badura,Libertarian,2.0,Deepak Deepak,Conservative,48.0
+48006,Calgary Forest Lawn,Jason Devine,Communist,1.0,Deepak Deepak,Conservative,48.0
+48006,Calgary Forest Lawn,Judson Hansell,Green Party,3.0,Deepak Deepak,Conservative,48.0
+48006,Calgary Forest Lawn,Deepak Obhrai,Conservative,48.0,Deepak Deepak,Conservative,48.0
+48006,Calgary Forest Lawn,Abdou Souraya,NDP-New Democratic Party,9.8,Deepak Deepak,Conservative,48.0
+48006,Calgary Forest Lawn,Cam Stewart,Liberal,36.0,Deepak Deepak,Conservative,48.0
+48006,Calgary Forest Lawn,Max Veress,Democratic Advancement,0.3,Deepak Deepak,Conservative,48.0
+48007,Calgary Heritage,Kelly Christie,Green Party,2.1,Stephen J. Stephen J.,Conservative,63.8
+48007,Calgary Heritage,Nicolas Duchastel de Montrouge,Independent,0.1,Stephen J. Stephen J.,Conservative,63.8
+48007,Calgary Heritage,Stephen J. Harper,Conservative,63.8,Stephen J. Stephen J.,Conservative,63.8
+48007,Calgary Heritage,Larry R. Heather,Independent,0.2,Stephen J. Stephen J.,Conservative,63.8
+48007,Calgary Heritage,Matt Masters Burgener,NDP-New Democratic Party,7.3,Stephen J. Stephen J.,Conservative,63.8
+48007,Calgary Heritage,Brendan Miles,Liberal,26.0,Stephen J. Stephen J.,Conservative,63.8
+48007,Calgary Heritage,Steven Paolasini,Libertarian,0.4,Stephen J. Stephen J.,Conservative,63.8
+48007,Calgary Heritage,Korry Zepik,Independent,0.1,Stephen J. Stephen J.,Conservative,63.8
+48008,Calgary Midnapore,Peggy Askin,Marxist-Leninist,0.2,Jason Jason,Conservative,66.7
+48008,Calgary Midnapore,Haley Brown,Liberal,22.6,Jason Jason,Conservative,66.7
+48008,Calgary Midnapore,Jason Kenney,Conservative,66.7,Jason Jason,Conservative,66.7
+48008,Calgary Midnapore,Brennan Wauters,Green Party,2.7,Jason Jason,Conservative,66.7
+48008,Calgary Midnapore,Laura Weston,NDP-New Democratic Party,7.7,Jason Jason,Conservative,66.7
+48009,Calgary Nose Hill,Faizan Butt,Democratic Advancement,0.3,Michelle Michelle,Conservative,60.0
+48009,Calgary Nose Hill,Edward Gao,Libertarian,1.3,Michelle Michelle,Conservative,60.0
+48009,Calgary Nose Hill,Bruce Kaufman,NDP-New Democratic Party,8.9,Michelle Michelle,Conservative,60.0
+48009,Calgary Nose Hill,Robert Prcic,Liberal,26.9,Michelle Michelle,Conservative,60.0
+48009,Calgary Nose Hill,Michelle Rempel,Conservative,60.0,Michelle Michelle,Conservative,60.0
+48009,Calgary Nose Hill,Laurie Scheer,Green Party,2.5,Michelle Michelle,Conservative,60.0
+48010,Calgary Rocky Ridge,Pat Kelly,Conservative,60.4,Pat Pat,Conservative,60.4
+48010,Calgary Rocky Ridge,Stephanie Kot,NDP-New Democratic Party,5.8,Pat Pat,Conservative,60.4
+48010,Calgary Rocky Ridge,Nirmala Naidoo,Liberal,31.7,Pat Pat,Conservative,60.4
+48010,Calgary Rocky Ridge,Catriona Wright,Green Party,2.1,Pat Pat,Conservative,60.4
+48011,Calgary Shepard,Dany Allard,NDP-New Democratic Party,6.8,Tom Tom,Conservative,65.9
+48011,Calgary Shepard,Jerome James,Liberal,24.7,Tom Tom,Conservative,65.9
+48011,Calgary Shepard,Tom Kmiec,Conservative,65.9,Tom Tom,Conservative,65.9
+48011,Calgary Shepard,Graham MacKenzie,Green Party,2.6,Tom Tom,Conservative,65.9
+48012,Calgary Signal Hill,Khalis Ahmed,NDP-New Democratic Party,5.0,Ron Ron,Conservative,60.6
+48012,Calgary Signal Hill,Kerry Cundal,Liberal,30.6,Ron Ron,Conservative,60.6
+48012,Calgary Signal Hill,Taryn Knorren,Green Party,2.5,Ron Ron,Conservative,60.6
+48012,Calgary Signal Hill,Ron Liepert,Conservative,60.6,Ron Ron,Conservative,60.6
+48012,Calgary Signal Hill,Tim Moen,Libertarian,1.1,Ron Ron,Conservative,60.6
+48012,Calgary Signal Hill,Jesse Rau,Christian Heritage Party,0.3,Ron Ron,Conservative,60.6
+48013,Calgary Skyview,Daniel Blanchard,Marxist-Leninist,0.2,Darshan Singh Darshan Singh,Liberal,45.9
+48013,Calgary Skyview,Najeeb Butt,PC Party,2.1,Darshan Singh Darshan Singh,Liberal,45.9
+48013,Calgary Skyview,Stephen Garvey,Democratic Advancement,1.7,Darshan Singh Darshan Singh,Liberal,45.9
+48013,Calgary Skyview,Darshan Singh Kang,Liberal,45.9,Darshan Singh Darshan Singh,Liberal,45.9
+48013,Calgary Skyview,Ed Reddy,Green Party,1.9,Darshan Singh Darshan Singh,Liberal,45.9
+48013,Calgary Skyview,Devinder Shory,Conservative,39.8,Darshan Singh Darshan Singh,Liberal,45.9
+48013,Calgary Skyview,Sahajvir Singh,NDP-New Democratic Party,8.0,Darshan Singh Darshan Singh,Liberal,45.9
+48013,Calgary Skyview,Joseph Young,Independent,0.4,Darshan Singh Darshan Singh,Liberal,45.9
+48014,Edmonton Centre,Randy Boissonnault,Liberal,37.2,Randy Randy,Liberal,37.2
+48014,Edmonton Centre,James Cumming,Conservative,35.0,Randy Randy,Liberal,37.2
+48014,Edmonton Centre,Gil McGowan,NDP-New Democratic Party,24.5,Randy Randy,Liberal,37.2
+48014,Edmonton Centre,David Parker,Green Party,2.6,Randy Randy,Liberal,37.2
+48014,Edmonton Centre,Steven Stauffer,Rhinoceros,0.5,Randy Randy,Liberal,37.2
+48014,Edmonton Centre,Kat Yaki,Independent,0.3,Randy Randy,Liberal,37.2
+48015,Edmonton Griesbach,Kerry Diotte,Conservative,40.0,Kerry Kerry,Conservative,40.0
+48015,Edmonton Griesbach,Brian Gold,Liberal,21.7,Kerry Kerry,Conservative,40.0
+48015,Edmonton Griesbach,Maryna Goncharenko,Libertarian,0.9,Kerry Kerry,Conservative,40.0
+48015,Edmonton Griesbach,Janis Irwin,NDP-New Democratic Party,34.0,Kerry Kerry,Conservative,40.0
+48015,Edmonton Griesbach,Mary Joyce,Marxist-Leninist,0.2,Kerry Kerry,Conservative,40.0
+48015,Edmonton Griesbach,Linda Northcott,Radical Marijuana,0.6,Kerry Kerry,Conservative,40.0
+48015,Edmonton Griesbach,Bun Bun Thompson,Rhinoceros,0.3,Kerry Kerry,Conservative,40.0
+48015,Edmonton Griesbach,Heather Workman,Green Party,2.4,Kerry Kerry,Conservative,40.0
+48016,Edmonton Manning,Ziad Aboultaif,Conservative,45.2,Ziad Ziad,Conservative,45.2
+48016,Edmonton Manning,Sukhdev Aujla,Liberal,27.6,Ziad Ziad,Conservative,45.2
+48016,Edmonton Manning,Mebreate Deres,Independent,1.1,Ziad Ziad,Conservative,45.2
+48016,Edmonton Manning,Aaron Paquette,NDP-New Democratic Party,23.6,Ziad Ziad,Conservative,45.2
+48016,Edmonton Manning,André Vachon,Marxist-Leninist,0.3,Ziad Ziad,Conservative,45.2
+48016,Edmonton Manning,Chris Vallee,Green Party,2.2,Ziad Ziad,Conservative,45.2
+48017,Edmonton Mill Woods,Jasvir Deol,NDP-New Democratic Party,12.8,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Peter Downing,Christian Heritage Party,0.6,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Ralph McLean,Green Party,2.2,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Allen K.W. Paley,Libertarian,0.8,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Naomi Rankin,Communist,0.2,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Amarjeet Sohi,Liberal,41.2,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Colin Stubbs,Independent,1.1,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Tim Uppal,Conservative,41.1,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Jasvir Deol,NDP-New Democratic Party,12.8,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Peter Downing,Christian Heritage Party,0.6,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Ralph McLean,Green Party,2.2,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Allen K.W. Paley,Libertarian,0.8,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Naomi Rankin,Communist,0.2,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Amarjeet Sohi,Liberal,41.2,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Colin Stubbs,Independent,1.1,Amarjeet Amarjeet,Liberal,41.2
+48017,Edmonton Mill Woods,Tim Uppal,Conservative,41.1,Amarjeet Amarjeet,Liberal,41.2
+48018,Edmonton Riverbend,Tariq Chaudary,Liberal,30.2,Matt Matt,Conservative,49.9
+48018,Edmonton Riverbend,Brian Fleck,NDP-New Democratic Party,17.1,Matt Matt,Conservative,49.9
+48018,Edmonton Riverbend,Matt Jeneroux,Conservative,49.9,Matt Matt,Conservative,49.9
+48018,Edmonton Riverbend,Valerie Kennedy,Green Party,2.2,Matt Matt,Conservative,49.9
+48018,Edmonton Riverbend,Steven Lack,Libertarian,0.7,Matt Matt,Conservative,49.9
+48019,Edmonton Strathcona,Jacob K. Binnema,Green Party,2.3,Linda Linda,NDP-New Democratic Party,44.0
+48019,Edmonton Strathcona,Ryan Bromsgrove,Pirate,0.4,Linda Linda,NDP-New Democratic Party,44.0
+48019,Edmonton Strathcona,Linda Duncan,NDP-New Democratic Party,44.0,Linda Linda,NDP-New Democratic Party,44.0
+48019,Edmonton Strathcona,Donovan Eckstrom,Rhinoceros,0.2,Linda Linda,NDP-New Democratic Party,44.0
+48019,Edmonton Strathcona,Chris Jones,Independent,0.2,Linda Linda,NDP-New Democratic Party,44.0
+48019,Edmonton Strathcona,Dougal MacDonald,Marxist-Leninist,0.2,Linda Linda,NDP-New Democratic Party,44.0
+48019,Edmonton Strathcona,Eleanor Olszewski,Liberal,20.7,Linda Linda,NDP-New Democratic Party,44.0
+48019,Edmonton Strathcona,Andrew Schurman,Independent,0.2,Linda Linda,NDP-New Democratic Party,44.0
+48019,Edmonton Strathcona,Malcolm Stinson,Libertarian,0.6,Linda Linda,NDP-New Democratic Party,44.0
+48019,Edmonton Strathcona,Len Thom,Conservative,31.3,Linda Linda,NDP-New Democratic Party,44.0
+48020,Edmonton West,Pamela Leslie Bryan,Green Party,1.9,Kelly Kelly,Conservative,49.3
+48020,Edmonton West,Alexander Dussault,Libertarian,0.6,Kelly Kelly,Conservative,49.3
+48020,Edmonton West,Karen Leibovici,Liberal,34.9,Kelly Kelly,Conservative,49.3
+48020,Edmonton West,Heather MacKenzie,NDP-New Democratic Party,13.0,Kelly Kelly,Conservative,49.3
+48020,Edmonton West,Kelly McCauley,Conservative,49.3,Kelly Kelly,Conservative,49.3
+48020,Edmonton West,Peggy Morton,Marxist-Leninist,0.2,Kelly Kelly,Conservative,49.3
+48021,Edmonton--Wetaskiwin,Jacqueline Biollo,Liberal,21.5,Mike Mike,Conservative,65.8
+48021,Edmonton--Wetaskiwin,Fritz K. Bitz,NDP-New Democratic Party,9.7,Mike Mike,Conservative,65.8
+48021,Edmonton--Wetaskiwin,Joy-Ann Hut,Green Party,2.3,Mike Mike,Conservative,65.8
+48021,Edmonton--Wetaskiwin,Mike Lake,Conservative,65.8,Mike Mike,Conservative,65.8
+48021,Edmonton--Wetaskiwin,Brayden Whitlock,Libertarian,0.7,Mike Mike,Conservative,65.8
+48022,Foothills,John Barlow,Conservative,75.7,John John,Conservative,75.7
+48022,Foothills,Tanya MacPherson,Liberal,13.4,John John,Conservative,75.7
+48022,Foothills,Cory Morgan,Libertarian,0.7,John John,Conservative,75.7
+48022,Foothills,Marc Slingerland,Christian Heritage Party,0.6,John John,Conservative,75.7
+48022,Foothills,Alison Thompson,NDP-New Democratic Party,6.4,John John,Conservative,75.7
+48022,Foothills,Romy S. Tittel,Green Party,3.3,John John,Conservative,75.7
+48023,Fort McMurray--Cold Lake,Scott Berry,Libertarian,1.2,David David,Conservative,60.6
+48023,Fort McMurray--Cold Lake,Brian Deheer,Green Party,1.6,David David,Conservative,60.6
+48023,Fort McMurray--Cold Lake,Kyle Harrietha,Liberal,28.4,David David,Conservative,60.6
+48023,Fort McMurray--Cold Lake,Roelof Janssen,Christian Heritage Party,0.6,David David,Conservative,60.6
+48023,Fort McMurray--Cold Lake,Melody Lepine,NDP-New Democratic Party,7.7,David David,Conservative,60.6
+48023,Fort McMurray--Cold Lake,David Yurdiga,Conservative,60.6,David David,Conservative,60.6
+48024,Grande Prairie--Mackenzie,James David Friesen,Green Party,3.1,Chris Chris,Conservative,72.9
+48024,Grande Prairie--Mackenzie,Reagan Johnston,Liberal,14.7,Chris Chris,Conservative,72.9
+48024,Grande Prairie--Mackenzie,Saba Mossagizi,NDP-New Democratic Party,8.1,Chris Chris,Conservative,72.9
+48024,Grande Prairie--Mackenzie,Dylan Thompson,Libertarian,1.1,Chris Chris,Conservative,72.9
+48024,Grande Prairie--Mackenzie,Chris Warkentin,Conservative,72.9,Chris Chris,Conservative,72.9
+48025,Lakeland,Robert George McFadzean,Libertarian,1.1,Shannon Shannon,Conservative,72.8
+48025,Lakeland,Danielle Montgomery,Green Party,2.3,Shannon Shannon,Conservative,72.8
+48025,Lakeland,Garry Parenteau,Liberal,13.7,Shannon Shannon,Conservative,72.8
+48025,Lakeland,Shannon Stubbs,Conservative,72.8,Shannon Shannon,Conservative,72.8
+48025,Lakeland,Duane Zaraska,NDP-New Democratic Party,10.1,Shannon Shannon,Conservative,72.8
+48026,Lethbridge,Geoffrey Capp,Christian Heritage Party,1.3,Rachael Rachael,Conservative,56.8
+48026,Lethbridge,Rachael Harder,Conservative,56.8,Rachael Rachael,Conservative,56.8
+48026,Lethbridge,Solly Krygier-Paine,Rhinoceros,0.4,Rachael Rachael,Conservative,56.8
+48026,Lethbridge,Kas MacMillan,Green Party,2.6,Rachael Rachael,Conservative,56.8
+48026,Lethbridge,Cheryl Meheden,NDP-New Democratic Party,20.5,Rachael Rachael,Conservative,56.8
+48026,Lethbridge,Mike Pyne,Liberal,18.5,Rachael Rachael,Conservative,56.8
+48027,Medicine Hat--Cardston--Warner,Glen Allan,Liberal,17.9,Jim Jim,Conservative,68.8
+48027,Medicine Hat--Cardston--Warner,Jim Hillyer,Conservative,68.8,Jim Jim,Conservative,68.8
+48027,Medicine Hat--Cardston--Warner,Brent Smith,Green Party,2.6,Jim Jim,Conservative,68.8
+48027,Medicine Hat--Cardston--Warner,John Clayton Turner,Independent,1.0,Jim Jim,Conservative,68.8
+48027,Medicine Hat--Cardston--Warner,Erin Weir,NDP-New Democratic Party,9.7,Jim Jim,Conservative,68.8
+48028,Peace River--Westlock,Cameron Alexis,NDP-New Democratic Party,14.4,Arnold Arnold,Conservative,69.4
+48028,Peace River--Westlock,Chris Brown,Liberal,12.8,Arnold Arnold,Conservative,69.4
+48028,Peace River--Westlock,Sabrina Lee Levac,Green Party,2.5,Arnold Arnold,Conservative,69.4
+48028,Peace River--Westlock,Jeremy Sergeew,Libertarian,0.9,Arnold Arnold,Conservative,69.4
+48028,Peace River--Westlock,Arnold Viersen,Conservative,69.4,Arnold Arnold,Conservative,69.4
+48029,Red Deer--Mountain View,Earl Dreeshen,Conservative,74.3,Earl Earl,Conservative,74.3
+48029,Red Deer--Mountain View,Paul Harris,NDP-New Democratic Party,8.4,Earl Earl,Conservative,74.3
+48029,Red Deer--Mountain View,Chandra Lescia Kastern,Liberal,13.4,Earl Earl,Conservative,74.3
+48029,Red Deer--Mountain View,Scott Milne,Pirate,0.5,Earl Earl,Conservative,74.3
+48029,Red Deer--Mountain View,Simon Oleny,Green Party,2.6,Earl Earl,Conservative,74.3
+48029,Red Deer--Mountain View,James Walper,Libertarian,0.7,Earl Earl,Conservative,74.3
+48030,Red Deer--Lacombe,Blaine Calkins,Conservative,70.7,Blaine Blaine,Conservative,70.7
+48030,Red Deer--Lacombe,Doug Hart,NDP-New Democratic Party,11.4,Blaine Blaine,Conservative,70.7
+48030,Red Deer--Lacombe,Les Kuzyk,Green Party,2.9,Blaine Blaine,Conservative,70.7
+48030,Red Deer--Lacombe,Jeff Rock,Liberal,15.0,Blaine Blaine,Conservative,70.7
+48031,St. Albert--Edmonton,Michael Cooper,Conservative,45.2,Michael Michael,Conservative,45.2
+48031,St. Albert--Edmonton,Beatrice Ghettuba,Liberal,22.5,Michael Michael,Conservative,45.2
+48031,St. Albert--Edmonton,Darlene Malayko,NDP-New Democratic Party,11.2,Michael Michael,Conservative,45.2
+48031,St. Albert--Edmonton,Andrea Oldham,Green Party,1.4,Michael Michael,Conservative,45.2
+48031,St. Albert--Edmonton,Brent Rathgeber,Independent,19.7,Michael Michael,Conservative,45.2
+48032,Sherwood Park--Fort Saskatchewan,Stephen C. Burry,Libertarian,1.0,Garnett Garnett,Conservative,63.9
+48032,Sherwood Park--Fort Saskatchewan,Joanne Cave,NDP-New Democratic Party,9.8,Garnett Garnett,Conservative,63.9
+48032,Sherwood Park--Fort Saskatchewan,James Ford,Independent,2.3,Garnett Garnett,Conservative,63.9
+48032,Sherwood Park--Fort Saskatchewan,Rod Frank,Liberal,20.4,Garnett Garnett,Conservative,63.9
+48032,Sherwood Park--Fort Saskatchewan,Garnett Genuis,Conservative,63.9,Garnett Garnett,Conservative,63.9
+48032,Sherwood Park--Fort Saskatchewan,Brandie Harrop,Green Party,2.5,Garnett Garnett,Conservative,63.9
+48033,Sturgeon River--Parkland,Rona Ambrose,Conservative,70.2,Rona Rona,Conservative,70.2
+48033,Sturgeon River--Parkland,Ernest Chauvet,Christian Heritage Party,1.1,Rona Rona,Conservative,70.2
+48033,Sturgeon River--Parkland,Guy Desforges,NDP-New Democratic Party,10.0,Rona Rona,Conservative,70.2
+48033,Sturgeon River--Parkland,Travis Dueck,Liberal,15.6,Rona Rona,Conservative,70.2
+48033,Sturgeon River--Parkland,Brendon Greene,Green Party,3.0,Rona Rona,Conservative,70.2
+48034,Yellowhead,Jim Eglinski,Conservative,72.3,Jim Jim,Conservative,72.3
+48034,Yellowhead,Ken Kuzminski,NDP-New Democratic Party,9.0,Jim Jim,Conservative,72.3
+48034,Yellowhead,Cory Lystang,Libertarian,1.6,Jim Jim,Conservative,72.3
+48034,Yellowhead,Ryan Maguhn,Liberal,14.2,Jim Jim,Conservative,72.3
+48034,Yellowhead,Sandra Wolf Lange,Green Party,2.9,Jim Jim,Conservative,72.3
+59001,Abbotsford,Ed Fast,Conservative,48.3,Ed Ed,Conservative,48.3
+59001,Abbotsford,Stephen Fowler,Green Party,5.0,Ed Ed,Conservative,48.3
+59001,Abbotsford,David MacKay,Marxist-Leninist,0.2,Ed Ed,Conservative,48.3
+59001,Abbotsford,Jen Martel,NDP-New Democratic Party,13.7,Ed Ed,Conservative,48.3
+59001,Abbotsford,Peter Njenga,Liberal,32.8,Ed Ed,Conservative,48.3
+59002,Burnaby North--Seymour,Carol Baird Ellan,NDP-New Democratic Party,29.6,Terry Terry,Liberal,36.1
+59002,Burnaby North--Seymour,Terry Beech,Liberal,36.1,Terry Terry,Liberal,36.1
+59002,Burnaby North--Seymour,Helen Hee Soon Chang,Independent,0.4,Terry Terry,Liberal,36.1
+59002,Burnaby North--Seymour,Brent Jantzen,Communist,0.2,Terry Terry,Liberal,36.1
+59002,Burnaby North--Seymour,Mike Little,Conservative,27.8,Terry Terry,Liberal,36.1
+59002,Burnaby North--Seymour,Lynne Quarmby,Green Party,5.3,Terry Terry,Liberal,36.1
+59002,Burnaby North--Seymour,Brian Sproule,Marxist-Leninist,0.1,Terry Terry,Liberal,36.1
+59002,Burnaby North--Seymour,Chris Tylor,Libertarian,0.5,Terry Terry,Liberal,36.1
+59003,Burnaby South,Liz Jaluague,Libertarian,1.1,Kennedy Kennedy,NDP-New Democratic Party,35.1
+59003,Burnaby South,Adam Pankratz,Liberal,33.9,Kennedy Kennedy,NDP-New Democratic Party,35.1
+59003,Burnaby South,Grace Seear,Conservative,27.1,Kennedy Kennedy,NDP-New Democratic Party,35.1
+59003,Burnaby South,Kennedy Stewart,NDP-New Democratic Party,35.1,Kennedy Kennedy,NDP-New Democratic Party,35.1
+59003,Burnaby South,Wyatt Tessari,Green Party,2.8,Kennedy Kennedy,NDP-New Democratic Party,35.1
+59004,Cariboo--Prince George,Tracy Calogheros,Liberal,31.5,Todd Todd,Conservative,36.6
+59004,Cariboo--Prince George,Gordon Campbell,No Affiliation,0.7,Todd Todd,Conservative,36.6
+59004,Cariboo--Prince George,Sheldon Clare,Independent,1.2,Todd Todd,Conservative,36.6
+59004,Cariboo--Prince George,Adam De Kroon,Christian Heritage Party,0.6,Todd Todd,Conservative,36.6
+59004,Cariboo--Prince George,Trent Derrick,NDP-New Democratic Party,25.8,Todd Todd,Conservative,36.6
+59004,Cariboo--Prince George,Todd Doherty,Conservative,36.6,Todd Todd,Conservative,36.6
+59004,Cariboo--Prince George,Richard Edward Jaques,Green Party,3.5,Todd Todd,Conservative,36.6
+59005,Central Okanagan--Similkameen--Nicola,Dan Albas,Conservative,39.6,Dan Dan,Conservative,39.6
+59005,Central Okanagan--Similkameen--Nicola,Robert Mellalieu,Green Party,3.9,Dan Dan,Conservative,39.6
+59005,Central Okanagan--Similkameen--Nicola,Karley Scott,Liberal,37.2,Dan Dan,Conservative,39.6
+59005,Central Okanagan--Similkameen--Nicola,Angelique Wood,NDP-New Democratic Party,19.3,Dan Dan,Conservative,39.6
+59006,Chilliwack--Hope,Thomas Cheney,Green Party,4.7,Mark Mark,Conservative,42.3
+59006,Chilliwack--Hope,Louis De Jaeger,Liberal,33.8,Mark Mark,Conservative,42.3
+59006,Chilliwack--Hope,Alexander Johnson,Libertarian,0.8,Mark Mark,Conservative,42.3
+59006,Chilliwack--Hope,Seonaigh MacPherson,NDP-New Democratic Party,18.2,Mark Mark,Conservative,42.3
+59006,Chilliwack--Hope,Dorothy-Jean O'Donnell,Marxist-Leninist,0.2,Mark Mark,Conservative,42.3
+59006,Chilliwack--Hope,Mark Strahl,Conservative,42.3,Mark Mark,Conservative,42.3
+59007,Cloverdale--Langley City,John Aldag,Liberal,45.5,John John,Liberal,45.5
+59007,Cloverdale--Langley City,Scott Anderson,Green Party,4.1,John John,Liberal,45.5
+59007,Cloverdale--Langley City,Dean Drysdale,Conservative,34.8,John John,Liberal,45.5
+59007,Cloverdale--Langley City,Rebecca Smith,NDP-New Democratic Party,15.7,John John,Liberal,45.5
+59008,Coquitlam--Port Coquitlam,Lewis Clarke Dahlby,Libertarian,1.8,Ron Ron,Liberal,35.3
+59008,Coquitlam--Port Coquitlam,Douglas Horne,Conservative,32.0,Ron Ron,Liberal,35.3
+59008,Coquitlam--Port Coquitlam,Ron McKinnon,Liberal,35.3,Ron Ron,Liberal,35.3
+59008,Coquitlam--Port Coquitlam,Brad Nickason,Green Party,3.7,Ron Ron,Liberal,35.3
+59008,Coquitlam--Port Coquitlam,Sara Norman,NDP-New Democratic Party,27.3,Ron Ron,Liberal,35.3
+59009,Courtenay--Alberni,Barbara Biley,Marxist-Leninist,0.2,Gord Gord,NDP-New Democratic Party,38.1
+59009,Courtenay--Alberni,John Duncan,Conservative,28.2,Gord Gord,NDP-New Democratic Party,38.1
+59009,Courtenay--Alberni,Gord Johns,NDP-New Democratic Party,38.1,Gord Gord,NDP-New Democratic Party,38.1
+59009,Courtenay--Alberni,Carrie Powell-Davidson,Liberal,21.8,Gord Gord,NDP-New Democratic Party,38.1
+59009,Courtenay--Alberni,Glenn Sollitt,Green Party,11.7,Gord Gord,NDP-New Democratic Party,38.1
+59010,Cowichan--Malahat--Langford,Martin Barker,Conservative,22.8,Alistair Alistair,NDP-New Democratic Party,35.9
+59010,Cowichan--Malahat--Langford,Alastair Haythornthwaite,Marxist-Leninist,0.6,Alistair Alistair,NDP-New Democratic Party,35.9
+59010,Cowichan--Malahat--Langford,Fran Hunt-Jinnouchi,Green Party,16.9,Alistair Alistair,NDP-New Democratic Party,35.9
+59010,Cowichan--Malahat--Langford,Luke Krayenhoff,Liberal,23.8,Alistair Alistair,NDP-New Democratic Party,35.9
+59010,Cowichan--Malahat--Langford,Alistair MacGregor,NDP-New Democratic Party,35.9,Alistair Alistair,NDP-New Democratic Party,35.9
+59011,Delta,Anthony Edward Devellano,Green Party,3.2,Carla Carla,Liberal,49.1
+59011,Delta,Kerry-Lynne Findlay,Conservative,32.8,Carla Carla,Liberal,49.1
+59011,Delta,Jeremy Leveque,NDP-New Democratic Party,14.9,Carla Carla,Liberal,49.1
+59011,Delta,Carla Qualtrough,Liberal,49.1,Carla Carla,Liberal,49.1
+59012,Fleetwood--Port Kells,Garry Begg,NDP-New Democratic Party,21.5,Ken Ken,Liberal,46.9
+59012,Fleetwood--Port Kells,Nina Grewal,Conservative,29.3,Ken Ken,Liberal,46.9
+59012,Fleetwood--Port Kells,Ken Hardie,Liberal,46.9,Ken Ken,Liberal,46.9
+59012,Fleetwood--Port Kells,Richard Hosein,Green Party,2.4,Ken Ken,Liberal,46.9
+59013,Kamloops--Thompson--Cariboo,Matthew Greenwood,Green Party,3.6,Cathy Cathy,Conservative,35.3
+59013,Kamloops--Thompson--Cariboo,Cathy McLeod,Conservative,35.3,Cathy Cathy,Conservative,35.3
+59013,Kamloops--Thompson--Cariboo,Steve Powrie,Liberal,30.4,Cathy Cathy,Conservative,35.3
+59013,Kamloops--Thompson--Cariboo,Bill Sundhu,NDP-New Democratic Party,30.8,Cathy Cathy,Conservative,35.3
+59014,Kelowna--Lake Country,Norah Mary Bowman,NDP-New Democratic Party,14.1,Stephen Stephen,Liberal,46.2
+59014,Kelowna--Lake Country,Ron Cannan,Conservative,39.8,Stephen Stephen,Liberal,46.2
+59014,Kelowna--Lake Country,Stephen Fuhr,Liberal,46.2,Stephen Stephen,Liberal,46.2
+59015,Kootenay--Columbia,Bill Green,Green Party,6.5,Wayne Wayne,NDP-New Democratic Party,37.2
+59015,Kootenay--Columbia,Don Johnston,Liberal,19.5,Wayne Wayne,NDP-New Democratic Party,37.2
+59015,Kootenay--Columbia,Wayne Stetski,NDP-New Democratic Party,37.2,Wayne Wayne,NDP-New Democratic Party,37.2
+59015,Kootenay--Columbia,David Wilks,Conservative,36.8,Wayne Wayne,NDP-New Democratic Party,37.2
+59016,Langley--Aldergrove,Simmi Saminder Kaur Dhillon,Green Party,4.4,Mark Mark,Conservative,45.6
+59016,Langley--Aldergrove,Leon Jensen,Liberal,36.6,Mark Mark,Conservative,45.6
+59016,Langley--Aldergrove,Margot Sangster,NDP-New Democratic Party,12.5,Mark Mark,Conservative,45.6
+59016,Langley--Aldergrove,Lauren Southern,Libertarian,0.9,Mark Mark,Conservative,45.6
+59016,Langley--Aldergrove,Mark Warawa,Conservative,45.6,Mark Mark,Conservative,45.6
+59017,Mission--Matsqui--Fraser Canyon,Dennis Adamson,NDP-New Democratic Party,20.5,Jati Jati,Liberal,37.2
+59017,Mission--Matsqui--Fraser Canyon,Arthur Alexander Green,Green Party,5.1,Jati Jati,Liberal,37.2
+59017,Mission--Matsqui--Fraser Canyon,Wyatt Scott,Independent,2.0,Jati Jati,Liberal,37.2
+59017,Mission--Matsqui--Fraser Canyon,Jati Sidhu,Liberal,37.2,Jati Jati,Liberal,37.2
+59017,Mission--Matsqui--Fraser Canyon,Brad Vis,Conservative,34.9,Jati Jati,Liberal,37.2
+59017,Mission--Matsqui--Fraser Canyon,Elaine Wismer,Marxist-Leninist,0.1,Jati Jati,Liberal,37.2
+59018,Nanaimo--Ladysmith,Jack East,Marxist-Leninist,0.2,Sheila Sheila,NDP-New Democratic Party,33.2
+59018,Nanaimo--Ladysmith,Mark Allen MacDonald,Conservative,23.4,Sheila Sheila,NDP-New Democratic Party,33.2
+59018,Nanaimo--Ladysmith,Sheila Malcolmson,NDP-New Democratic Party,33.2,Sheila Sheila,NDP-New Democratic Party,33.2
+59018,Nanaimo--Ladysmith,Paul Manly,Green Party,19.8,Sheila Sheila,NDP-New Democratic Party,33.2
+59018,Nanaimo--Ladysmith,Tim Tessier,Liberal,23.5,Sheila Sheila,NDP-New Democratic Party,33.2
+59019,New Westminster--Burnaby,Rex Brocki,Libertarian,2.6,Peter Peter,NDP-New Democratic Party,43.5
+59019,New Westminster--Burnaby,Chloé Ellis,Conservative,20.0,Peter Peter,NDP-New Democratic Party,43.5
+59019,New Westminster--Burnaby,Peter Julian,NDP-New Democratic Party,43.5,Peter Peter,NDP-New Democratic Party,43.5
+59019,New Westminster--Burnaby,Sasha Ramnarine,Liberal,29.0,Peter Peter,NDP-New Democratic Party,43.5
+59019,New Westminster--Burnaby,Kyle Routledge,Green Party,4.7,Peter Peter,NDP-New Democratic Party,43.5
+59019,New Westminster--Burnaby,Joseph Theriault,Marxist-Leninist,0.3,Peter Peter,NDP-New Democratic Party,43.5
+59020,North Okanagan--Shuswap,Mel Arnold,Conservative,39.3,Mel Mel,Conservative,39.3
+59020,North Okanagan--Shuswap,Cindy Derkaz,Liberal,29.9,Mel Mel,Conservative,39.3
+59020,North Okanagan--Shuswap,Chris George,Green Party,5.2,Mel Mel,Conservative,39.3
+59020,North Okanagan--Shuswap,Jacqui Gingras,NDP-New Democratic Party,25.6,Mel Mel,Conservative,39.3
+59021,North Vancouver,Payam Azad,Independent,0.1,Jonathan Jonathan,Liberal,56.7
+59021,North Vancouver,Claire Martin,Green Party,8.3,Jonathan Jonathan,Liberal,56.7
+59021,North Vancouver,Andrew Saxton,Conservative,26.9,Jonathan Jonathan,Liberal,56.7
+59021,North Vancouver,Carleen Thomas,NDP-New Democratic Party,7.8,Jonathan Jonathan,Liberal,56.7
+59021,North Vancouver,Jonathan Wilkinson,Liberal,56.7,Jonathan Jonathan,Liberal,56.7
+59021,North Vancouver,Ismet Yetisen,Libertarian,0.2,Jonathan Jonathan,Liberal,56.7
+59022,Pitt Meadows--Maple Ridge,Bob D'Eith,NDP-New Democratic Party,29.6,Dan Dan,Liberal,33.9
+59022,Pitt Meadows--Maple Ridge,Mike Murray,Conservative,31.4,Dan Dan,Liberal,33.9
+59022,Pitt Meadows--Maple Ridge,Steve Ranta,Independent,0.9,Dan Dan,Liberal,33.9
+59022,Pitt Meadows--Maple Ridge,Dan Ruimy,Liberal,33.9,Dan Dan,Liberal,33.9
+59022,Pitt Meadows--Maple Ridge,Peter Tam,Green Party,4.2,Dan Dan,Liberal,33.9
+59023,Port Moody--Coquitlam,Jessie Adcock,Liberal,30.9,Fin Fin,NDP-New Democratic Party,36.0
+59023,Port Moody--Coquitlam,Fin Donnelly,NDP-New Democratic Party,36.0,Fin Fin,NDP-New Democratic Party,36.0
+59023,Port Moody--Coquitlam,Tim Laidler,Conservative,29.5,Fin Fin,NDP-New Democratic Party,36.0
+59023,Port Moody--Coquitlam,Marcus Madsen,Green Party,3.4,Fin Fin,NDP-New Democratic Party,36.0
+59023,Port Moody--Coquitlam,Roland Verrier,Marxist-Leninist,0.2,Fin Fin,NDP-New Democratic Party,36.0
+59024,Prince George--Peace River--Northern Rockies,Elizabeth Biggar,Green Party,5.2,Bob Bob,Conservative,52.5
+59024,Prince George--Peace River--Northern Rockies,Barry Blackman,PC Party,0.9,Bob Bob,Conservative,52.5
+59024,Prince George--Peace River--Northern Rockies,Kathi Dickie,NDP-New Democratic Party,15.5,Bob Bob,Conservative,52.5
+59024,Prince George--Peace River--Northern Rockies,W. Todd Keller,Libertarian,1.1,Bob Bob,Conservative,52.5
+59024,Prince George--Peace River--Northern Rockies,Matt Shaw,Liberal,24.9,Bob Bob,Conservative,52.5
+59024,Prince George--Peace River--Northern Rockies,Bob Zimmer,Conservative,52.5,Bob Bob,Conservative,52.5
+59025,Richmond Centre,Vincent Chiu,Green Party,2.9,Alice Alice,Conservative,44.2
+59025,Richmond Centre,Jack Trovato,NDP-New Democratic Party,11.5,Alice Alice,Conservative,44.2
+59025,Richmond Centre,Alice Wong,Conservative,44.2,Alice Alice,Conservative,44.2
+59025,Richmond Centre,Lawrence Woo,Liberal,41.4,Alice Alice,Conservative,44.2
+59026,Esquimalt--Saanich--Sooke,Randall Garrison,NDP-New Democratic Party,35.0,Randall Randall,NDP-New Democratic Party,35.0
+59026,Esquimalt--Saanich--Sooke,Frances Litman,Green Party,19.9,Randall Randall,NDP-New Democratic Party,35.0
+59026,Esquimalt--Saanich--Sooke,Shari Lukens,Conservative,17.5,Randall Randall,NDP-New Democratic Party,35.0
+59026,Esquimalt--Saanich--Sooke,David Merner,Liberal,27.4,Randall Randall,NDP-New Democratic Party,35.0
+59026,Esquimalt--Saanich--Sooke,Tyson Strandlund,Communist,0.2,Randall Randall,NDP-New Democratic Party,35.0
+59027,Saanich--Gulf Islands,Robert Boyd,Conservative,19.5,Elizabeth Elizabeth,Green Party,54.4
+59027,Saanich--Gulf Islands,Alicia Cormier,NDP-New Democratic Party,9.1,Elizabeth Elizabeth,Green Party,54.4
+59027,Saanich--Gulf Islands,Tim Kane,Liberal,16.7,Elizabeth Elizabeth,Green Party,54.4
+59027,Saanich--Gulf Islands,Elizabeth May,Green Party,54.4,Elizabeth Elizabeth,Green Party,54.4
+59027,Saanich--Gulf Islands,Meghan Jess Porter,Libertarian,0.4,Elizabeth Elizabeth,Green Party,54.4
+59028,Skeena--Bulkley Valley,Nathan Cullen,NDP-New Democratic Party,51.1,Nathan Nathan,NDP-New Democratic Party,51.1
+59028,Skeena--Bulkley Valley,Brad Layton,Liberal,18.7,Nathan Nathan,NDP-New Democratic Party,51.1
+59028,Skeena--Bulkley Valley,Tyler Nesbitt,Conservative,24.8,Nathan Nathan,NDP-New Democratic Party,51.1
+59028,Skeena--Bulkley Valley,Jeannie Parnell,Green Party,3.6,Nathan Nathan,NDP-New Democratic Party,51.1
+59028,Skeena--Bulkley Valley,Don Spratt,Christian Heritage Party,1.8,Nathan Nathan,NDP-New Democratic Party,51.1
+59029,South Okanagan--West Kootenay,Richard Cannings,NDP-New Democratic Party,37.3,Richard Richard,NDP-New Democratic Party,37.3
+59029,South Okanagan--West Kootenay,Connie Denesiuk,Liberal,28.1,Richard Richard,NDP-New Democratic Party,37.3
+59029,South Okanagan--West Kootenay,Brian Gray,Independent,0.6,Richard Richard,NDP-New Democratic Party,37.3
+59029,South Okanagan--West Kootenay,Marshall Neufeld,Conservative,29.8,Richard Richard,NDP-New Democratic Party,37.3
+59029,South Okanagan--West Kootenay,Samantha Troy,Green Party,4.2,Richard Richard,NDP-New Democratic Party,37.3
+59030,South Surrey--White Rock,Larry Colero,Green Party,3.4,Dianne Lynn Dianne Lynn,Conservative,44.0
+59030,South Surrey--White Rock,Judy Higginbotham,Liberal,41.5,Dianne Lynn Dianne Lynn,Conservative,44.0
+59030,South Surrey--White Rock,Pixie Hobby,NDP-New Democratic Party,10.4,Dianne Lynn Dianne Lynn,Conservative,44.0
+59030,South Surrey--White Rock,Bonnie Hu,Libertarian,0.5,Dianne Lynn Dianne Lynn,Conservative,44.0
+59030,South Surrey--White Rock,Brian Marlatt,PC Party,0.2,Dianne Lynn Dianne Lynn,Conservative,44.0
+59030,South Surrey--White Rock,Dianne Lynn Watts,Conservative,44.0,Dianne Lynn Dianne Lynn,Conservative,44.0
+59031,Steveston--Richmond East,Kenny Chiu,Conservative,38.5,Joe Joe,Liberal,45.1
+59031,Steveston--Richmond East,Joe Peschisolido,Liberal,45.1,Joe Joe,Liberal,45.1
+59031,Steveston--Richmond East,Laura-Leah Shaw,Green Party,3.7,Joe Joe,Liberal,45.1
+59031,Steveston--Richmond East,Scott Stewart,NDP-New Democratic Party,12.1,Joe Joe,Liberal,45.1
+59031,Steveston--Richmond East,Matthew Swanston,Libertarian,0.6,Joe Joe,Liberal,45.1
+59032,Surrey Centre,Jeremiah Deneault,Green Party,3.5,Randeep Randeep,Liberal,45.1
+59032,Surrey Centre,Iqbal Kahlon,Communist,0.3,Randeep Randeep,Liberal,45.1
+59032,Surrey Centre,Kevin Pielak,Christian Heritage Party,1.3,Randeep Randeep,Liberal,45.1
+59032,Surrey Centre,Jasbir Sandhu,NDP-New Democratic Party,30.1,Randeep Randeep,Liberal,45.1
+59032,Surrey Centre,Randeep Sarai,Liberal,45.1,Randeep Randeep,Liberal,45.1
+59032,Surrey Centre,Sucha Thind,Conservative,19.8,Randeep Randeep,Liberal,45.1
+59033,Surrey--Newton,Sukh Dhaliwal,Liberal,56.0,Sukh Sukh,Liberal,56.0
+59033,Surrey--Newton,Pamela Sangha,Green Party,2.2,Sukh Sukh,Liberal,56.0
+59033,Surrey--Newton,Jinny Sims,NDP-New Democratic Party,26.1,Sukh Sukh,Liberal,56.0
+59033,Surrey--Newton,Harpreet Singh,Conservative,15.7,Sukh Sukh,Liberal,56.0
+59034,Vancouver Centre,Elaine Allan,Conservative,16.9,Hedy Hedy,Liberal,56.1
+59034,Vancouver Centre,Constance Barnes,NDP-New Democratic Party,20.0,Hedy Hedy,Liberal,56.1
+59034,Vancouver Centre,Lisa Barrett,Green Party,5.8,Hedy Hedy,Liberal,56.1
+59034,Vancouver Centre,John Clarke,Libertarian,1.1,Hedy Hedy,Liberal,56.1
+59034,Vancouver Centre,Hedy Fry,Liberal,56.1,Hedy Hedy,Liberal,56.1
+59034,Vancouver Centre,Michael Hill,Marxist-Leninist,0.1,Hedy Hedy,Liberal,56.1
+59035,Vancouver East,Anne Jamieson,Marxist-Leninist,0.4,Jenny Jenny,NDP-New Democratic Party,49.9
+59035,Vancouver East,Jenny Kwan,NDP-New Democratic Party,49.9,Jenny Jenny,NDP-New Democratic Party,49.9
+59035,Vancouver East,James Low,Conservative,10.8,Jenny Jenny,NDP-New Democratic Party,49.9
+59035,Vancouver East,Peter Marcus,Communist,0.9,Jenny Jenny,NDP-New Democratic Party,49.9
+59035,Vancouver East,D. Alex Millar,Independent,0.4,Jenny Jenny,NDP-New Democratic Party,49.9
+59035,Vancouver East,Wes Regan,Green Party,9.2,Jenny Jenny,NDP-New Democratic Party,49.9
+59035,Vancouver East,Shawn Vulliez,Pirate,0.3,Jenny Jenny,NDP-New Democratic Party,49.9
+59035,Vancouver East,Edward Wong,Liberal,28.2,Jenny Jenny,NDP-New Democratic Party,49.9
+59036,Vancouver Granville,Michael Barkusky,Green Party,3.1,Jody Jody,Liberal,43.9
+59036,Vancouver Granville,Erinn Broshko,Conservative,26.1,Jody Jody,Liberal,43.9
+59036,Vancouver Granville,Mira Oreck,NDP-New Democratic Party,26.9,Jody Jody,Liberal,43.9
+59036,Vancouver Granville,Jody Wilson-Raybould,Liberal,43.9,Jody Jody,Liberal,43.9
+59037,North Island--Powell River,Rachel Blaney,NDP-New Democratic Party,40.2,Rachel Rachel,NDP-New Democratic Party,40.2
+59037,North Island--Powell River,Brenda Sayers,Green Party,8.2,Rachel Rachel,NDP-New Democratic Party,40.2
+59037,North Island--Powell River,Peter Schwarzhoff,Liberal,25.5,Rachel Rachel,NDP-New Democratic Party,40.2
+59037,North Island--Powell River,Laura Smith,Conservative,26.2,Rachel Rachel,NDP-New Democratic Party,40.2
+59038,Vancouver Kingsway,Kimball Cariou,Communist,1.0,Don Don,NDP-New Democratic Party,45.7
+59038,Vancouver Kingsway,Don Davies,NDP-New Democratic Party,45.7,Don Don,NDP-New Democratic Party,45.7
+59038,Vancouver Kingsway,Matt Kadioglu,Libertarian,1.0,Don Don,NDP-New Democratic Party,45.7
+59038,Vancouver Kingsway,Steven Kou,Liberal,27.8,Don Don,NDP-New Democratic Party,45.7
+59038,Vancouver Kingsway,Catherine Moore,Green Party,3.3,Don Don,NDP-New Democratic Party,45.7
+59038,Vancouver Kingsway,Donna Petersen,Marxist-Leninist,0.2,Don Don,NDP-New Democratic Party,45.7
+59038,Vancouver Kingsway,Jojo Quimpo,Conservative,21.0,Don Don,NDP-New Democratic Party,45.7
+59039,Vancouver Quadra,Scott Andrews,NDP-New Democratic Party,10.9,Joyce Joyce,Liberal,58.7
+59039,Vancouver Quadra,Marc Boyer,Radical Marijuana,0.1,Joyce Joyce,Liberal,58.7
+59039,Vancouver Quadra,Jean-François Caron,Independent,0.1,Joyce Joyce,Liberal,58.7
+59039,Vancouver Quadra,Kris Constable,Green Party,4.2,Joyce Joyce,Liberal,58.7
+59039,Vancouver Quadra,Blair Lockhart,Conservative,25.8,Joyce Joyce,Liberal,58.7
+59039,Vancouver Quadra,Joyce Murray,Liberal,58.7,Joyce Joyce,Liberal,58.7
+59039,Vancouver Quadra,Trevor Clinton Walper,Pirate,0.2,Joyce Joyce,Liberal,58.7
+59040,Vancouver South,Charles Boylan,Marxist-Leninist,0.4,Harjit S. Harjit S.,Liberal,48.8
+59040,Vancouver South,Raj Gupta,PC Party,0.4,Harjit S. Harjit S.,Liberal,48.8
+59040,Vancouver South,Elain Ng,Green Party,2.6,Harjit S. Harjit S.,Liberal,48.8
+59040,Vancouver South,Amandeep Nijjar,NDP-New Democratic Party,14.0,Harjit S. Harjit S.,Liberal,48.8
+59040,Vancouver South,Harjit S. Sajjan,Liberal,48.8,Harjit S. Harjit S.,Liberal,48.8
+59040,Vancouver South,Wai Young,Conservative,33.9,Harjit S. Harjit S.,Liberal,48.8
+59041,Victoria,Saul Andersen,Independent,0.2,Murray Murray,NDP-New Democratic Party,42.3
+59041,Victoria,Art Lowe,Libertarian,0.7,Murray Murray,NDP-New Democratic Party,42.3
+59041,Victoria,Murray Rankin,NDP-New Democratic Party,42.3,Murray Murray,NDP-New Democratic Party,42.3
+59041,Victoria,Jordan Reichert,Animal Alliance/Environment Voters,0.3,Murray Murray,NDP-New Democratic Party,42.3
+59041,Victoria,John Rizzuti,Conservative,11.8,Murray Murray,NDP-New Democratic Party,42.3
+59041,Victoria,Jo-Ann Roberts,Green Party,32.9,Murray Murray,NDP-New Democratic Party,42.3
+59041,Victoria,Cheryl Thomas,Liberal,11.8,Murray Murray,NDP-New Democratic Party,42.3
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Carol-Lee Chapman,Marxist-Leninist,0.2,Pam Pam,Liberal,54.6
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Pam Goldsmith-Jones,Liberal,54.6,Pam Pam,Liberal,54.6
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Robin Kehler,Radical Marijuana,0.3,Pam Pam,Liberal,54.6
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Larry Koopman,NDP-New Democratic Party,9.9,Pam Pam,Liberal,54.6
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,Ken Melamed,Green Party,8.9,Pam Pam,Liberal,54.6
+59042,West Vancouver--Sunshine Coast--Sea to Sky Country,John Weston,Conservative,26.2,Pam Pam,Liberal,54.6
+60001,Yukon,Melissa Atkinson,NDP-New Democratic Party,19.4,Larry Larry,Liberal,53.7
+60001,Yukon,Larry Bagnell,Liberal,53.7,Larry Larry,Liberal,53.7
+60001,Yukon,Ryan Leef,Conservative,24.3,Larry Larry,Liberal,53.7
+60001,Yukon,Frank de Jong,Green Party,2.6,Larry Larry,Liberal,53.7
+61001,Northwest Territories,Dennis Fraser Bevington,NDP-New Democratic Party,30.5,Michael Michael,Liberal,48.3
+61001,Northwest Territories,Michael McLeod,Liberal,48.3,Michael Michael,Liberal,48.3
+61001,Northwest Territories,John Moore,Green Party,2.8,Michael Michael,Liberal,48.3
+61001,Northwest Territories,Floyd Roland,Conservative,18.3,Michael Michael,Liberal,48.3
+62001,Nunavut,Leona Aglukkaq,Conservative,24.8,Hunter Hunter,Liberal,47.1
+62001,Nunavut,Jack Iyerak Anawak,NDP-New Democratic Party,26.6,Hunter Hunter,Liberal,47.1
+62001,Nunavut,Spencer Rocchi,Green Party,1.5,Hunter Hunter,Liberal,47.1
+62001,Nunavut,Hunter Tootoo,Liberal,47.1,Hunter Hunter,Liberal,47.1
