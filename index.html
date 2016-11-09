@@ -27,13 +27,32 @@
             .attr("width", width + margin)
             .attr("height", height + margin)
             .attr('class', 'seatswon barchart');
-
-        var chart = new dimple.chart(svg, data);
-        // chart.setBounds(60, 30, 510, 305)
+        // debugger;
+        var filteredData = dimple.filterData(data,'Measure','Percent of Seats')
+        var chart = new dimple.chart(svg, filteredData);
         chart.addCategoryAxis("x", "Party");
-        chart.addMeasureAxis("y", "Percent of Seats");
+        chart.addMeasureAxis("y", "Value");
         chart.addSeries(null, dimple.plot.bar);
-        chart.draw();
+        chart.draw(500);
+
+        function clear_chart(chart){
+              // chart.series.forEach(function(series){
+              //                     series.shapes.remove();})
+              chart.svg.selectAll('*').remove();
+        };
+        function step2(chart){
+              clear_chart(chart)
+              var filteredData = dimple.filterData(data,'Measure',['Percent of Seats','Percent of Votes'])
+
+              var chart = new dimple.chart(svg, filteredData);
+              chart.addCategoryAxis("x", ["Party",'Measure']);
+              chart.addMeasureAxis("y", "Value");
+              chart.addSeries('Measure', dimple.plot.bar);
+              chart.draw(500);
+        };
+        window.setTimeout(function(){step2(chart);},3000);
+
+
      };   
       </script>
   </head>
