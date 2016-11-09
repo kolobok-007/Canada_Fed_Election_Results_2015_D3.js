@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.1.6.min.js"></script>
+  <style type="text/css">
+    circle.dimple-series-1{
+        fill: red;
+    }
+    h2 {
+      text-align: center;
+      font-family: Verdana, sans-serif;
+      color:#069;
+    }
+  </style>
+    <script type="text/javascript">
+      function draw(data) {
+        var margin = 75,
+          width = 1400 - margin,
+          height = 600 - margin;
+
+        var barWidth = width / data.length;
+
+        var svg = d3.select("body")
+            .append("svg")
+            .attr("width", width + margin)
+            .attr("height", height + margin)
+            .attr('class', 'seatswon barchart');
+
+        var chart = new dimple.chart(svg, data);
+        // chart.setBounds(60, 30, 510, 305)
+        chart.addCategoryAxis("x", "Party");
+        chart.addMeasureAxis("y", "Percent of Seats");
+        chart.addSeries(null, dimple.plot.bar);
+        chart.draw();
+     };   
+      </script>
+  </head>
+<body>
+  <script type="text/javascript">
+  /*
+    Use D3 (not dimple.js) to load the TSV file
+    and pass the contents of it to the draw function
+    */
+
+
+  d3.csv("/data/summary.csv", draw);
+
+
+  </script>
+</body>
+</html>
