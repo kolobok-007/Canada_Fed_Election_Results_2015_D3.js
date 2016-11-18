@@ -23,35 +23,37 @@
   </style>
     <script type="text/javascript">
       function draw(data) {
+        //Variable declaration
         var margin = 75,
           width = 1400 - margin,
           height = 600 - margin,
           padding =20,
           narrative_start=height/2,
           paragraph_space=50,
-          text_delay=3000;
+          text_delay=6000;
 
         var barWidth = width / data.length;
 
+        //Initializing svg
         var svg = d3.select("body")
             .append("svg")
             .attr("width", width + margin)
             .attr("height", height + margin)
             .attr('class', 'seatswon barchart');
         
-
+        //Narrative
         svg.append("text")
             .attr('class','narrative')
             .attr('x',margin)
             .attr('y',narrative_start)
-            // .attr('textLength',width-margin)
             .text('Canada has represenative democracy using first-past-the-post system.');
 
         // debugger;
 
+        //Delay next line of text
+        window.setTimeout(function(){update_narrative();},text_delay-2000);
 
-        window.setTimeout(function(){update_narrative();},text_delay);
-
+        //Function for writing next line of text
         function update_narrative(){
             svg.select("text")
                 .append('tspan')
@@ -63,19 +65,27 @@
 
         };
         
+        //Function for writing 3rd line of text
         function update_narrative2(){
             svg.select("text")
                 .append('tspan')
                 .attr('x',margin)
                 .attr('y',narrative_start+paragraph_space*2)
                 .text("This means that parliament is rarely composed proportionally to the way people have voted. Smaller parties are especially affected by this.");
+
+            //Filter to Percent of Seats and initiate dimple chart
             var filteredData = dimple.filterData(data,'Measure','Percent of Seats');
             var chart = new dimple.chart(svg, filteredData);
+
             window.setTimeout(function(){draw_first_bargraph(chart);},text_delay);
         };
 
+        //Function to draw 1st bar chart
         function draw_first_bargraph(chart){
+            //Clear narrative
             svg.select('.narrative').text('');
+
+            //Draw graph
             chart.addCategoryAxis("x", "Party");
             chart.addMeasureAxis("y", "Value");
             chart.addSeries(null, dimple.plot.bar);
@@ -89,36 +99,27 @@
               .attr('y',30)
               .text('Perecentage of Seats Won per Political Party');
 
-            //Legend
-            // svg.append('rect')
-            //     .attr('class','legend')
-            //     .attr('x',width-(width-margin)/3)
-            //     .attr('y',padding+margin)
-            //     .attr('width',+(width-margin)/3-padding)
-            //     .attr('height',+(height-margin)/3-padding)
-            //     .attr('fill','white');
-
+            //Explanation for the graph
             svg.append('text')
               .attr('x',(width-margin)/3)
               .attr('y',padding+margin)
               .attr('class','legend legend-text narrative')
-              .text('Liberal party has won 54% of seats. With majority of seats Liberal party has 100% of power.');
+              .text('Liberal party has won 54% of seats.');
 
             format_bar_chart();
-
-            // debugger;
-            window.setTimeout(function(){step2(chart);},3000);
+            // Might be able to animation using storyboard by creating a new column in data
+            window.setTimeout(function(){step2(chart);},10000);
         };
 
-
+        //Function to clear the chart
         function clear_chart(chart){
-              // chart.series.forEach(function(series){
-              //                     series.shapes.remove();})
               chart.svg.selectAll('*').remove();
         };
+
+        //Function to draw 2nd bar chart
         function step2(chart){
               clear_chart(chart);
-              // debugger;
+
               var filteredData = dimple.filterData(data,'Measure',['Percent of Seats','Percent of Votes']);
 
               var chart = new dimple.chart(svg, filteredData);
@@ -134,15 +135,16 @@
               .attr('y',30)
               .text('Perecentage of Seats Won vs Percent of Votes per Political Party');
 
+            //Explanation of the graph
             svg.append('text')
               .attr('x',(width-margin)/3)
               .attr('y',padding+margin)
               .attr('class','legend legend-text narrative')
-              .text("Lighter colour represents percent of votes. Percent of votes doesn't corresond to percentage of seats.");
+              .text("Lighter colour represents percent of votes. Darker colour represents percent of seats won.");
 
               format_bar_chart();
         };
-        
+        // Function to format bar charts
         function format_bar_chart(){
             d3.selectAll('.dimple-liberal')
               .attr('style','fill: #e74c3c');
@@ -173,14 +175,9 @@
   </head>
 <body>
   <script type="text/javascript">
-  /*
-    Use D3 (not dimple.js) to load the TSV file
-    and pass the contents of it to the draw function
-    */
 
-
-  d3.csv("/data/summary.csv", draw);
-
+    // Load data and start draw function
+    d3.csv("data/summary.csv", draw);
 
   </script>
 </body>
