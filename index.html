@@ -8,14 +8,15 @@
     .narrative {
       text-align: left;
       font-family: Verdana, sans-serif;
-      color:#069;
+      color:#595857;
+      fill:#595857;
       word-wrap: normal;
       white-space: normal;
     }
     .title {
       text-align: left;
       font-family: Verdana, sans-serif;
-      color:#069;
+      fill:#595857;
       word-wrap: normal;
       white-space: normal;
       font-size: 20px;
@@ -28,146 +29,86 @@
           width = 1400 - margin,
           height = 600 - margin,
           padding =20,
-          narrative_start=height/2,
+          narrative_start=height+margin+padding,
           paragraph_space=50,
           text_delay=6000;
 
         var barWidth = width / data.length;
 
         //Initializing svg
-        var svg = d3.select("body")
-            .append("svg")
+        var body = d3.select('body');
+
+        var svg = body.append("svg")
             .attr("width", width + margin)
             .attr("height", height + margin)
-            .attr('class', 'seatswon barchart');
+            .attr('class', 'seatswon barchart');      
         
         //Narrative
-        svg.append("text")
+        body.append("text")
             .attr('class','narrative')
             .attr('x',margin)
             .attr('y',narrative_start)
-            .text('Canada has represenative democracy using first-past-the-post system.');
+            .text('Canada has represenative democracy using first-past-the-post system.')
+            .append('tspan')
+            .text('Residents vote for a represenative for their district. The candidate with the most votes wins. Loosers do not get any represenatives.')
+            .append('tspan')
+            .text("This means that parliament is rarely composed proportionally to the way people have voted. Smaller parties are especially affected by this.")
+            .append('tspan')
+            .text("Party that wins majority of seats has esentially all of the power over the government.");
 
-        // debugger;
+        //Filter to Percent of Seats and initiate dimple chart
+        var filteredData = dimple.filterData(data,'Measure','Percent of Seats');
+        var chart = new dimple.chart(svg, filteredData);
 
-        //Delay next line of text
-        window.setTimeout(function(){update_narrative();},text_delay-2000);
+        //Draw the bar chart
+        var filteredData = dimple.filterData(data,'Measure',['Percent of Seats','Percent of Votes']);
 
-        //Function for writing next line of text
-        function update_narrative(){
-            svg.select("text")
-                .append('tspan')
-                .attr('x',margin)
-                .attr('y',narrative_start+paragraph_space)
-                .text('Residents vote for a represenative for their district. The candidate with the most votes wins. Loosers do not get any represenatives.');
-            
-            window.setTimeout(function(){update_narrative2();},text_delay);
+        var chart = new dimple.chart(svg, filteredData);
+        chart.addCategoryAxis("x", ["Party",'Measure']);
+        chart.addMeasureAxis("y", "Value");
+        chart.addSeries('Measure', dimple.plot.bar);
+        chart.draw(500);
 
-        };
-        
-        //Function for writing 3rd line of text
-        function update_narrative2(){
-            svg.select("text")
-                .append('tspan')
-                .attr('x',margin)
-                .attr('y',narrative_start+paragraph_space*2)
-                .text("This means that parliament is rarely composed proportionally to the way people have voted. Smaller parties are especially affected by this.");
+      //Title
+        svg.append('text')
+          .attr('class','title')
+          .attr('x',margin)
+          .attr('y',30)
+          .text('Perecentage of Seats Won vs Percent of Votes per Political Party');
 
-            //Filter to Percent of Seats and initiate dimple chart
-            var filteredData = dimple.filterData(data,'Measure','Percent of Seats');
-            var chart = new dimple.chart(svg, filteredData);
+        //Explanation of the graph
+        svg.append('text')
+          .attr('x',(width-margin)/3)
+          .attr('y',padding+margin)
+          .attr('class','legend legend-text narrative')
+          .text("Lighter colour represents percent of votes. Darker colour represents percent of seats won.");
 
-            window.setTimeout(function(){draw_first_bargraph(chart);},text_delay);
-        };
+          format_bar_chart();
 
-        //Function to draw 1st bar chart
-        function draw_first_bargraph(chart){
-            //Clear narrative
-            svg.select('.narrative').text('');
-
-            //Draw graph
-            chart.addCategoryAxis("x", "Party");
-            chart.addMeasureAxis("y", "Value");
-            chart.addSeries(null, dimple.plot.bar);
-            // chart.ease = "bounce";
-            chart.draw(500);
-
-            //Title
-            svg.append('text')
-              .attr('class','title')
-              .attr('x',margin)
-              .attr('y',30)
-              .text('Perecentage of Seats Won per Political Party');
-
-            //Explanation for the graph
-            svg.append('text')
-              .attr('x',(width-margin)/3)
-              .attr('y',padding+margin)
-              .attr('class','legend legend-text narrative')
-              .text('Liberal party has won 54% of seats.');
-
-            format_bar_chart();
-            // Might be able to animation using storyboard by creating a new column in data
-            window.setTimeout(function(){step2(chart);},10000);
-        };
-
-        //Function to clear the chart
-        function clear_chart(chart){
-              chart.svg.selectAll('*').remove();
-        };
-
-        //Function to draw 2nd bar chart
-        function step2(chart){
-              clear_chart(chart);
-
-              var filteredData = dimple.filterData(data,'Measure',['Percent of Seats','Percent of Votes']);
-
-              var chart = new dimple.chart(svg, filteredData);
-              chart.addCategoryAxis("x", ["Party",'Measure']);
-              chart.addMeasureAxis("y", "Value");
-              chart.addSeries('Measure', dimple.plot.bar);
-              chart.draw(500);
-
-            //Title
-            svg.append('text')
-              .attr('class','title')
-              .attr('x',margin)
-              .attr('y',30)
-              .text('Perecentage of Seats Won vs Percent of Votes per Political Party');
-
-            //Explanation of the graph
-            svg.append('text')
-              .attr('x',(width-margin)/3)
-              .attr('y',padding+margin)
-              .attr('class','legend legend-text narrative')
-              .text("Lighter colour represents percent of votes. Darker colour represents percent of seats won.");
-
-              format_bar_chart();
-        };
-        // Function to format bar charts
-        function format_bar_chart(){
-            d3.selectAll('.dimple-liberal')
-              .attr('style','fill: #e74c3c');
-            d3.selectAll('.dimple-conservative')
-              .attr('style','fill: #3498db');
-            d3.selectAll('.dimple-ndp-new-democratic-party')
-              .attr('style','fill: #e67e22');
-            d3.selectAll('.dimple-bloc-qu-b-cois')
-              .attr('style','fill: #093c71');
-            d3.selectAll('.dimple-green-party')
-              .attr('style','fill: #3d9b35');
-            d3.selectAll('.dimple-all-other-parties')
-              .attr('style','fill: #95a5a6');
-            d3.selectAll('.dimple-custom-series-bar')
-              .attr('opacity',0.9);
-            d3.selectAll('.dimple-custom-series-bar.dimple-percent-of-votes')
-              .attr('opacity',0.5);
-            d3.select('.dimple-custom-axis-title.dimple-axis-y')
-              .text('Percent');
-            d3.select('.dimple-custom-axis-title.dimple-axis-x')
-              .text('Political Party');
-            d3.selectAll('.dimple-custom-gridline')
-              .remove();
+          // Function to format bar charts
+          function format_bar_chart(){
+              d3.selectAll('.dimple-liberal')
+                .attr('style','fill: #e74c3c');
+              d3.selectAll('.dimple-conservative')
+                .attr('style','fill: #3498db');
+              d3.selectAll('.dimple-ndp-new-democratic-party')
+                .attr('style','fill: #e67e22');
+              d3.selectAll('.dimple-bloc-qu-b-cois')
+                .attr('style','fill: #093c71');
+              d3.selectAll('.dimple-green-party')
+                .attr('style','fill: #3d9b35');
+              d3.selectAll('.dimple-all-other-parties')
+                .attr('style','fill: #95a5a6');
+              d3.selectAll('.dimple-custom-series-bar')
+                .attr('opacity',0.9);
+              d3.selectAll('.dimple-custom-series-bar.dimple-percent-of-votes')
+                .attr('opacity',0.5);
+              d3.select('.dimple-custom-axis-title.dimple-axis-y')
+                .text('Percent');
+              d3.select('.dimple-custom-axis-title.dimple-axis-x')
+                .text('Political Party');
+              d3.selectAll('.dimple-custom-gridline')
+                .remove();
         };
 
      };   
