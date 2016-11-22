@@ -12,6 +12,16 @@
       fill:#595857;
       word-wrap: normal;
       white-space: normal;
+      font-size: 12px;
+    }
+    .legend {
+      text-align: left;
+      font-family: Verdana, sans-serif;
+      color:#595857;
+      fill:#595857;
+      word-wrap: normal;
+      white-space: normal;
+      font-size: 14px;
     }
     .title {
       text-align: left;
@@ -48,13 +58,13 @@
             .attr('class','narrative')
             .attr('x',margin)
             .attr('y',narrative_start)
-            .text('Canada has represenative democracy using first-past-the-post system.')
+            .text('Canada has represenative democracy using first-past-the-post system. ')
             .append('tspan')
-            .text('Residents vote for a represenative for their district. The candidate with the most votes wins. Loosers do not get any represenatives.')
+            .text('Residents vote for a represenative for their district. The candidate with the most votes wins. Loosers do not get any represenatives. ')
             .append('tspan')
-            .text("This means that parliament is rarely composed proportionally to the way people have voted. Smaller parties are especially affected by this.")
+            .text("This means that parliament is rarely composed proportionally to the way people have voted. Smaller parties are especially affected by this. ")
             .append('tspan')
-            .text("Party that wins majority of seats has esentially all of the power over the government.");
+            .text("Party that wins majority of seats has esentially all of the power over the government. ");
 
         //Filter to Percent of Seats and initiate dimple chart
         var filteredData = dimple.filterData(data,'Measure','Percent of Seats');
@@ -83,6 +93,7 @@
           .attr('class','legend legend-text narrative')
           .text("Lighter colour represents percent of votes. Darker colour represents percent of seats won.");
 
+
           format_bar_chart();
 
           // Function to format bar charts
@@ -109,6 +120,10 @@
                 .text('Political Party');
               d3.selectAll('.dimple-custom-gridline')
                 .remove();
+              d3.selectAll('.dimple-custom-axis-label')
+                .style('font-size','12px');
+              d3.selectAll('.dimple-custom-axis-title')
+                .style('font-size','12px')
         };
 
      };   

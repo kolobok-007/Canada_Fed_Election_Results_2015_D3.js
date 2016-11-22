@@ -25,6 +25,9 @@ The main takeway will be that "liberal" and "conservative" are the two major pla
 
 There is a lack of way to change between the two different graphs.
 
+###Second feedback:
+The axis labels are too small. They are a bit difficult to read. Also, the description is bigger than the labels; it makes the graph look inconsistent.
+
 ##Resources
 http://dimplejs.org/
 
