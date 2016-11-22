@@ -1,4 +1,4 @@
-# Canada_Fed_Election_Results_2015
+#Canada Fed Election Results 2015
 ##Summary
 The visualization compares the discrepency between percentage of votes and percentage of seats won in the latest Canadian federal election. Data was collected form Elections Canada website.
 
@@ -12,6 +12,12 @@ The second graph adds a new bar for each political bar. This new bar represents 
 Since the second graph encompases data that is shown on the first graph, I've eliminated the first graph.
 
 Moved the explanation text to the bottom of the bar graph.
+
+###Second feedback update:
+Changed the font size of the labels and paragraph text.
+
+###Third feedback update:
+Changed the position of the text paragraph so it doesn't start right at the edge of the screen.
 
 ##Feedback
 ###First feedback:
@@ -27,6 +33,9 @@ There is a lack of way to change between the two different graphs.
 
 ###Second feedback:
 The axis labels are too small. They are a bit difficult to read. Also, the description is bigger than the labels; it makes the graph look inconsistent.
+
+###Third feedback:
+The description paragraph starts too closely to the left. 
 
 ##Resources
 http://dimplejs.org/

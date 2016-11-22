@@ -40,8 +40,6 @@
           height = 600 - margin,
           padding =20,
           narrative_start=height+margin+padding,
-          paragraph_space=50,
-          text_delay=6000;
 
         var barWidth = width / data.length;
 
@@ -54,10 +52,9 @@
             .attr('class', 'seatswon barchart');      
         
         //Narrative
-        body.append("text")
+        body.append("div")
             .attr('class','narrative')
-            .attr('x',margin)
-            .attr('y',narrative_start)
+            .attr('style','position: absolute;left:'+margin+'px;top:'+narrative_start+'px;width:'+(width-100)+'px;')
             .text('Canada has represenative democracy using first-past-the-post system. ')
             .append('tspan')
             .text('Residents vote for a represenative for their district. The candidate with the most votes wins. Loosers do not get any represenatives. ')
